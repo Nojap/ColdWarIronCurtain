@@ -49,7 +49,7 @@
  auto_cannon_equipment:0 "AA Cannon"
  auto_cannon_equipment_desc:0 "Anti Air Auto-Cannon"
  direct_fire_gun_equipment:0 "AT Gun"
- direct_fire_gun_equipment_desc:0 "Anti Tank Gun" 
+ direct_fire_gun_equipment_desc:0 "Anti Tank Gun"
  mechanized_equipment:0 "L-Mech"
  mechanized_equipment_desc:0 "Light Mechanized"
  mechanized_heavy_equipment:0 "H-Mech"
@@ -57,11 +57,11 @@
  mechanized_marine_equipment:0 "AAV"
  mechanized_marine_equipment_desc:0 "Amphibious Assault Vehicle"
  artillery_equipment:0 "Artillery"
- sp_artillery_equipment:0 "SP Artillery" 
+ sp_artillery_equipment:0 "SP Artillery"
  light_artillery_equipment:0 "Light Artillery"
- light_sp_artillery_equipment:0 "Light SP Artillery" 
+ light_sp_artillery_equipment:0 "Light SP Artillery"
  heavy_artillery_equipment:0 "Heavy Artillery"
- heavy_sp_artillery_equipment:0 "Heavy SP Artillery" 
+ heavy_sp_artillery_equipment:0 "Heavy SP Artillery"
  EQUIPMENT_DESIGNER_DESC:0 "Designed by: $DESIGNER|Y$"
  EQUIPMENT_ARMOR:0 "Armor"
  EQUIPMENT_MOTORIZED:0 "Utility Vehicle"
@@ -84,11 +84,11 @@
  EQUIPMENT_SUPPORT:0 "Support"
  EQUIPMENT_AUTO_CANNON:0 "Anti-Air"
  EQUIPMENT_ARTILLERY:0 "Artillery"
- EQUIPMENT_SP_ARTILLERY:0 "SP Artillery" 
+ EQUIPMENT_SP_ARTILLERY:0 "SP Artillery"
  EQUIPMENT_HEAVY_ARTILLERY:0 "Heavy Artillery"
- EQUIPMENT_LIGHT_ARTILLERY:0 "Light Artillery" 
+ EQUIPMENT_LIGHT_ARTILLERY:0 "Light Artillery"
  EQUIPMENT_HEAVY_SP_ARTILLERY:0 "Heavy SP Artillery"
- EQUIPMENT_LIGHT_SP_ARTILLERY:0 "Light SP Artillery" 
+ EQUIPMENT_LIGHT_SP_ARTILLERY:0 "Light SP Artillery"
  EQUIPMENT_DIRECT_FIRE_GUN:0 "Anti-Tank"
  EQUIPMENT_CHIKET:0 "Rocket"
  EQUIPMENT_MISSILE:0 "Guided Missile"
@@ -140,7 +140,7 @@
  ROM_EQUIPMENT_VERSION_14:0 "N"
  ROM_EQUIPMENT_VERSION_15:0 "O"
  ROM_EQUIPMENT_VERSION_16:0 "P"
- 
+
  CHI_EQUIPMENT_VERSION_1:0 "A"
  CHI_EQUIPMENT_VERSION_2:0 "B"
  CHI_EQUIPMENT_VERSION_3:0 "C"
@@ -157,7 +157,7 @@
  CHI_EQUIPMENT_VERSION_14:0 "N"
  CHI_EQUIPMENT_VERSION_15:0 "O"
  CHI_EQUIPMENT_VERSION_16:0 "P"
- 
+
  SOV_EQUIPMENT_VERSION_1:0 "A"
  SOV_EQUIPMENT_VERSION_2:0 "AM1"
  SOV_EQUIPMENT_VERSION_3:0 "AM2"
@@ -174,7 +174,7 @@
  SOV_EQUIPMENT_VERSION_14:0 "D-1"
  SOV_EQUIPMENT_VERSION_15:0 "D-2"
  SOV_EQUIPMENT_VERSION_16:0 "DM"
- 
+
  USA_EQUIPMENT_VERSION_1:0 "A1"
  USA_EQUIPMENT_VERSION_2:0 "A2"
  USA_EQUIPMENT_VERSION_3:0 "A3"
@@ -188,7 +188,7 @@
  USA_EQUIPMENT_VERSION_11:0 "A9A2"
  USA_EQUIPMENT_VERSION_12:0 "A9A3"
  USA_EQUIPMENT_VERSION_13:0 "A9A4"
- 
+
  ENG_EQUIPMENT_VERSION_1:0 "Mk. I"
  ENG_EQUIPMENT_VERSION_2:0 "Mk. II"
  ENG_EQUIPMENT_VERSION_3:0 "Mk. III"
@@ -202,7 +202,7 @@
  ENG_EQUIPMENT_VERSION_11:0 "Mk. XI"
  ENG_EQUIPMENT_VERSION_12:0 "Mk. XII"
  ENG_EQUIPMENT_VERSION_13:0 "Mk. XIII"
- 
+
  CAN_EQUIPMENT_VERSION_1:0 "Mk. I"
  CAN_EQUIPMENT_VERSION_2:0 "Mk. II"
  CAN_EQUIPMENT_VERSION_3:0 "Mk. III"
@@ -216,7 +216,7 @@
  CAN_EQUIPMENT_VERSION_11:0 "Mk. XI"
  CAN_EQUIPMENT_VERSION_12:0 "Mk. XII"
  CAN_EQUIPMENT_VERSION_13:0 "Mk. XIII"
- 
+
  AST_EQUIPMENT_VERSION_1:0 "Mk. I"
  AST_EQUIPMENT_VERSION_2:0 "Mk. II"
  AST_EQUIPMENT_VERSION_3:0 "Mk. III"
@@ -230,7 +230,7 @@
  AST_EQUIPMENT_VERSION_11:0 "Mk. XI"
  AST_EQUIPMENT_VERSION_12:0 "Mk. XII"
  AST_EQUIPMENT_VERSION_13:0 "Mk. XIII"
- 
+
  NZL_EQUIPMENT_VERSION_1:0 "Mk. I"
  NZL_EQUIPMENT_VERSION_2:0 "Mk. II"
  NZL_EQUIPMENT_VERSION_3:0 "Mk. III"
@@ -272,7 +272,7 @@
  RAJ_EQUIPMENT_VERSION_11:0 "Mk. XI"
  RAJ_EQUIPMENT_VERSION_13:0 "Mk. XIII"
  RAJ_EQUIPMENT_VERSION_12:0 "Mk. XII"
- 
+
  FRA_EQUIPMENT_VERSION_1:0 "Série A"
  FRA_EQUIPMENT_VERSION_2:0 "Série B"
  FRA_EQUIPMENT_VERSION_3:0 "Série C"
@@ -286,7 +286,7 @@
  FRA_EQUIPMENT_VERSION_11:0 "Série K"
  FRA_EQUIPMENT_VERSION_12:0 "Série L"
  FRA_EQUIPMENT_VERSION_13:0 "Série M"
- 
+
  ITA_EQUIPMENT_VERSION_1:0 "I Serie"
  ITA_EQUIPMENT_VERSION_2:0 "II Serie"
  ITA_EQUIPMENT_VERSION_3:0 "III Serie"
@@ -300,7 +300,7 @@
  ITA_EQUIPMENT_VERSION_11:0 "XI Serie"
  ITA_EQUIPMENT_VERSION_12:0 "XII Serie"
  ITA_EQUIPMENT_VERSION_13:0 "XIII Serie"
- 
+
  SWE_EQUIPMENT_VERSION_1:0 "S I"
  SWE_EQUIPMENT_VERSION_2:0 "S II"
  SWE_EQUIPMENT_VERSION_3:0 "S III"
@@ -314,15 +314,15 @@
  SWE_EQUIPMENT_VERSION_11:0 "S XI"
  SWE_EQUIPMENT_VERSION_12:0 "S XII"
  SWE_EQUIPMENT_VERSION_13:0 "S XIII"
- 
+
  ###SP FORCES###
- 
+
  special_operations:0 "Special Operations"
  special_operations_short:0 "Special Operations"
  special_operations_desc:0 ""
- 
+
  ###DESERT
- 
+
  desert_warfare_1:0 "Desert Warfare Tactics"
  desert_warfare_1_short:0 "Desert Warfare Tactics"
  desert_warfare_1_desc:0 ""
@@ -337,7 +337,7 @@
  desert_warfare_4_desc:0 ""
 
  ###LAND
- 
+
  army_sp_forces_1:0 "Army Special Forces"
  army_sp_forces_1_short:0 "Army Special Forces"
  army_sp_forces_1_desc:0 ""
@@ -359,9 +359,9 @@
  army_sp_forces_7:0 "Counter-Terrorism Tactics"
  army_sp_forces_7_short:0 "Counter-Terrorism Tactics"
  army_sp_forces_7_desc:0 ""
- 
+
  ###MOUNTAIN
- 
+
  mountain_warfare_1:0 "Mountain warfare"
  mountain_warfare_1_short:0 "Mountain warfare"
  mountain_warfare_1_desc:0 ""
@@ -380,9 +380,9 @@
  mountain_warfare_6:0 "Modern Mountain warfare Equipment/Tactics"
  mountain_warfare_6_short:0 "Modern Mountain warfare Equipment/Tactics"
  mountain_warfare_6_desc:0 ""
- 
+
  ###AMPHIBIOUS WARFARE
- 
+
  amphibious_warfare_1:0 "Amphibious warfare"
  amphibious_warfare_1_short:0 "Amphibious warfare"
  amphibious_warfare_1_desc:0 ""
@@ -401,9 +401,9 @@
  amphibious_warfare_6:0 "Modern Large scale invasion Tacticse"
  amphibious_warfare_6_short:0 "Modern Large scale invasion Tactics"
  amphibious_warfare_6_desc:0 ""
- 
+
  ###LC
- 
+
  landing_craft_1:0 "Landing Craft Assault"
  landing_craft_1_short:0 "LCA"
  landing_craft_1_desc:0 ""
@@ -422,9 +422,9 @@
  landing_craft_6:0 "Air-cushioned landing craft III"
  landing_craft_6_short:0 "LCAC III"
  landing_craft_6_desc:0 ""
- 
- ##FROGMEN	
- 
+
+ ##FROGMEN
+
  combat_divers_1:0 "Stealth Amphibious Infiltration Tactics"
  combat_divers_1_short:0 "Stealth Amphibious Infiltration Tactics"
  combat_divers_1_desc:0 ""
@@ -443,9 +443,9 @@
  combat_divers_6:0 "Modern Amphibious Infiltration Tactics"
  combat_divers_6_short:0 "Modern Amphibious Infiltration Tactics"
  combat_divers_6_desc:0 ""
- 
- ##AIRBORNE	
- 
+
+ ##AIRBORNE
+
  airborne_operations_1:0 "Airborne Assault Operations"
  airborne_operations_1_short:0 "Airborne Assault Operations"
  airborne_operations_1_desc:0 ""
@@ -464,9 +464,9 @@
  airborne_operations_6:0 "Modern Vertical Envelopment Tactics"
  airborne_operations_6_short:0 "Modern Vertical Envelopment Tactics"
  airborne_operations_6_desc:0 ""
- 
- ##AIR ASSAULT	
- 
+
+ ##AIR ASSAULT
+
  air_assault_operations_1:0 "Air assault operations"
  air_assault_operations_1_short:0 "Air assault operations"
  air_assault_operations_1_desc:0 ""
@@ -476,9 +476,9 @@
  air_assault_operations_3:0 "Advanced air assault operations"
  air_assault_operations_3_short:0 "Advanced air assault operations"
  air_assault_operations_3_desc:0 ""
- 
- ##COVERT	
- 
+
+ ##COVERT
+
  cover_air_operations_1:0 "Covert deep reconnaissence tactics"
  cover_air_operations_1_short:0 "Covert deep reconnaissence tactics"
  cover_air_operations_1_desc:0 ""
@@ -494,9 +494,9 @@
  cover_air_operations_5:0 "Modern Combat search and rescue"
  cover_air_operations_5_short:0 "CSAR II"
  cover_air_operations_5_desc:0 ""
- 
- ##Tactics-Training	
- 
+
+ ##Tactics-Training
+
  sf_tactics_training_1:0 "Advanced Training & Tactics"
  sf_tactics_training_1_short:0 "Advanced Training & Tactics"
  sf_tactics_training_1_desc:0 ""
@@ -506,7 +506,7 @@
  sf_tactics_training_3:0 "Special Forces Advanced Urban Combat Training"
  sf_tactics_training_3_short:0 "SFAUC Training"
  sf_tactics_training_3_desc:0 ""
- 
+
  b_commando_1:0 "Special Forces Improved Skills Training"
  b_commando_1_short:0 "Special Forces Improved Skills Training"
  b_commando_1_desc:0 ""
@@ -519,7 +519,7 @@
  b_commando_4:0 "Technical intelligence Training"
  b_commando_4_short:0 "TECHINT Training"
  b_commando_4_desc:0 ""
- 
+
  i_infantry_1:0 "Expanded Special Forces Recruitment Program"
  i_infantry_1_short:0 "Expanded Special Forces Recruitment Program"
  i_infantry_1_desc:0 ""
@@ -532,7 +532,7 @@
  i_infantry_4:0 "Short Special Forces Training Program"
  i_infantry_4_short:0 "Short Special Forces Training Program"
  i_infantry_4_desc:0 ""
- 
+
  artillery_equipment:0 "Towed Artillery"
  artillery_equipment_short:0 "Artillery"
  artillery_equipment_desc:0 "Equipment used to fire munitions far beyond the range and power of infantry's small arms."
@@ -640,9 +640,9 @@
  guided_missile_equipment_3:0 "Advanced Guided Missile"
  guided_missile_equipment_3_short:0 "Guided Missile III"
  guided_missile_equipment_3_desc:0 "Best unmanned flying bomb"
- 
+
  ########## NEW ARMOR
- 
+
  lt_equipment_1:0 "Light Tank I"
  lt_equipment_1_short:0 "Light Tank I"
  lt_equipment_1_desc:0 ""
@@ -677,7 +677,7 @@
  ht_equipment_5:0 "Heavy Tank V"
  ht_equipment_5_short:0 "Heavy Tank V"
  ht_equipment_5_desc:0 ""
- 
+
  mbt_equipment_0:0 "Basic medium tank"
  mbt_equipment_0_short:0 "WW tank 1"
  mbt_equipment_0_desc:0 ""
@@ -739,7 +739,7 @@
  mechanized_equipment_10:0 "Light Mechanized VIII"
  mechanized_equipment_10_short:0 "L-Mech VIII"
  mechanized_equipment_10_desc:0 ""
- 
+
  mechanized_heavy_equipment_1:0 "Heavy Mechanized I"
  mechanized_heavy_equipment_1_short:0 "H-Mech I"
  mechanized_heavy_equipment_1_desc:0 ""
@@ -775,12 +775,12 @@
  mechanized_marine_equipment_3_short:0 "Mech Marine III"
  mechanized_marine_equipment_3_desc:0 ""
  mechanized_marine_equipment_4:0 "Mechanized Marine IV"
- mechanized_marine_equipment_4_short:0 "Mech Marine IV" 
+ mechanized_marine_equipment_4_short:0 "Mech Marine IV"
  mechanized_marine_equipment_4_desc:0 ""
  mechanized_marine_equipment_5:0 "Mechanized Marine V"
- mechanized_marine_equipment_5_short:0 "Mech Marine V" 
+ mechanized_marine_equipment_5_short:0 "Mech Marine V"
  mechanized_marine_equipment_5_desc:0 ""
- 
+
  motorized_equipment_1:0 "Military Truck I"
  motorized_equipment_1_short:0 "Military Truck I"
  motorized_equipment_1_desc:0 ""
@@ -796,10 +796,10 @@
  motorized_equipment_5:0 "Military Truck V"
  motorized_equipment_5_short:0 "Military Truck V"
  motorized_equipment_5_desc:0 ""
- 
+
  ########## END OF NEW ARMOR
  ########## NEW HELICOPTER
- 
+
  utility_helicopter_equipment:0 "Utility Helicopter"
  utility_helicopter_equipment_1:0 "Utility Helicopter I"
  utility_helicopter_equipment_1_short:0 "Utility Helo I"
@@ -822,7 +822,7 @@
  utility_helicopter_equipment_7:0 "Utility Helicopter VII"
  utility_helicopter_equipment_7_short:0 "Utility Helo VII"
  utility_helicopter_equipment_7_desc:0 ""
- 
+
  cargo_helicopter_equipment:0 "Cargo Helicopter"
  cargo_helicopter_equipment_1:0 "Cargo Helicopter I"
  cargo_helicopter_equipment_1_short:0 "Cargo Helicopter I"
@@ -842,8 +842,8 @@
  cargo_helicopter_equipment_6:0 "Cargo Helicopter VI"
  cargo_helicopter_equipment_6_short:0 "Cargo Helicopter VI"
  cargo_helicopter_equipment_6_desc:0 ""
- 
- ########## END HELICOPTER 
+
+ ########## END HELICOPTER
  ########### NEW ART TREE
 
  auto_cannon_equipment_1:0 "Automatic Cannon I"
@@ -927,7 +927,7 @@
  artillery_equipment_5:0 "Towed Artillery V"
  artillery_equipment_5_short:0 "Artillery V"
  artillery_equipment_5_desc:0 ""
- 
+
  sp_artillery_equipment_1:0 "Self Propelled Artillery I"
  sp_artillery_equipment_1_short:0 "SP Artillery I"
  sp_artillery_equipment_1_desc:0 ""
@@ -974,7 +974,7 @@
  heavy_sp_artillery_equipment_4_desc:0 ""
  heavy_sp_artillery_equipment_5:0 "Heavy Self Propelled Artillery V"
  heavy_sp_artillery_equipment_5_short:0 "Heavy SP Artillery V"
- heavy_sp_artillery_equipment_5_desc:0 "" 
+ heavy_sp_artillery_equipment_5_desc:0 ""
 
  direct_fire_gun_equipment_1:0 "Direct Fire Gun I"
  direct_fire_gun_equipment_1_short:0 "Direct Fire Gun I"
@@ -1009,7 +1009,7 @@
  medium_tank_destroyer_equipment_5:0 "Tank Destroyer V"
  medium_tank_destroyer_equipment_5_short:0 "Tank Destroyer V"
  medium_tank_destroyer_equipment_5_desc:0 ""
- 
+
  rocket_artillery_equipment_1:0 "Towed Rocket Artillery"
  rocket_artillery_equipment_1_short:0 "Rocket Artillery"
  rocket_artillery_equipment_1_desc:0 "Rocket artillery is less accurate and has a much lower sustained rate of fire than batteries of traditional artillery guns. However, they have the capability of simultaneously hitting a target with multiple rockets with devastating effect."
@@ -1050,7 +1050,7 @@
  atgm_equipment_6:0 "Anti Tank Guided Missile VI"
  atgm_equipment_6_short:0 "ATGM VI"
  atgm_equipment_6_desc:0 ""
- 
+
  atgm_carrier_equipment_1:0 "Anti Tank Guided Missile Carrier I"
  atgm_carrier_equipment_1_short:0 "ATGM Carrier I"
  atgm_carrier_equipment_1_desc:0 ""
@@ -1081,41 +1081,41 @@
  sam_carrier_equipment_4_desc:0 ""
  sam_carrier_equipment_5:0 "Tactical Surface-to-Air Missile Carrier V"
  sam_carrier_equipment_5_short:0 "Tactical SAM Carrier V"
- sam_carrier_equipment_5_desc:0 "" 
- 
+ sam_carrier_equipment_5_desc:0 ""
+
  groundaam_1:0 "Long-Range SAM I"
  groundaam_2:0 "Long-Range SAM II"
  groundaam_3:0 "Long-Range SAM III"
  groundaam_4:0 "Long-Range SAM IV"
  groundaam_5:0 "Long-Range SAM V"
- groundaam_6:0 "Long-Range SAM VI" 
- 
+ groundaam_6:0 "Long-Range SAM VI"
+
  ########## END OF NEW ART TREE
 
  lmg_infantry_weapons:0 "Squad Weapons"
  lmg_infantry_weapons_short:0 "Squad Weapons"
  lmg_infantry_weapons_desc:0 ""
- 
+
  lmg_infantry_weapons1:0 "Squad Weapons I"
  lmg_infantry_weapons1_short_:0 "Squad Weapons I"
  lmg_infantry_weapons1_desc:0 ""
- 
+
  lmg_infantry_weapons2:0 "Squad Weapons II"
  lmg_infantry_weapons2_short:0 "Squad Weapons II"
  lmg_infantry_weapons2_desc_:0 ""
- 
+
  lmg_infantry_weapons3:0 "Squad Weapons III"
  lmg_infantry_weapons3_short:0 "Squad Weapons III"
  lmg_infantry_weapons3_desc:0 ""
- 
+
  lmg_infantry_weapons4:0 "Squad Weapons IV"
  lmg_infantry_weapons4_short:0 "Squad Weapons IV"
  lmg_infantry_weapons4_desc:0 ""
- 
+
  lmg_infantry_weapons5:0 "Squad Weapons V"
  lmg_infantry_weapons5_short:0 "Squad Weapons V"
  lmg_infantry_weapons5_desc:0 ""
- 
+
  lmg_infantry_weapons6:0 "Squad Weapons VI"
  lmg_infantry_weapons6_short:0 "Squad Weapons VI"
  lmg_infantry_weapons6_desc:0 ""
@@ -1123,9 +1123,9 @@
  USA_lmg_infantry_weapons2:0 "United States Machine Gun, Caliber 7.62 mm, M60"
  USA_lmg_infantry_weapons2_short:0 "M60"
  USA_lmg_infantry_weapons2_desc_:0 "A General purpose machine gun. Every Vietnam war movie and game needs this."
- 
+
  ########## NEW GER ARMOR
- 
+
  GER_lt_equipment_1:0 "(VK16.02) Leopard"
  GER_lt_equipment_1_short:0 "Leopard"
  GER_lt_equipment_2:0 "VK3002 Nebelparder"
@@ -1134,7 +1134,7 @@
  GER_lt_equipment_3_short:0 "Marder AFSV"
  GER_lt_equipment_4:0 "Rotluchs (Marder MT)"
  GER_lt_equipment_4_short:0 "Rotluchs"
- 
+
  GER_ht_equipment_1:0 "Panzerkampfwagen VI Tiger"
  GER_ht_equipment_1_short:0 "Tiger"
  GER_ht_equipment_2:0 "Panzerkampfwagen VI König Tiger"
@@ -1163,7 +1163,7 @@
 
  # GER_motorized_equipment_1:0 "GMC CCKW"
  # GER_motorized_equipment_1_short:0 "GMC CCKW"
- 
+
  GER_mechanized_equipment_1:0 "Sd.Kfz 251"
  GER_mechanized_equipment_1_short:0 "Sd.Kfz 251"
  GER_mechanized_equipment_2:0 "Beobachtungswagen Sd.Kfz 135"
@@ -1182,21 +1182,21 @@
  GER_mechanized_equipment_8_short:0 "SpPz Luchs A1"
  GER_mechanized_equipment_9:0 "KMW GTK Boxer "
  GER_mechanized_equipment_9_short:0 "GTK Boxer "
- 
+
  GER_mechanized_airborne_equipment_1:0 "Wiesel Aufklärung"
  GER_mechanized_airborne_equipment_1_short:0 "Wiesel Aufklärung"
  GER_mechanized_airborne_equipment_2:0 "Wiesel Mk.20"
  GER_mechanized_airborne_equipment_2_short:0 "Wiesel Mk.20"
  GER_mechanized_airborne_equipment_3:0 "Wiesel 2 RMK 30"
  GER_mechanized_airborne_equipment_3_short:0 "Wiesel 2 RMK 30"
- 
+
  GER_mechanized_heavy_equipment_1:0 "Marder 1A1"
  GER_mechanized_heavy_equipment_1_short:0 "Marder 1A1"
  GER_mechanized_heavy_equipment_2:0 "Marder 1A2"
  GER_mechanized_heavy_equipment_2_short:0 "Marder 1A2"
  GER_mechanized_heavy_equipment_3:0 "Marder 1A3"
  GER_mechanized_heavy_equipment_3_short:0 "Marder 1A3"
- 
+
  # GER_mechanized_marine_equipment_1:0 "LVT-4 Water Buffalo"
  # GER_mechanized_marine_equipment_1_short:0 "LVT-4"
  # GER_mechanized_marine_equipment_2:0 "LVTP-5"
@@ -1205,11 +1205,11 @@
  GER_mechanized_marine_equipment_3_short:0 "SpPz Luchs"
  # GER_mechanized_marine_equipment_4:0 "EFVP-1 Advanced Amphibious Assault Vehicle"
  # GER_mechanized_marine_equipment_4_short:0 "EFVP-1 AAAV"
- 
+
  ########## END OF NEW GER ARMOR
- 
+
  ########### NEW ART GER
- 
+
  # GER_artillery_equipment_1:0 "M101"
  # GER_artillery_equipment_1_short:0 "M101"
  # GER_artillery_equipment_2:0 "M102"
@@ -1218,7 +1218,7 @@
  # GER_artillery_equipment_3_short:0 "M198"
  # GER_artillery_equipment_4:0 "M119"
  # GER_artillery_equipment_4_short:0 "M119"
- 
+
  # GER_rocket_artillery_equipment_1:0 "Towed Rocket Artillery"
  # GER_rocket_artillery_equipment_1_short:0 "Rocket Artillery"
 
@@ -1238,7 +1238,7 @@
  GER_anti_air_equipment_10_short:0 "Trigat-MR"
  # GER_anti_air_equipment_11:0 "FIM-92C Stinger"
  # GER_anti_air_equipment_11_short:0 "Stinger C"
- 
+
  # GER_anti_tank_equipment_1:0 "M5 3-inch Gun"
  # GER_anti_tank_equipment_1_short:0 "M5 3-inch Gun"
  GER_anti_tank_equipment_2:0 "M27 105mm Recoilless Rifle"
@@ -1261,7 +1261,7 @@
  GER_anti_tank_equipment_10_short:0 "Milan 3"
  GER_anti_tank_equipment_11:0 "EUROSPIKE"
  GER_anti_tank_equipment_11_short:0 "EUROSPIKE"
- 
+
  GER_motorized_rocket_equipment_1:0 "Panzerwerfer"
  GER_motorized_rocket_equipment_1_short:0 "Panzerwerfer"
  GER_motorized_rocket_equipment_5:0 "LARS"
@@ -1272,7 +1272,7 @@
  GER_motorized_rocket_equipment_7_short:0 "LARS-2"
  GER_motorized_rocket_equipment_8:0 "MARS II"
  GER_motorized_rocket_equipment_8_short:0 "MARS II"
- 
+
  GER_medium_tank_aa_equipment_1:0 "FlaRakPz Roland 1"
  GER_medium_tank_aa_equipment_1_short:0 "FRP Roland 1"
  GER_medium_tank_aa_equipment_2:0 "FlaRakPz Roland 2"
@@ -1281,7 +1281,7 @@
  GER_medium_tank_aa_equipment_3_short:0 "FRP Roland 2S"
  GER_medium_tank_aa_equipment_4:0 "FlaRakPz Roland 3"
  GER_medium_tank_aa_equipment_4_short:0 "FRP Roland 3"
- 
+
  # GER_heavy_tank_aa_equipment_1:0 "M727 MIM-23A SP-Hawk"
  # GER_heavy_tank_aa_equipment_1_short:0 "Hawk A"
  # GER_heavy_tank_aa_equipment_2:0 "M727 MIM-23B SP-Hawk"
@@ -1292,7 +1292,7 @@
  # GER_heavy_tank_aa_equipment_4_short:0 "Hawk E"
  # GER_heavy_tank_aa_equipment_5:0 "M901 MIM-104 Patriot"
  # GER_heavy_tank_aa_equipment_5_short:0 "Patriot"
- 
+
  GER_light_tank_aa_equipment_1:0 "Flakpanzer Coelian"
  GER_light_tank_aa_equipment_1_short:0 "Coelian"
  GER_light_tank_aa_equipment_2:0 "Flakpanzer E-75"
@@ -1307,7 +1307,7 @@
  # GER_light_tank_aa_equipment_6_short:0 "LAV-AD"
  # GER_light_tank_aa_equipment_7:0 "M6 Linebacker"
  # GER_light_tank_aa_equipment_7_short:0 "M6 Linebacker"
- 
+
  GER_medium_tank_artillery_equipment_1:0 "Grille 15"
  GER_medium_tank_artillery_equipment_1_short:0 "Grille 15"
  GER_medium_tank_artillery_equipment_2:0 "Grille 17"
@@ -1326,7 +1326,7 @@
  # GER_medium_tank_artillery_equipment_8_short:0 "PzH M109A3GA1"
  GER_medium_tank_artillery_equipment_9:0 "Panzerhaubitze 2000"
  GER_medium_tank_artillery_equipment_9_short:0 "Panzerhaubitze 2000"
- 
+
  GER_medium_tank_destroyer_equipment_1:0 "Raketenjagdpanzer 1"
  GER_medium_tank_destroyer_equipment_1_short:0 "Raketenjagdpanzer 1"
  GER_medium_tank_destroyer_equipment_2:0 "Raketenjagdpanzer 2"
@@ -1339,11 +1339,11 @@
  GER_medium_tank_destroyer_equipment_5_short:0 "Jaguar 2"
  GER_medium_tank_destroyer_equipment_6:0 "Wiesel 1 Trigat"
  GER_medium_tank_destroyer_equipment_6_short:0 "Wiesel 1 Trigat"
- 
- ########## END OF GER 
- 
+
+ ########## END OF GER
+
  ########## NEW BRA ARMOR
- 
+
  # BRA_lt_equipment_1:0 "M24 Chaffee"
  # BRA_lt_equipment_1_short:0 "M24 Chaffee"
  BRA_lt_equipment_2:0 "M41B Walker Bulldog"
@@ -1352,7 +1352,7 @@
  BRA_lt_equipment_3_short:0 "Bernardini X1A2"
  BRA_lt_equipment_4:0 "Bernardini MB-3 Tamoyo"
  BRA_lt_equipment_4_short:0 "MB-3 Tamoyo"
- 
+
  # BRA_ht_equipment_1:0 "M26E1 Super Pershing"
  # BRA_ht_equipment_1_short:0 "M26E1"
  # BRA_ht_equipment_2:0 "T29"
@@ -1381,7 +1381,7 @@
 
  # BRA_motorized_equipment_1:0 "GMC CCKW"
  # BRA_motorized_equipment_1_short:0 "GMC CCKW"
- 
+
  BRA_mechanized_equipment_1:0 "M3 Half-Track"
  BRA_mechanized_equipment_1_short:0 "M3 Half-Track"
  # BRA_mechanized_equipment_2:0 "M44"
@@ -1400,21 +1400,21 @@
  BRA_mechanized_equipment_8_short:0 "Piranha IIIC"
  BRA_mechanized_equipment_9:0 "Iveco VBTP-MR Guarani"
  BRA_mechanized_equipment_9_short:0 "VBTP Guarani"
- 
+
  # BRA_mechanized_airborne_equipment_1:0 "M113A1 ACAV Airborne"
  # BRA_mechanized_airborne_equipment_1_short:0 "M113A1 ACAV Airb."
  # BRA_mechanized_airborne_equipment_2:0 "M2 Bradley Airborne"
  # BRA_mechanized_airborne_equipment_2_short:0 "M2 Bradley Airb."
  # BRA_mechanized_airborne_equipment_3:0 "M3 Bradley Airborne"
  # BRA_mechanized_airborne_equipment_3_short:0 "M3 Bradley Airb."
- 
+
  BRA_mechanized_heavy_equipment_1:0 "M113A1 ACAV"
  BRA_mechanized_heavy_equipment_1_short:0 "M113A1 ACAV"
  BRA_mechanized_heavy_equipment_2:0 "EE-9 Cascavel Mk.I"
  BRA_mechanized_heavy_equipment_2_short:0 "EE-9 Cascavel Mk.I"
  BRA_mechanized_heavy_equipment_3:0 "VBCI-MR Guarani"
  BRA_mechanized_heavy_equipment_3_short:0 "VBCI Guarani"
- 
+
  BRA_mechanized_marine_equipment_1:0 "DUKW"
  BRA_mechanized_marine_equipment_1_short:0 "DUKW "
  # BRA_mechanized_marine_equipment_2:0 "LVTP-5"
@@ -1423,11 +1423,11 @@
  BRA_mechanized_marine_equipment_3_short:0 "LVTP-7"
  BRA_mechanized_marine_equipment_4:0 "MOWAG Piranha IIIC"
  BRA_mechanized_marine_equipment_4_short:0 "Piranha IIIC"
- 
+
  ########## END OF NEW BRA ARMOR
- 
+
  ########### NEW ART BRA
- 
+
  BRA_artillery_equipment_1:0 "M101"
  BRA_artillery_equipment_1_short:0 "M101"
  BRA_artillery_equipment_2:0 "M114"
@@ -1436,7 +1436,7 @@
  BRA_artillery_equipment_3_short:0 "OTO Melara Mod 56"
  BRA_artillery_equipment_4:0 "L118"
  BRA_artillery_equipment_4_short:0 "L118"
- 
+
  # BRA_rocket_artillery_equipment_1:0 "Towed Rocket Artillery"
  # BRA_rocket_artillery_equipment_1_short:0 "Rocket Artillery"
 
@@ -1456,7 +1456,7 @@
  BRA_anti_air_equipment_10_short:0 "Igla 9k38"
  BRA_anti_air_equipment_11:0 "MSA-3.1"
  BRA_anti_air_equipment_11_short:0 "MSA-3.1"
- 
+
  # BRA_anti_tank_equipment_1:0 "M5 3-inch Gun"
  # BRA_anti_tank_equipment_1_short:0 "M5 3-inch Gun"
  # BRA_anti_tank_equipment_2:0 "M27 105mm Recoilless Rifle"
@@ -1479,7 +1479,7 @@
  # BRA_anti_tank_equipment_10_short:0 "TOW 2B"
  BRA_anti_tank_equipment_11:0 "ERYX"
  BRA_anti_tank_equipment_11_short:0 "ERYX"
- 
+
  BRA_motorized_rocket_equipment_1:0 "Fv-108-R Willys Overland"
  BRA_motorized_rocket_equipment_1_short:0 "Fv-108-R"
  BRA_motorized_rocket_equipment_2:0 "M8 MLRS IME"
@@ -1494,7 +1494,7 @@
  BRA_motorized_rocket_equipment_7_short:0 "Astros II"
  # BRA_motorized_rocket_equipment_8:0 "M270A1 MLRS"
  # BRA_motorized_rocket_equipment_8_short:0 "M270A1 MLRS"
- 
+
  BRA_medium_tank_aa_equipment_1:0 "Marder Roland 1"
  BRA_medium_tank_aa_equipment_1_short:0 "Marder Roland 1"
  BRA_medium_tank_aa_equipment_2:0 "Marder Roland 2"
@@ -1503,7 +1503,7 @@
  # BRA_medium_tank_aa_equipment_3_short:0 "Chaparral C"
  BRA_medium_tank_aa_equipment_4:0 "EE-11 SIMDABA"
  BRA_medium_tank_aa_equipment_4_short:0 "EE-11 SIMDABA"
- 
+
  # BRA_heavy_tank_aa_equipment_1:0 "M727 MIM-23A SP-Hawk"
  # BRA_heavy_tank_aa_equipment_1_short:0 "Hawk A"
  # BRA_heavy_tank_aa_equipment_2:0 "M727 MIM-23B SP-Hawk"
@@ -1514,7 +1514,7 @@
  # BRA_heavy_tank_aa_equipment_4_short:0 "Hawk E"
  # BRA_heavy_tank_aa_equipment_5:0 "M901 MIM-104 Patriot"
  # BRA_heavy_tank_aa_equipment_5_short:0 "Patriot"
- 
+
  # BRA_light_tank_aa_equipment_1:0 "M19 MGMC"
  # BRA_light_tank_aa_equipment_1_short:0 "M19 MGMC"
  # BRA_light_tank_aa_equipment_2:0 "M42 Duster"
@@ -1529,7 +1529,7 @@
  # BRA_light_tank_aa_equipment_6_short:0 "LAV-AD"
  # BRA_light_tank_aa_equipment_7:0 "M6 Linebacker"
  # BRA_light_tank_aa_equipment_7_short:0 "M6 Linebacker"
- 
+
  # BRA_medium_tank_artillery_equipment_1:0 "M41 Gorilla"
  # BRA_medium_tank_artillery_equipment_1_short:0 "M41 Gorilla"
  # BRA_medium_tank_artillery_equipment_2:0 "M44 SP Howitzer"
@@ -1548,7 +1548,7 @@
  BRA_medium_tank_artillery_equipment_8_short:0 "M109A3"
  # BRA_medium_tank_artillery_equipment_9:0 "M109A4"
  # BRA_medium_tank_artillery_equipment_9_short:0 "M109A4"
- 
+
  # BRA_medium_tank_destroyer_equipment_1:0 "M113A1 Dragon"
  # BRA_medium_tank_destroyer_equipment_1_short:0 "M113A1 Dragon"
  # BRA_medium_tank_destroyer_equipment_2:0 "M105"
@@ -1561,7 +1561,7 @@
  # BRA_medium_tank_destroyer_equipment_5_short:0 "M901 ITV TOW 2"
  # BRA_medium_tank_destroyer_equipment_6:0 "LAV-AT"
  # BRA_medium_tank_destroyer_equipment_6_short:0 "LAV-AT"
- 
+
  BRA_utility_helicopter_equipment_1:0 "Sikorsky H-34"
  BRA_utility_helicopter_equipment_1_short:0 "H-34"
  # BRA_utility_helicopter_equipment_2:0 "Bell UH-1A Iroquois"
@@ -1576,17 +1576,17 @@
  BRA_utility_helicopter_equipment_6_short:0 "HM-2 Black Hawk"
  BRA_utility_helicopter_equipment_7:0 "Eurocopter HM-1 Pantera"
  BRA_utility_helicopter_equipment_7_short:0 "HM-1 Pantera"
- 
+
  # BRA_cargo_helicopter_equipment_1:0 "Sikorsky CH-37 Mojave"
  # BRA_cargo_helicopter_equipment_1_short:0 "CH-37 Mojave"
  BRA_cargo_helicopter_equipment_2:0 "Aérospatiale CH-33 Puma"
  BRA_cargo_helicopter_equipment_2_short:0 "CH-33 Puma"
  BRA_cargo_helicopter_equipment_3:0 "Eurocopter CH-34 Super Puma"
  BRA_cargo_helicopter_equipment_3_short:0 "CH-34 Super Puma"
- 
+
  ########## END OF BRA
  ########### NEW ART CHI
- 
+
  CHI_rocket_artillery_equipment_1:0 "Towed Rocket Artillery"
  CHI_rocket_artillery_equipment_1_short:0 "Rocket Artillery"
 
@@ -1598,18 +1598,18 @@
  CHI_motorized_rocket_equipment_6_short:0 "Kung Feng VI"
  CHI_motorized_rocket_equipment_8:0 "Thunderbolt-2000"
  CHI_motorized_rocket_equipment_8_short:0 "Thunderbolt-2000"
-  
+
  CHI_medium_tank_artillery_equipment_7:0 "M109A2"
  CHI_medium_tank_artillery_equipment_7_short:0 "M109A2"
- 
- ########## END OF CHI 
+
+ ########## END OF CHI
  ########## NEW CHI ARMOR
- 
+
  CHI_lt_equipment_3:0 "M41D Walker Bulldog"
  CHI_lt_equipment_3_short:0 "M41D Walker Bulldog"
  CHI_lt_equipment_4:0 "Type 64"
  CHI_lt_equipment_4_short:0 "Type 64"
- 
+
  CHI_ht_equipment_1:0 "M26E1 Super Pershing"
  CHI_ht_equipment_1_short:0 "M26E1"
  CHI_ht_equipment_2:0 "T29"
@@ -1624,24 +1624,24 @@
 
  CHI_motorized_equipment_1:0 "GMC CCKW"
  CHI_motorized_equipment_1_short:0 "GMC CCKW"
- 
+
  CHI_mechanized_equipment_1:0 "M3 Half-Track"
  CHI_mechanized_equipment_1_short:0 "M3 Half-Track"
  CHI_mechanized_equipment_2:0 "M5 Half-Track"
- CHI_mechanized_equipment_2_short:0 "M5 Half-Track" 
+ CHI_mechanized_equipment_2_short:0 "M5 Half-Track"
  CHI_mechanized_equipment_6:0 "M113"
  CHI_mechanized_equipment_6_short:0 "M113"
  CHI_mechanized_equipment_7:0 "M113A2"
  CHI_mechanized_equipment_7_short:0 "M113A2"
-  
+
  ########## END OF NEW CHI ARMOR
  ########## NEW JAP ARMOR
- 
+
  JAP_lt_equipment_2:0 "M24 Chaffee"
  JAP_lt_equipment_2_short:0 "M24 Chaffee"
  JAP_lt_equipment_3:0 "M41 Walker Bulldog"
  JAP_lt_equipment_3_short:0 "M41 Walker Bulldog"
- 
+
  JAP_mbt_equipment_1:0 "M4A3E8 JGSDF"
  JAP_mbt_equipment_1_short:0 "M4A3 JGSDF"
  JAP_mbt_equipment_3:0 "M47 Patton JGSDF"
@@ -1665,51 +1665,51 @@
  JAP_mechanized_equipment_7_short:0 "Type 73"
  JAP_mechanized_equipment_9:0 "Type 96 Kyu-Roku"
  JAP_mechanized_equipment_9_short:0 "Type 96"
- 
+
  JAP_mechanized_heavy_equipment_3:0 "Type 89 Hachi-Kyu"
  JAP_mechanized_heavy_equipment_3_short:0 "Type 89"
- 
- ########## END OF NEW JAP ARMOR 
+
+ ########## END OF NEW JAP ARMOR
  ########### NEW ART JAP
- 
+
  JAP_anti_air_equipment_11:0 "Type 91"
  JAP_anti_air_equipment_11_short:0 "Type 91"
- 
+
  JAP_motorized_rocket_equipment_6:0 "Type 75 MSSR"
  JAP_motorized_rocket_equipment_6_short:0 "Type 75 MSSR"
- 
+
  JAP_medium_tank_aa_equipment_3:0 "Type 91 Kin-SAM"
  JAP_medium_tank_aa_equipment_3_short:0 "Type 91 Kin-SAM"
  JAP_medium_tank_aa_equipment_4:0 "Type 81 Tan-SAM"
  JAP_medium_tank_aa_equipment_4_short:0 "Type 81 Tan-SAM"
- 
+
  JAP_heavy_tank_aa_equipment_3:0 "Kairyou HAWK"
  JAP_heavy_tank_aa_equipment_3_short:0 "Kairyou HAWK"
- 
+
  JAP_light_tank_aa_equipment_2:0 "M42 Duster"
  JAP_light_tank_aa_equipment_2_short:0 "M42 Duster"
  JAP_light_tank_aa_equipment_4:0 "Type 87"
  JAP_light_tank_aa_equipment_4_short:0 "Type 87"
  JAP_light_tank_aa_equipment_6:0 "Guntank"
  JAP_light_tank_aa_equipment_6_short:0 "Guntank"
- 
+
  JAP_medium_tank_artillery_equipment_4:0 "105 SP"
  JAP_medium_tank_artillery_equipment_4_short:0 "105 SP"
  JAP_medium_tank_artillery_equipment_7:0 "155 SP"
  JAP_medium_tank_artillery_equipment_7_short:0 "155 SP"
  JAP_medium_tank_artillery_equipment_8:0 "203 SP"
  JAP_medium_tank_artillery_equipment_8_short:0 "203 SP"
- 
+
  JAP_medium_tank_destroyer_equipment_2:0 "Mitsubishi MAT"
  JAP_medium_tank_destroyer_equipment_2_short:0 "Mitsubishi MAT"
  JAP_medium_tank_destroyer_equipment_5:0 "Mitsubishi Jyu-MAT"
  JAP_medium_tank_destroyer_equipment_5_short:0 "Mitsubishi Jyu-MAT"
  JAP_medium_tank_destroyer_equipment_6:0 "Mitsubishi Chu-MAT"
  JAP_medium_tank_destroyer_equipment_6_short:0 "Mitsubishi Chu-MAT"
- 
- ########## END OF JAP 
+
+ ########## END OF JAP
  ########## NEW SWE ARMOR
- 
+
  SWE_lt_equipment_1:0 "Stridsvagn m/40L"
  SWE_lt_equipment_1_short:0 "Strv m/40L"
  SWE_lt_equipment_2:0 "Stridsvagn m/40K"
@@ -1718,7 +1718,7 @@
  SWE_lt_equipment_3_short:0 "Ikv 72"
  SWE_lt_equipment_4:0 "Strf90"
  SWE_lt_equipment_4_short:0 "Strf90"
- 
+
  SWE_mbt_equipment_0:0 "Stridsvagn m/41"
  SWE_mbt_equipment_0_short:0 "Strv m/41"
  SWE_mbt_equipment_1:0 "Stridsvagn m/42 TH"
@@ -1739,11 +1739,11 @@
  SWE_mbt_equipment_8_short:0 "Strv 122"
  SWE_mbt_equipment_9:0 ""
  SWE_mbt_equipment_9_short:0 ""
- 
+
  SWE_ht_equipment_4:0 "Stridsvagn Kranvagn Emil"
  SWE_ht_equipment_4_short:0 "Stridsvagn KRV Emil"
 
- 
+
  SWE_mechanized_equipment_3:0 "Tgb m/42"
  SWE_mechanized_equipment_3_short:0 "Tgb m/42"
  SWE_mechanized_equipment_5:0 "Pbv302"
@@ -1756,54 +1756,54 @@
  SWE_mechanized_equipment_8_short:0 "Piranha IIIC"
  SWE_mechanized_equipment_9:0 "Patgb XA-180"
  SWE_mechanized_equipment_9_short:0 "Patgb XA-180"
- 
+
  SWE_mechanized_heavy_equipment_1:0 "Pbv 501A"
  SWE_mechanized_heavy_equipment_1_short:0 "Pbv 501A"
  SWE_mechanized_heavy_equipment_3:0 "Strf 9040"
  SWE_mechanized_heavy_equipment_3_short:0 "Strf 9040"
- 
+
  SWE_mechanized_marine_equipment_2:0 "Amfibiebil"
  SWE_mechanized_marine_equipment_2_short:0 "Amfibiebil"
  SWE_mechanized_marine_equipment_4:0 "Piranha IIIC"
  SWE_mechanized_marine_equipment_4_short:0 "Piranha IIIC"
- 
- ########## END OF NEW SWE ARMOR 
+
+ ########## END OF NEW SWE ARMOR
  ########### NEW ART SWE
- 
+
  SWE_anti_air_equipment_9:0 "RBS 70"
  SWE_anti_air_equipment_9_short:0 "RBS 70"
  SWE_anti_air_equipment_11:0 "RBS 90"
  SWE_anti_air_equipment_11_short:0 "RBS 90"
- 
+
  SWE_medium_tank_aa_equipment_4:0 "Lvrbv 701"
  SWE_medium_tank_aa_equipment_4_short:0 "Lvrbv 701"
- 
+
  SWE_heavy_tank_aa_equipment_1:0 "RBS 67 HAWK"
  SWE_heavy_tank_aa_equipment_1_short:0 "RBS 67 HAWK"
- 
+
  SWE_light_tank_aa_equipment_2:0 "Lvkv fm/43"
  SWE_light_tank_aa_equipment_2_short:0 "Lvkv fm/43"
  SWE_light_tank_aa_equipment_4:0 "VEAK 40"
  SWE_light_tank_aa_equipment_4_short:0 "VEAK 40"
  SWE_light_tank_aa_equipment_7:0 "Lvkv 90"
  SWE_light_tank_aa_equipment_7_short:0 "Lvkv 90"
- 
+
  SWE_medium_tank_artillery_equipment_5:0 "BKAN 1A"
  SWE_medium_tank_artillery_equipment_5_short:0 "BKAN 1A"
- 
+
  SWE_medium_tank_destroyer_equipment_5:0 "Pvrbv 551"
  SWE_medium_tank_destroyer_equipment_5_short:0 "Pvrbv 551"
  SWE_medium_tank_destroyer_equipment_6:0 "RBS 56 BILL"
  SWE_medium_tank_destroyer_equipment_6_short:0 "RBS 56 BILL"
- 
- ########## END OF SWE 
+
+ ########## END OF SWE
  ########## NEW ITA ARMOR
- 
+
  ITA_lt_equipment_2:0 "M24 Chaffee"
  ITA_lt_equipment_2_short:0 "M24 Chaffee"
 
  ITA_mbt_equipment_1:0 "M26 Pershing"
- ITA_mbt_equipment_1_short:0 "M26 Pershing" 
+ ITA_mbt_equipment_1_short:0 "M26 Pershing"
  ITA_mbt_equipment_2:0 "M46 Patton"
  ITA_mbt_equipment_2_short:0 "M46 Patton"
  ITA_mbt_equipment_3:0 "M47 Patton"
@@ -1822,7 +1822,7 @@
  ITA_mechanized_equipment_1:0 "M3 Halftrack"
  ITA_mechanized_equipment_1_short:0 "M3 Halftrack"
  ITA_mechanized_equipment_2:0 "M5 Halftrack"
- ITA_mechanized_equipment_2_short:0 "M5 Halftrack" 
+ ITA_mechanized_equipment_2_short:0 "M5 Halftrack"
  ITA_mechanized_equipment_6:0 "M113"
  ITA_mechanized_equipment_6_short:0 "M113"
  ITA_mechanized_equipment_7:0 "M113A2"
@@ -1833,19 +1833,19 @@
  ITA_mechanized_equipment_9_short:0 "VCC-2"
  ITA_mechanized_equipment_10:0 "Iveco SuperAV"
  ITA_mechanized_equipment_10_short:0 "Iveco SuperAV"
- 
+
  ITA_mechanized_heavy_equipment_8:0 "Dardo IFV"
  ITA_mechanized_heavy_equipment_8_short:0 "Dardo IFV"
-  
+
  ########## END OF NEW ITA ARMOR
  ########### NEW ART ITA
- 
+
  ITA_sp_artillery_equipment_4:0 "M109L"
  ITA_sp_artillery_equipment_4_short:0 "M109L"
- 
- ########## END OF ITA 
+
+ ########## END OF ITA
  ########## NEW TUR ARMOR
- 
+
  TUR_lt_equipment_2:0 "M24 Chaffee"
  TUR_lt_equipment_2_short:0 "M24 Chaffee"
  TUR_lt_equipment_3:0 "M41 Walker Bulldog"
@@ -1867,7 +1867,7 @@
  TUR_mechanized_equipment_1:0 "M3 Halftrack"
  TUR_mechanized_equipment_1_short:0 "M3 Halftrack"
  TUR_mechanized_equipment_2:0 "M5 Halftrack"
- TUR_mechanized_equipment_2_short:0 "M5 Halftrack" 
+ TUR_mechanized_equipment_2_short:0 "M5 Halftrack"
  TUR_mechanized_equipment_6:0 "M113"
  TUR_mechanized_equipment_6_short:0 "M113"
  TUR_mechanized_equipment_7:0 "M113A2"
@@ -1876,17 +1876,17 @@
  TUR_mechanized_equipment_8_short:0 "BTR-80"
  TUR_mechanized_equipment_9:0 "FNSS Pars"
  TUR_mechanized_equipment_9_short:0 "FNSS Pars"
- 
+
  TUR_mechanized_heavy_equipment_2:0 "M59"
- TUR_mechanized_heavy_equipment_2_short:0 "M59" 
- 
-  
+ TUR_mechanized_heavy_equipment_2_short:0 "M59"
+
+
  ########## END OF NEW TUR ARMOR
  ########### NEW ART TUR
-  
- ########## END OF TUR 
+
+ ########## END OF TUR
  ########## NEW BEL ARMOR
- 
+
  BEL_lt_equipment_2:0 "M24 Chaffee"
  BEL_lt_equipment_2_short:0 "M24 Chaffee"
  BEL_lt_equipment_3:0 "M41 Walker Bulldog"
@@ -1894,11 +1894,11 @@
 
  BEL_ht_equipment_1:0 "M26E-4 Pershing"
  BEL_ht_equipment_1_short:0 "M26E-4 Pershing"
- 
+
  BEL_mbt_equipment_0:0 "M4 Sherman"
- BEL_mbt_equipment_0_short:0 "M4 Sherman" 
+ BEL_mbt_equipment_0_short:0 "M4 Sherman"
  BEL_mbt_equipment_1:0 "M26 Pershing"
- BEL_mbt_equipment_1_short:0 "M26 Pershing" 
+ BEL_mbt_equipment_1_short:0 "M26 Pershing"
  BEL_mbt_equipment_2:0 "M46 Patton"
  BEL_mbt_equipment_2_short:0 "M46 Patton"
  BEL_mbt_equipment_3:0 "M47 Patton"
@@ -1914,29 +1914,29 @@
  BEL_mechanized_equipment_7_short:0 "M113A2"
  BEL_mechanized_equipment_9:0 "Piranha IIIC"
  BEL_mechanized_equipment_9_short:0 "Piranha IIIC"
- 
+
  BEL_mechanized_heavy_equipment_2:0 "M59"
- BEL_mechanized_heavy_equipment_2_short:0 "M59"  
- 
+ BEL_mechanized_heavy_equipment_2_short:0 "M59"
+
  BEL_mechanized_marine_equipment_4:0 "Piranha IIIC"
  BEL_mechanized_marine_equipment_4_short:0 "Piranha IIIC"
-   
+
  ########## END OF NEW BEL ARMOR
  ########## NEW ART BEL
- 
+
  BEL_sp_artillery_equipment_3:0 "M109"
  BEL_sp_artillery_equipment_3_short:0 "M109"
  BEL_sp_artillery_equipment_4:0 "M109A4BE"
  BEL_sp_artillery_equipment_4_short:0 "M109A4BE"
- 
- ########## END OF BEL 
+
+ ########## END OF BEL
  ########## NEW POR ARMOR
- 
+
  POR_lt_equipment_2:0 "M24 Chaffee"
  POR_lt_equipment_2_short:0 "M24 Chaffee"
  POR_lt_equipment_3:0 "M41 Walker Bulldog"
  POR_lt_equipment_3_short:0 "M41 Walker Bulldog"
- 
+
  POR_mbt_equipment_3:0 "M47 Patton II"
  POR_mbt_equipment_3_short:0 "M47 Patton II"
  POR_mbt_equipment_4:0 "M48 Patton III"
@@ -1952,16 +1952,16 @@
  POR_mechanized_equipment_6_short:0 "M113"
  POR_mechanized_equipment_7:0 "DAF YP-408"
  POR_mechanized_equipment_7_short:0 "DAF YP-408"
-     
+
  ########## END OF NEW POR ARMOR
  ########## NEW ART POR
- 
+
  POR_sp_artillery_equipment_4:0 "M109A2"
  POR_sp_artillery_equipment_4_short:0 "M109A2"
 
- ########## END OF POR 
+ ########## END OF POR
  ########## NEW GRE ARMOR
- 
+
  GRE_lt_equipment_2:0 "M24 Chaffee"
  GRE_lt_equipment_2_short:0 "M24 Chaffee"
  GRE_lt_equipment_3:0 "M41E Walker Bulldog"
@@ -1974,13 +1974,13 @@
  GRE_mbt_equipment_5:0 "AMX-30"
  GRE_mbt_equipment_5_short:0 "AMX-30"
  GRE_mbt_equipment_6:0 "M60A3 TTS"
- GRE_mbt_equipment_6_short:0 "M60A3 TTS" 
+ GRE_mbt_equipment_6_short:0 "M60A3 TTS"
  GRE_mbt_equipment_7:0 "Leopard 1A5"
  GRE_mbt_equipment_7_short:0 "Leopard 1A5"
  GRE_mbt_equipment_8:0 "Leopard 2A4"
  GRE_mbt_equipment_8_short:0 "Leopard 2A4"
  GRE_mbt_equipment_9:0 "Leopard 2A6 HEL"
- GRE_mbt_equipment_9_short:0 "Leopard 2A6 HEL" 
+ GRE_mbt_equipment_9_short:0 "Leopard 2A6 HEL"
 
  GRE_mechanized_equipment_1:0 "M3 Halftrack"
  GRE_mechanized_equipment_1_short:0 "M3 Halftrack"
@@ -1991,28 +1991,28 @@
  GRE_mechanized_equipment_7:0 "M113A2"
  GRE_mechanized_equipment_7_short:0 "M113A2"
  GRE_mechanized_equipment_8:0 "ELVO Leonidas 2"
- GRE_mechanized_equipment_8_short:0 "Leonidas 2" 
- 
+ GRE_mechanized_equipment_8_short:0 "Leonidas 2"
+
  GRE_mechanized_heavy_equipment_3:0 "M59"
- GRE_mechanized_heavy_equipment_3_short:0 "M59" 
+ GRE_mechanized_heavy_equipment_3_short:0 "M59"
  GRE_mechanized_heavy_equipment_4:0 "BMP-1"
  GRE_mechanized_heavy_equipment_4_short:0 "BMP-1"
  GRE_mechanized_heavy_equipment_5:0 "BMP-1P"
- GRE_mechanized_heavy_equipment_5_short:0 "BMP-1P" 
-   
+ GRE_mechanized_heavy_equipment_5_short:0 "BMP-1P"
+
  ########## END OF NEW GRE ARMOR
  ########## NEW ART GRE
- 
+
  GRE_motorized_rocket_equipment_3:0 "BM-21"
  GRE_motorized_rocket_equipment_3_short:0 "BM-21"
- 
+
  GRE_sp_artillery_equipment_3:0 "M109"
  GRE_sp_artillery_equipment_3_short:0 "M109"
  GRE_sp_artillery_equipment_4:0 "M109A2"
  GRE_sp_artillery_equipment_4_short:0 "M109A2"
- 
- 
- ########## END OF GRE 
+
+
+ ########## END OF GRE
  ########## NEW AST ARMOR
 
  AST_mbt_equipment_2:0 "Centurion"
@@ -2026,30 +2026,30 @@
  AST_mechanized_equipment_6_short:0 "M113A1"
  AST_mechanized_equipment_7:0 "ASLAV-PC"
  AST_mechanized_equipment_7_short:0 "ASLAV-PC"
- 
+
  AST_mechanized_heavy_equipment_2:0 "ASLAV-25"
  AST_mechanized_heavy_equipment_2_short:0 "ASLAV-25"
- 
+
  AST_mechanized_marine_equipment_1:0 "ASLAV-PC"
  AST_mechanized_marine_equipment_1_short:0 "ASLAV-PC"
-   
+
  ########## END OF NEW AST ARMOR
  ########## NEW ART AST
- 
+
  AST_motorized_rocket_equipment_5:0 "BM-21"
  AST_motorized_rocket_equipment_5_short:0 "BM-21"
- 
+
  AST_medium_tank_artillery_equipment_6:0 "M109A1"
  AST_medium_tank_artillery_equipment_6_short:0 "M109A1"
  AST_medium_tank_artillery_equipment_7:0 "M109A2"
  AST_medium_tank_artillery_equipment_7_short:0 "M109A2"
- 
- ########## END OF AST 
+
+ ########## END OF AST
  ########## NEW NOR ARMOR
 
  NOR_lt_equipment_2:0 "M24 Chaffee"
  NOR_lt_equipment_2_short:0 "M24 Chaffee"
- 
+
  NOR_mbt_equipment_4:0 "M48 Patton III"
  NOR_mbt_equipment_4_short:0 "M48 Patton III"
  NOR_mbt_equipment_7:0 "Leopard 1A5"
@@ -2061,20 +2061,20 @@
  NOR_mechanized_equipment_1_short:0 "M3 Halftrack"
  NOR_mechanized_equipment_7:0 "M113F3"
  NOR_mechanized_equipment_7_short:0 "M113F3"
-    
+
  ########## END OF NEW NOR ARMOR
  ########## NEW ART NOR
-  
+
  NOR_medium_tank_artillery_equipment_8:0 "M109A3"
  NOR_medium_tank_artillery_equipment_8_short:0 "M109A3"
- 
+
  NOR_heavy_tank_aa_equipment_5:0 "NASAMS"
  NOR_heavy_tank_aa_equipment_5_short:0 "NASAMS"
- 
+
  NOR_anti_tank_equipment_4:0 "Nord MGM-32 Entac"
  NOR_anti_tank_equipment_4_short:0 "Nord MGM-32 Entac"
- 
- ########## END OF AUS 
+
+ ########## END OF AUS
  ########## NEW AUS ARMOR
 
  AUS_lt_equipment_2:0 "M24 Chaffee"
@@ -2083,9 +2083,9 @@
  AUS_lt_equipment_3_short:0 "M41 Walker Bulldog"
  AUS_lt_equipment_4:0 "ASCOD LT-105 Ulan"
  AUS_lt_equipment_4_short:0 "LT-105 Ulan"
- 
+
  AUS_mbt_equipment_0:0 "PzKpf IV"
- AUS_mbt_equipment_0_short:0 "Pz IV" 
+ AUS_mbt_equipment_0_short:0 "Pz IV"
  AUS_mbt_equipment_1:0 "T-34-85M"
  AUS_mbt_equipment_1_short:0 "T-34-85M"
  AUS_mbt_equipment_2:0 "Centurion"
@@ -2105,35 +2105,35 @@
  AUS_mechanized_equipment_6_short:0 "Saurer 4K 4FA"
  AUS_mechanized_equipment_7:0 "Steyr 4K 7FA"
  AUS_mechanized_equipment_7_short:0 "Steyr 4K 7FA"
- 
+
  AUS_mechanized_heavy_equipment_1:0 "4K 4FA-G2"
  AUS_mechanized_heavy_equipment_1_short:0 "4K 4FA-G2"
  AUS_mechanized_heavy_equipment_2:0 "4K 7FA MICV 30/1"
  AUS_mechanized_heavy_equipment_2_short:0 "4K 7FA MICV 30/1"
  AUS_mechanized_heavy_equipment_3:0 "ASCOD Ulan"
  AUS_mechanized_heavy_equipment_3_short:0 "ASCOD Ulan"
-    
+
  ########## END OF NEW AUS ARMOR
  ########## NEW ART AUS
-  
+
  AUS_medium_tank_artillery_equipment_7:0 "M109A2"
  AUS_medium_tank_artillery_equipment_7_short:0 "M109A2"
- 
+
  AUS_motorized_rocket_equipment_5:0 "81 mm 4k 4FA MRL"
  AUS_motorized_rocket_equipment_5_short:0 "81 mm 4k 4FA MRL"
- 
+
  AUS_light_tank_aa_equipment_4:0 "4K7FA FLA 3-2 30 mm"
  AUS_light_tank_aa_equipment_4_short:0 "4K7FA FLA 3-2 30 mm"
- 
+
  AUS_medium_tank_destroyer_equipment_4:0 "4K7FA ATGM"
  AUS_medium_tank_destroyer_equipment_4_short:0 "4K7FA ATGM"
 
  AUS_anti_air_equipment_11:0 "Mistral"
  AUS_anti_air_equipment_11_short:0 "Mistral"
- 
- ########## END OF AUS  
+
+ ########## END OF AUS
  ########## ARG
- 
+
  ARG_lt_equipment_2:0 "M24 Chafee"
  ARG_lt_equipment_2_short:0 "M24 Chafee"
  ARG_lt_equipment_3:0 "M41 Walker Bulldog"
@@ -2142,7 +2142,7 @@
  ARG_lt_equipment_4_short:0 "SK-105 Kurasser"
  ARG_lt_equipment_5:0 "Patagon"
  ARG_lt_equipment_5_short:0 "Patagon"
- 
+
  ARG_mbt_equipment_0:0 "Sherman Firefly"
  ARG_mbt_equipment_0_short:0 "Sherman Firefly"
  ARG_mbt_equipment_1:0 "Nahuel D.L. 43"
@@ -2155,37 +2155,37 @@
  ARG_mbt_equipment_8_short:0 "TAM"
  ARG_mbt_equipment_9:0 "Tanque Argentino Mediano 2C"
  ARG_mbt_equipment_9_short:0 "TAM 2C"
- 
+
  ARG_mechanized_equipment_6:0 "M113"
  ARG_mechanized_equipment_6_short:0 "M113"
  ARG_mechanized_equipment_7:0 "M113A2"
  ARG_mechanized_equipment_7_short:0 "M113A2"
- 
+
  ARG_mechanized_heavy_equipment_4:0 "Vehículo de Combate Transporte de Personal"
  ARG_mechanized_heavy_equipment_4_short:0 "VCTP"
- 
+
  ARG_medium_tank_artillery_equipment_9:0 "Palmaria"
  ARG_medium_tank_artillery_equipment_9_short:0 "Palmaria"
- 
+
  ########## END OF NEW ARG ARMOR
- ########### NEW ARTARG 
- 
+ ########### NEW ARTARG
+
  ARG_artillery_equipment_1:0 "M101"
  ARG_artillery_equipment_1_short:0 "M101"
- 
+
  ########## END OF ARG
- 
+
  ##################### MIDDLE EAST
- 
+
  ########## NEW ISR ARMOR
- 
+
  ISR_lt_equipment_5:0 "M113 HVMS 60mm"
  ISR_lt_equipment_5_short:0 "M113 HVMS"
- 
+
  ISR_mbt_equipment_0:0 "M4 Sherman"
  ISR_mbt_equipment_0_short:0 "M4 Sherman"
  ISR_mbt_equipment_1:0 "A34 Comet"
- ISR_mbt_equipment_1_short:0 "A34 Comet" 
+ ISR_mbt_equipment_1_short:0 "A34 Comet"
  ISR_mbt_equipment_2:0 "Centurion"
  ISR_mbt_equipment_2_short:0 "Centurion"
  ISR_mbt_equipment_3:0 "Sho't"
@@ -2211,11 +2211,11 @@
  ISR_mechanized_equipment_2:0 "Zachlam M9"
  ISR_mechanized_equipment_2_short:0 "Zachlam-9"
  ISR_mechanized_equipment_3:0 "BTR-40"
- ISR_mechanized_equipment_3_short:0 "BTR-40" 
+ ISR_mechanized_equipment_3_short:0 "BTR-40"
  ISR_mechanized_equipment_4:0 "BTR-152"
  ISR_mechanized_equipment_4_short:0 "BTR-152"
  ISR_mechanized_equipment_5:0 "BTR-152V"
- ISR_mechanized_equipment_5_short:0 "BTR-152V" 
+ ISR_mechanized_equipment_5_short:0 "BTR-152V"
  ISR_mechanized_equipment_6:0 "M113"
  ISR_mechanized_equipment_6_short:0 "M113"
  ISR_mechanized_equipment_7:0 "Nagmashot"
@@ -2225,36 +2225,36 @@
  ISR_mechanized_equipment_9:0 "Nakpadon HAPC"
  ISR_mechanized_equipment_9_short:0 "Nakpadon HAPC"
  ISR_mechanized_equipment_10:0 "Namer HAPC"
- ISR_mechanized_equipment_10_short:0 "Namer HAPC" 
+ ISR_mechanized_equipment_10_short:0 "Namer HAPC"
 
  ISR_mechanized_heavy_equipment_4:0 "BMP-1 Nimda"
- ISR_mechanized_heavy_equipment_4_short:0 "BMP-1 Nimda" 
+ ISR_mechanized_heavy_equipment_4_short:0 "BMP-1 Nimda"
  ISR_mechanized_heavy_equipment_5:0 "Zelda"
- ISR_mechanized_heavy_equipment_5_short:0 "Zelda" 
+ ISR_mechanized_heavy_equipment_5_short:0 "Zelda"
  ISR_mechanized_heavy_equipment_6:0 "Kasman"
- ISR_mechanized_heavy_equipment_6_short:0 "Kasman" 
+ ISR_mechanized_heavy_equipment_6_short:0 "Kasman"
  ISR_mechanized_heavy_equipment_7:0 "Nagmachon IFV"
- ISR_mechanized_heavy_equipment_7_short:0 "Nagmachon" 
+ ISR_mechanized_heavy_equipment_7_short:0 "Nagmachon"
  ISR_mechanized_heavy_equipment_8:0 "Namer IFV"
  ISR_mechanized_heavy_equipment_8_short:0 "Namer"
- 
+
  ISR_mechanized_marine_equipment_3:0 "Bardelas"
  ISR_mechanized_marine_equipment_3_short:0 "Bardelas"
- 
+
  ########### END OF NEW ISR ARMOR
  ########### NEW ART ISR
- 
+
  ISR_auto_cannon_equipment_1:0 "L/70 Bofors 40 mm gun"
  ISR_auto_cannon_equipment_1_short:0 "L/70 Bofors"
  ISR_auto_cannon_equipment_3:0 "M167 PIVADS"
  ISR_auto_cannon_equipment_3_short:0 "M167 PIVADS"
 
  ISR_spaag_equipment_1:0 "M16 Multiple Gun Motor Carriage"
- ISR_spaag_equipment_1_short:0 "M16 Half-Track" 
+ ISR_spaag_equipment_1_short:0 "M16 Half-Track"
  ISR_spaag_equipment_3:0 "M163 VADS"
  ISR_spaag_equipment_3_short:0 "M163"
  ISR_spaag_equipment_4:0 "Machbet"
- ISR_spaag_equipment_4_short:0 "Machbet" 
+ ISR_spaag_equipment_4_short:0 "Machbet"
 
  ISR_light_artillery_equipment_1:0 "Howitzer M101 105 mm"
  ISR_light_artillery_equipment_1_short:0 "M101 105 mm"
@@ -2262,7 +2262,7 @@
  ISR_light_artillery_equipment_2_short:0 "M101A1 105 mm"
 
  ISR_light_sp_artillery_equipment_1:0 "M7 Priest"
- ISR_light_sp_artillery_equipment_1_short:0 "M7 Priest" 
+ ISR_light_sp_artillery_equipment_1_short:0 "M7 Priest"
  ISR_light_sp_artillery_equipment_5:0 "Cardom SP"
  ISR_light_sp_artillery_equipment_5_short:0 "Cardom SP"
 
@@ -2271,10 +2271,10 @@
  ISR_artillery_equipment_2:0 "M114A1 155 mm"
  ISR_artillery_equipment_2_short:0 "M114A1 155 mm"
  ISR_artillery_equipment_3:0 "Soltam M-68 155 mm"
- ISR_artillery_equipment_3_short:0 "M-68 155 mm" 
+ ISR_artillery_equipment_3_short:0 "M-68 155 mm"
  ISR_artillery_equipment_4:0 "Soltam M-71 155 mm"
  ISR_artillery_equipment_4_short:0 "M-71 155 mm"
- 
+
  ISR_sp_artillery_equipment_3:0 "M109 Rochev"
  ISR_sp_artillery_equipment_3_short:0 "M109 Rochev"
  ISR_sp_artillery_equipment_4:0 "M109 Doher"
@@ -2300,45 +2300,45 @@
  ISR_direct_fire_gun_equipment_1_short:0 "6 Pounder"
 
  ISR_medium_tank_destroyer_equipment_1:0 "3-inch Gun Motor Carriage M10"
- ISR_medium_tank_destroyer_equipment_1_short:0 "M10 Wolverine" 
+ ISR_medium_tank_destroyer_equipment_1_short:0 "M10 Wolverine"
 
  ISR_motorized_rocket_equipment_2:0 "BM-21 Grad"
- ISR_motorized_rocket_equipment_2_short:0 "BM-21 Grad" 
+ ISR_motorized_rocket_equipment_2_short:0 "BM-21 Grad"
  ISR_motorized_rocket_equipment_3:0 "MAR-240"
- ISR_motorized_rocket_equipment_3_short:0 "MAR-240" 
+ ISR_motorized_rocket_equipment_3_short:0 "MAR-240"
  ISR_motorized_rocket_equipment_4:0 "MLRS Menanetz M270"
  ISR_motorized_rocket_equipment_4_short:0 "M270 Menanetz"
  ISR_motorized_rocket_equipment_5:0 "LAR-160"
  ISR_motorized_rocket_equipment_5_short:0 "LAR-160"
- 
+
  ########## END OF ISR
- 
- ##################### NATO 
-  
+
+ ##################### NATO
+
  ########## NEW ENG ARMOR
- 
+
  ENG_lt_equipment_1:0 "M3 Horney (Stuart)"
  ENG_lt_equipment_1_short:0 "M3 Horney"
  ENG_lt_equipment_2:0 "M24 Chaffee"
- ENG_lt_equipment_2_short:0 "Chaffee" 
+ ENG_lt_equipment_2_short:0 "Chaffee"
  ENG_lt_equipment_3:0 "FV107 Scimitar"
  ENG_lt_equipment_3_short:0 "Scimitar"
  ENG_lt_equipment_4:0 "FV101 Scorpion"
  ENG_lt_equipment_4_short:0 "Scorpion"
  ENG_lt_equipment_5:0 "CVRT Sabre"
  ENG_lt_equipment_5_short:0 "Sabre"
- 
+
  ENG_ht_equipment_1:0 "A22 Churchill MkIV"
  ENG_ht_equipment_1_short:0 "Churchill"
  ENG_ht_equipment_3:0 "FV 221 Caernarvon"
- ENG_ht_equipment_3_short:0 "Caernarvon" 
+ ENG_ht_equipment_3_short:0 "Caernarvon"
  ENG_ht_equipment_4:0 "FV 214 Conqueror Mk.1"
  ENG_ht_equipment_4_short:0 "Conqueror Mk.1"
  ENG_ht_equipment_5:0 "FV 214 Conqueror Mk.2"
- ENG_ht_equipment_5_short:0 "Conqueror Mk.2" 
+ ENG_ht_equipment_5_short:0 "Conqueror Mk.2"
 
  ENG_mbt_equipment_0:0 "Cromwell"
- ENG_mbt_equipment_0_short:0 "Cromwell" 
+ ENG_mbt_equipment_0_short:0 "Cromwell"
  ENG_mbt_equipment_1:0 "A34 Comet Tank Cruiser"
  ENG_mbt_equipment_1_short:0 "Comet"
  ENG_mbt_equipment_2:0 "Centurion Mk.1"
@@ -2357,7 +2357,7 @@
  ENG_mbt_equipment_8_short:0 "Challenger 1 Mk.3"
  ENG_mbt_equipment_9:0 "FV4034 Challenger 2"
  ENG_mbt_equipment_9_short:0 "Challenger 2"
- 
+
  ENG_mechanized_equipment_1:0 "Universal Carrier"
  ENG_mechanized_equipment_1_short:0 "Universal Carrier"
  ENG_mechanized_equipment_2:0 "Kangaroo"
@@ -2376,7 +2376,7 @@
  ENG_mechanized_equipment_8_short:0 "Stormer"
  ENG_mechanized_equipment_9:0 "FV430 Mk3 Bulldog"
  ENG_mechanized_equipment_9_short:0 "Bulldog"
-  
+
  ENG_mechanized_heavy_equipment_5:0 "FV432 Rarden"
  ENG_mechanized_heavy_equipment_5_short:0 "Rarden"
  ENG_mechanized_heavy_equipment_6:0 "FV510 Warrior"
@@ -2385,12 +2385,12 @@
  ENG_mechanized_heavy_equipment_7_short:0 "Warrior MILAN"
  ENG_mechanized_heavy_equipment_8:0 "Ajax ASCOD"
  ENG_mechanized_heavy_equipment_8_short:0 "Ajax"
- 
+
  ENG_mechanized_marine_equipment_1:0 "Terrapin"
  ENG_mechanized_marine_equipment_1_short:0 "Terrapin"
  ENG_mechanized_marine_equipment_5:0 "BvS 10 Viking"
  ENG_mechanized_marine_equipment_5_short:0 "Viking"
- 
+
  ENG_motorized_equipment_1:0 "CMP Truck"
  ENG_motorized_equipment_1_short:0 "CMP Truck"
  ENG_motorized_equipment_2:0 "Bedford RL GS"
@@ -2400,19 +2400,19 @@
  ENG_motorized_equipment_4:0 "Bedford TM 6-6"
  ENG_motorized_equipment_4_short:0 "Bedford TM"
  ENG_motorized_equipment_5:0 "MAN SV"
- ENG_motorized_equipment_5_short:0 "MAN SV"  
- 
+ ENG_motorized_equipment_5_short:0 "MAN SV"
+
  ########## END OF NEW ENG ARMOR
  ########### NEW ART ENG
- 
+
  ENG_light_sp_artillery_equipment_1:0 "Sexton"
  ENG_light_sp_artillery_equipment_1_short:0 "Sexton"
  ENG_light_sp_artillery_equipment_3:0 "FV433 Abbot"
- ENG_light_sp_artillery_equipment_3_short:0 "FV433 Abbot" 
+ ENG_light_sp_artillery_equipment_3_short:0 "FV433 Abbot"
 
  ENG_sp_artillery_equipment_5:0 "AS-90"
- ENG_sp_artillery_equipment_5_short:0 "AS-90" 
- 
+ ENG_sp_artillery_equipment_5_short:0 "AS-90"
+
  ENG_artillery_equipment_1:0 "BL 5.5"
  ENG_artillery_equipment_1_short:0 "BL 5.5"
  ENG_artillery_equipment_2:0 "M-56 Howitzer"
@@ -2424,17 +2424,17 @@
 
  ENG_motorized_rocket_equipment_4:0 "M270 MLRS"
  ENG_motorized_rocket_equipment_4_short:0 "M270 MLRS"
- 
+
  ENG_medium_tank_destroyer_equipment_1:0 "M10 Achilles"
- ENG_medium_tank_destroyer_equipment_1_short:0 "Achilles" 
+ ENG_medium_tank_destroyer_equipment_1_short:0 "Achilles"
  ENG_medium_tank_destroyer_equipment_2:0 "FV4101 Charioteer"
- ENG_medium_tank_destroyer_equipment_2_short:0 "Charioteer" 
- 
- ########## END OF ENG  
+ ENG_medium_tank_destroyer_equipment_2_short:0 "Charioteer"
+
+ ########## END OF ENG
  ########## NEW FRA ARMOR
- 
+
  FRA_lt_equipment_1:0 "M5 Stuart"
- FRA_lt_equipment_1_short:0 "M5 Stuart" 
+ FRA_lt_equipment_1_short:0 "M5 Stuart"
  FRA_lt_equipment_2:0 "M24"
  FRA_lt_equipment_2_short:0 "M24"
  FRA_lt_equipment_3:0 "AMX-13"
@@ -2445,27 +2445,27 @@
  FRA_lt_equipment_5_short:0 "AML-90"
  FRA_lt_equipment_6:0 "AMX-10 RC"
  FRA_lt_equipment_6_short:0 "AMX-10 RC"
- 
+
  FRA_ht_equipment_1:0 "B1"
  FRA_ht_equipment_1_short:0 "B1"
  FRA_ht_equipment_2:0 "BDR G1 B"
- FRA_ht_equipment_2_short:0 "BDR G1 B" 
+ FRA_ht_equipment_2_short:0 "BDR G1 B"
  FRA_ht_equipment_3:0 "ARL 44"
  FRA_ht_equipment_3_short:0 "ARL 44"
  FRA_ht_equipment_4:0 "AMX-50/120"
  FRA_ht_equipment_4_short:0 "AMX-50/120"
  FRA_ht_equipment_5:0 "AMX-50B"
- FRA_ht_equipment_5_short:0 "AMX-50B" 
- 
+ FRA_ht_equipment_5_short:0 "AMX-50B"
+
  FRA_sht_equipment_1:0 "Char 2C"
- FRA_sht_equipment_1_short:0 "Char 2C" 
+ FRA_sht_equipment_1_short:0 "Char 2C"
 
  FRA_mbt_equipment_0:0 "M4 Sherman"
  FRA_mbt_equipment_0_short:0 "M4 Sherman"
  FRA_mbt_equipment_1:0 "Lorraine 40t"
- FRA_mbt_equipment_1_short:0 "Lorraine 40t" 
+ FRA_mbt_equipment_1_short:0 "Lorraine 40t"
  FRA_mbt_equipment_2:0 "AMX Chasseur de Chars"
- FRA_mbt_equipment_2_short:0 "Chasseur de Chars" 
+ FRA_mbt_equipment_2_short:0 "Chasseur de Chars"
  FRA_mbt_equipment_3:0 "M47 Patton"
  FRA_mbt_equipment_3_short:0 "M47 Patton"
  FRA_mbt_equipment_4:0 "Batignolles-Chatillon Char 25T"
@@ -2480,7 +2480,7 @@
  FRA_mbt_equipment_8_short:0 "AMX Leclerc (Batch 1)"
  FRA_mbt_equipment_9:0 "AMX Leclerc (Batch 2)"
  FRA_mbt_equipment_9_short:0 "AMX Leclerc (Batch 2)"
- 
+
  FRA_mechanized_equipment_1:0 "Unic P107"
  FRA_mechanized_equipment_1_short:0 "Unic P107"
  FRA_mechanized_equipment_2:0 "M5 Halftrack"
@@ -2500,12 +2500,12 @@
  FRA_mechanized_equipment_9:0 "VCI T.20/13"
  FRA_mechanized_equipment_9_short:0 "VCI T.20/13"
  FRA_mechanized_equipment_10:0 "VAB Mk.2"
- FRA_mechanized_equipment_10_short:0 "VAB Mk.2" 
- 
+ FRA_mechanized_equipment_10_short:0 "VAB Mk.2"
+
  FRA_mechanized_heavy_equipment_3:0 "AMX-VCI M.56"
  FRA_mechanized_heavy_equipment_3_short:0 "AMX M.56"
  FRA_mechanized_heavy_equipment_4:0 "AMX-10P"
- FRA_mechanized_heavy_equipment_4_short:0 "AMX-10P" 
+ FRA_mechanized_heavy_equipment_4_short:0 "AMX-10P"
  FRA_mechanized_heavy_equipment_5:0 "AMX-10P 25"
  FRA_mechanized_heavy_equipment_5_short:0 "AMX-10P 25"
  FRA_mechanized_heavy_equipment_6:0 "AMX-10P TMC-81"
@@ -2514,16 +2514,16 @@
  FRA_mechanized_heavy_equipment_7_short:0 "Renault X8A"
  FRA_mechanized_heavy_equipment_8:0 "VBCI"
  FRA_mechanized_heavy_equipment_8_short:0 "VBCI"
- 
+
  FRA_mechanized_marine_equipment_1:0 "Buffalo IV"
  FRA_mechanized_marine_equipment_1_short:0 "Buffalo IV"
  FRA_mechanized_marine_equipment_3:0 "AMX-10P"
  FRA_mechanized_marine_equipment_3_short:0 "AMX-10P"
  FRA_mechanized_marine_equipment_4:0 "AMX-10P TMC-81"
- FRA_mechanized_marine_equipment_4_short:0 "AMX-10P TMC-81" 
+ FRA_mechanized_marine_equipment_4_short:0 "AMX-10P TMC-81"
  FRA_mechanized_marine_equipment_5:0 "BvS 10 Viking"
  FRA_mechanized_marine_equipment_5_short:0 "Viking"
- 
+
  FRA_motorized_equipment_1:0 "Laffly S15"
  FRA_motorized_equipment_1_short:0 "Laffly S15"
  FRA_motorized_equipment_2:0 "Berliet GBC 8 KT"
@@ -2533,11 +2533,11 @@
  FRA_motorized_equipment_4:0 "TRM 10000"
  FRA_motorized_equipment_4_short:0 "TRM 10000"
  FRA_motorized_equipment_5:0 "Renault GBC 180"
- FRA_motorized_equipment_5_short:0 "GBC 180"  
- 
+ FRA_motorized_equipment_5_short:0 "GBC 180"
+
  ########### END OF NEW FRA ARMOR
  ########### NEW ART FRA
- 
+
  FRA_artillery_equipment_1:0 "HM-2"
  FRA_artillery_equipment_1_short:0 "HM-2"
  FRA_artillery_equipment_2:0 "BF-50"
@@ -2561,45 +2561,48 @@
  FRA_spaag_equipment_3_short:0 "AMX-13 DCA"
  FRA_spaag_equipment_4:0 "AMX-30 DCA"
  FRA_spaag_equipment_4_short:0 "AMX-30 DCA"
- 
+
  FRA_sp_artillery_equipment_1:0 "M41 Gorilla"
  FRA_sp_artillery_equipment_1_short:0 "M41 Gorilla"
  FRA_sp_artillery_equipment_2:0 "AMF3 MKF3"
- FRA_sp_artillery_equipment_2_short:0 "AMF3 MKF3" 
+ FRA_sp_artillery_equipment_2_short:0 "AMF3 MKF3"
  FRA_sp_artillery_equipment_3:0 "AMX AuF1"
- FRA_sp_artillery_equipment_3_short:0 "AMX AuF1" 
+ FRA_sp_artillery_equipment_3_short:0 "AMX AuF1"
  FRA_sp_artillery_equipment_4:0 "AMX AuF2"
- FRA_sp_artillery_equipment_4_short:0 "AMX AuF2" 
+ FRA_sp_artillery_equipment_4_short:0 "AMX AuF2"
  FRA_sp_artillery_equipment_5:0 "CAESAR"
  FRA_sp_artillery_equipment_5_short:0 "CAESAR"
- 
+
  FRA_light_sp_artillery_equipment_2:0 "AMX-13 AU 105mm"
  FRA_light_sp_artillery_equipment_2_short:0 "AMX-13 AU 105mm"
- 
- ########## END OF FRA 
+
+ ########## END OF FRA
  ########## NEW HOL ARMOR
- 
+
  HOL_lt_equipment_2:0 "M24 Chaffee"
  HOL_lt_equipment_2_short:0 "M24 Chaffee"
  HOL_lt_equipment_3:0 "AMX-13"
  HOL_lt_equipment_3_short:0 "AMX-13"
- 
+
  HOL_mbt_equipment_2:0 "Centurion"
  HOL_mbt_equipment_2_short:0 "Centurion"
  HOL_mbt_equipment_3:0 "M47 Patton II"
  HOL_mbt_equipment_3_short:0 "M47 Patton II"
  HOL_mbt_equipment_4:0 "Centurion Mk.7"
  HOL_mbt_equipment_4_short:0 "Centurion Mk.7"
- HOL_mbt_equipment_5:0 "Leopard 1 NL"
- HOL_mbt_equipment_5_short:0 "Leopard 1 NL"
- HOL_mbt_equipment_6:0 "Leopard 1V NL"
- HOL_mbt_equipment_6_short:0 "Leopard 1V NL"
+ HOL_mbt_equipment_5:0 "Leopard 1"
+ HOL_mbt_equipment_5_short:0 "Leopard 1"
+ HOL_mbt_equipment_6:0 "Leopard 1V"
+ HOL_mbt_equipment_6_short:0 "Leopard 1V"
+ HOL_mbt_equipment_6:0_desc:0 "Improved version of the Leopard 1"
  HOL_mbt_equipment_7:0 "Leopard 1A5"
  HOL_mbt_equipment_7_short:0 "Leopard 1A5"
- HOL_mbt_equipment_8:0 "Leopard 2A1 NL"
- HOL_mbt_equipment_8_short:0 "Leopard 2A1 NL"
- HOL_mbt_equipment_9:0 "Leopard 2A5 NL"
- HOL_mbt_equipment_9_short:0 "Leopard 2A5 NL"
+ HOL_mbt_equipment_8:0 "Leopard 2A1"
+ HOL_mbt_equipment_8_short:0 "Leopard 2A1"
+ HOL_mbt_equipment_8:0_desc:0 "Improved version of the Leopard 2A0. The most notable change were the modification of the ammunition racks to be identical to those in the M1A1 Abrams."
+ HOL_mbt_equipment_9:0 "Leopard 2A5"
+ HOL_mbt_equipment_9_short:0 "Leopard 2A5"
+ HOL_mbt_equipment_9:0_desc:0 "The Leopard 2A5 introduced a wedge-shaped, spaced add-on armour to the turret front and the frontal area of the sides. The gun braking system was improved to prepare for the later mounting of the new L/55 gun tube and to enable firing of more powerful ammunition, such as the DM-53 APFSDS."
 
  HOL_mechanized_equipment_4:0 "AMX-PRI"
  HOL_mechanized_equipment_4_short:0 "AMX-PRI"
@@ -2609,15 +2612,17 @@
  HOL_mechanized_equipment_7_short:0 "TPz Fuchs"
  HOL_mechanized_equipment_10:0 "KMW GTK Boxer"
  HOL_mechanized_equipment_10_short:0 "Boxer"
-  
+ HOL_mechanized_equipment_10:0_desc:0 "The Boxer is a multirole armoured fighting vehicle designed by an international consortium to accomplish a number of operations through the use of installable mission modules"
+
+
  HOL_mechanized_heavy_equipment_1:0 "YPR-765 AIFV"
  HOL_mechanized_heavy_equipment_1_short:0 "YPR-765 AIFV"
  HOL_mechanized_heavy_equipment_3:0 "CV9035NL"
  HOL_mechanized_heavy_equipment_3_short:0 "CV9035NL"
- 
+ HOL_mechanized_heavy_equipment_3:0_desc "Armed with a Bushmaster III 35/50 cannon"
  HOL_mechanized_marine_equipment_1:0 "LVT-4 Water Buffalo"
  HOL_mechanized_marine_equipment_1_short:0 "LVT-4"
- 
+
  ########### END OF NEW HOL ARMOR
  ########### NEW ART HOL
 
@@ -2632,16 +2637,16 @@
  HOL_sp_artillery_equipment_4_short:0 "M109A3"
  HOL_sp_artillery_equipment_5:0 "Panzerhaubitze 2000"
  HOL_sp_artillery_equipment_5_short:0 "PzH 2000"
- 
- ########## END OF HOL 
+
+ ########## END OF HOL
  ########## NEW SPR ARMOR
- 
+
  SPR_lt_equipment_1:0 "T-26"
  SPR_lt_equipment_1_short:0 "T-26"
  SPR_lt_equipment_2:0 "M24 Chaffee"
- SPR_lt_equipment_2_short:0 "M24 Chaffee" 
+ SPR_lt_equipment_2_short:0 "M24 Chaffee"
  SPR_lt_equipment_3:0 "M41 Walker Buldog"
- SPR_lt_equipment_3_short:0 "M41 Walker Buldog" 
+ SPR_lt_equipment_3_short:0 "M41 Walker Buldog"
 
  SPR_mbt_equipment_0:0 "Panzerkampfwagen IV Aufs. H"
  SPR_mbt_equipment_0_short:0 "PzKpf IV.H"
@@ -2667,9 +2672,9 @@
  SPR_mechanized_equipment_8:0 "BMR-625 VEC"
  SPR_mechanized_equipment_8_short:0 "BMR-625 VEC"
  SPR_mechanized_equipment_9:0 "Pirahna IIIC"
- SPR_mechanized_equipment_9_short:0 "Pirahna IIIC" 
+ SPR_mechanized_equipment_9_short:0 "Pirahna IIIC"
  SPR_mechanized_equipment_10:0 "Pirahna IIIC Lance"
- SPR_mechanized_equipment_10_short:0 "Lance" 
+ SPR_mechanized_equipment_10_short:0 "Lance"
 
  SPR_mechanized_heavy_equipment_4:0 "M113 ACAV"
  SPR_mechanized_heavy_equipment_4_short:0 "M113 ACAV"
@@ -2680,17 +2685,17 @@
  SPR_mechanized_marine_equipment_5:0 "Bandvagn 206"
  SPR_mechanized_marine_equipment_5_short:0 "Bandvagn 206"
 
- ########### END OF NEW SPR ARMOR 
+ ########### END OF NEW SPR ARMOR
 
  ########### NEW ART SPR
- 
+
  SPR_auto_cannon_equipment_1:0 "L/70 Bofors 40 mm gun"
- 
+
  ########## END OF SPR
  ########## NEW WGR ARMOR
- 
+
  WGR_lt_equipment_1:0 "Panzerkamfwagen II Aufs.C"
- WGR_lt_equipment_1_short:0 "PzKpfw IIC" 
+ WGR_lt_equipment_1_short:0 "PzKpfw IIC"
  WGR_lt_equipment_2:0 "M24 Chaffee"
  WGR_lt_equipment_2_short:0 "M24 Chaffee"
  WGR_lt_equipment_3:0 "M41 Walker Bulldog"
@@ -2699,16 +2704,16 @@
  WGR_lt_equipment_4_short:0 "Ru251"
  WGR_lt_equipment_5:0 "Begleitpanzer 57 AIFSV"
  WGR_lt_equipment_5_short:0 "Begleitpanzer 57"
- 
+
  WGR_ht_equipment_1:0 "Panzerkampfwagen VI Tiger"
  WGR_ht_equipment_1_short:0 "PzKpfw VI Tiger"
  WGR_ht_equipment_2:0 "Panzerkampfwagen VI Ausf.B Tiger II"
- WGR_ht_equipment_2_short:0 "Konigstiger" 
+ WGR_ht_equipment_2_short:0 "Konigstiger"
 
  WGR_mbt_equipment_0:0 "KPz M4A3 Sherman"
  WGR_mbt_equipment_0_short:0 "KPz M4A3 Sherman"
  WGR_mbt_equipment_1:0 "Kpz V Panther"
- WGR_mbt_equipment_1_short:0 "KPz V Panther" 
+ WGR_mbt_equipment_1_short:0 "KPz V Panther"
  WGR_mbt_equipment_3:0 "KPz M47 Patton"
  WGR_mbt_equipment_3_short:0 "KPz M47 Patton"
  WGR_mbt_equipment_4:0 "KPz M48A2G"
@@ -2725,7 +2730,7 @@
  WGR_mbt_equipment_9_short:0 "Leopard 2A6"
 
  WGR_mechanized_equipment_1:0 "SdKfz 250"
- WGR_mechanized_equipment_1_short:0 "SdKfz 250" 
+ WGR_mechanized_equipment_1_short:0 "SdKfz 250"
  WGR_mechanized_equipment_2:0 "M5 Half-Track"
  WGR_mechanized_equipment_2_short:0 "M5 Half-Track"
  WGR_mechanized_equipment_4:0 "SPz 11-2 Kurz"
@@ -2751,16 +2756,16 @@
  WGR_mechanized_heavy_equipment_7_short:0 "Marder 1A3"
  WGR_mechanized_heavy_equipment_8:0 "Marder 1A5"
  WGR_mechanized_heavy_equipment_8_short:0 "Marder 1A5"
- 
+
  WGR_mechanized_marine_equipment_3:0 "SpPz Luchs"
  WGR_mechanized_marine_equipment_3_short:0 "SpPz Luchs"
- 
+
  WGR_motorized_equipment_1:0 "Opel Blitz"
- WGR_motorized_equipment_1_short:0 "Opel Blitz" 
- 
+ WGR_motorized_equipment_1_short:0 "Opel Blitz"
+
  ########### END OF NEW WGR ARMOR
  ########### NEW ART WGR
- 
+
  WGR_light_artillery_equipment_2:0 "M101A1 105 mm"
  WGR_light_artillery_equipment_2_short:0 "M101A1 105 mm"
 
@@ -2782,9 +2787,9 @@
  WGR_sp_artillery_equipment_5:0 "Panzerhaubitze 2000"
  WGR_sp_artillery_equipment_5_short:0 "Panzerhaubitze 2000"
 
- ########## END OF WGR 
+ ########## END OF WGR
  ########## NEW USA ARMOR
- 
+
  USA_lt_equipment_1:0 "M5 Stuart"
  USA_lt_equipment_1_short:0 "M5 Stuart"
  USA_lt_equipment_1_desc:0 "The M5 Stuart is a little tank developed by the US Army Ordnance Department in 1941 to serve a light tank role. It has thin 63.5mm armor and a 37mm main gun with 3 7.62mm Browning secondary armaments. It uses a twin cadillac V8 engine that can reach speeds up to 36 mph offroad and has an operational range of 100 miles. It was lend-leased extensively throughout WWII even when the US entered the war. "
@@ -2803,7 +2808,7 @@
  USA_lt_equipment_6:0 "M8 Armored Gun System 'Buford'"
  USA_lt_equipment_6_short:0 "M8 AGS Buford"
  USA_lt_equipment_6_desc:0 "The M8 AGS Buford is an experimental recon tank designed by Cadillac in the late 1990s, but the project was cancelled. Due to the M8s cancellation and the cessation of production of the M551 in 1997, there was a long period of time where the US was without any recon tanks. It would not be until 2016 where the M1128 would eventually begin production to fill that role. The M8 would have had aluminum armor and a 105mm main gun with long-range anti-tank capability. The engine in the prototypes varied greatly and no engine was settled although the 6V 92TIA from the Detroit Diesel Corporation was the best candidate that had an offroad speed of 30 miles per hour. The tank first saw combat in some fields outside Detroit where the prototypes were tested and then again when an officer from the local base got approval to take it for a joyride and he accidentally ran over a squirrel."
- 
+
  USA_ht_equipment_1:0 "Heavy Tank M6"
  USA_ht_equipment_1_short:0 "M6"
  USA_ht_equipment_1_desc:0 "The M6 is a heavy tank created by the US Army Ordnance Corps in the 40s. It did not see wide use during WWII as only 40 were built. The tank, despite being a heavy tank, only had 83mm armor. It was armed with 2 main guns. One of them was a 76.2mm and the other was a 37mm. The tank has 4 secondary MG armaments. The tank had a G-200 9 cylinder gasoline tank with a Timken mechanical 3 speed transmission and a horizontal volute spring to support its 57.4 ton mass. It has an operational range of 100 miles and a speed of 22 mph but as a result, needs to use 477 gallons of fuel to move this distance. It was eventually decided that the M6 was not worth the expense of development and the project was cancelled with 40 unfinished test prototypes being used in the field."
@@ -2819,7 +2824,7 @@
  USA_ht_equipment_5:0 "120mm Gun Combat Tank M103A2"
  USA_ht_equipment_5_short:0 "M103A2"
  USA_ht_equipment_5_desc:0 "The M103A2 is an improvement to the M103 made in the 60s by Chrysler. 200 units were created but it did not see combat. It replaced the M103’s engine with an AVDS1790-2 V12 twin turbocharged engine, granting it significant advantages over the M103. The improved engine could carry it 295 miles at 23 mph and had significant mobility using the same fuel as the M103. There were also some minor other improvements made to the parts of the M103 such as a slightly different model of transmission but was ultimately the same. The M103A2 was the last heavy tank created by the US because main battle tanks supplanted the need for heavy tanks and could carry more firepower with less weight and more mobility."
- 
+
  USA_sht_equipment_1_:0 "T95 GMC"
  USA_sht_equipment_1_short:0 "T95 Gun Motor Carriage"
  USA_sht_equipment_1_desc:0 "The T95 Gun Motor Carriage is a super heavy bunker destroyer developed in 1945 by the Pacific Car and Foundry. It never saw combat and only 2 prototypes were created. It weighs 95 tons and is 36x14x9 ft large needing a crew of 4 individuals. The armor is 1ft thick in every part and used a GAF V-8 engine. The tank uses 2 tracks and a horizontal volute spring suspension. The T95 is equipped with a 105mm main gun and has a M2 Browning secondary armament. It was initially designed to break through german defenses and was later considered for the invasion of the Japanese mainland. Production was already planned but the dropping of the 2 atomic bombs ended the war and the project was cancelled before a unit could be manufactured."
@@ -2914,7 +2919,7 @@
  USA_mechanized_heavy_equipment_8:0 "M2A3 Bradley"
  USA_mechanized_heavy_equipment_8_short:0 "M2A3 Bradley"
  USA_mechanized_heavy_equipment_8_desc:0 "The M2A3 Bradley is a further improvement to the Bradley developed by BAE systems in 2000. The A3 made the bradley completely digital and made everything in the vehicle remotely controllable. Many different armor improvements were also added to make the vehicle more survivable. Additionally, the NBC toolkit of the Bradley which includes further radiation protection, air filters, and chemical resistance was added. "
- 
+
  USA_mechanized_marine_equipment_1:0 "LVT-4 Water Buffalo"
  USA_mechanized_marine_equipment_1_short:0 "LVT-4"
  USA_mechanized_marine_equipment_1_desc:0 "The LVTP-4 is an amphibious landing vehicle designed by the Ford Machinery Corporation in the early 40s. The LVTP-4 was used in WWII, Korea, and Vietnam. It uses a W-670-9A 7 cylinder radial engine and can travel up to 75 miles in water at 7 mph. An evolution to the LVTP-1, the LVTP-4 is capable of swimming incredible distances albeit at slow speeds. If you need to cross 70 miles of water and have about 10 hours to do so, the LVTP-4 is your vehicle of choice. It is capable of carrying troops or vehicles. "
@@ -2946,10 +2951,10 @@
  USA_motorized_equipment_5:0 "MTVR"
  USA_motorized_equipment_5_short:0 "MTVR"
  USA_motorized_equipment_5_desc:0 "The MTVR is a 7 ton 6x6 truck designed by Oshkosh Defense in 1996. It saw use in every western sphere conflict since 2001. The MTVR uses a C-12 Caterpillar engine, 4070P 7-speed automatic transmission with differential lock, and TAK-4 coil spring suspension with anti-roll. The vehicle is able to carry 7000 lbs. It can move at 65 mph for 300 miles and gets 4 mi/gal. The MTVR does not have the load capacity of the M939 and is less fuel efficient so it has not supplanted it, but it is still more reliable and capable in difficult conditions. Additionally, the MTVR is more survivable and more capable of dealing with potentially dangerous situations providing more small arms protection than the M939."
- 
- ########### END OF NEW USA ARMOR 
+
+ ########### END OF NEW USA ARMOR
  ########### NEW ART USA
- 
+
  USA_auto_cannon_equipment_1:0 "L/70 Bofors 40 mm gun"
  USA_auto_cannon_equipment_1_short:0 "L/70 Bofors"
  USA_auto_cannon_equipment_2:0 "M167 VADS"
@@ -2962,7 +2967,7 @@
  USA_auto_cannon_equipment_5_short:0 "Skyshield SHORAD"
 
  USA_spaag_equipment_1:0 "M16 Multiple Gun Motor Carriage"
- USA_spaag_equipment_1_short:0 "M16 Half-Track" 
+ USA_spaag_equipment_1_short:0 "M16 Half-Track"
  USA_spaag_equipment_2:0 "M42 40 mm Self-Propelled Anti-Aircraft Gun 'Duster'"
  USA_spaag_equipment_2_short:0 "M42 Duster"
  USA_spaag_equipment_3:0 "M163 VADS"
@@ -2981,10 +2986,10 @@
  USA_light_artillery_equipment_4:0 "M119 105 mm"
  USA_light_artillery_equipment_4_short:0 "M119 105 mm"
  USA_light_artillery_equipment_5:0 "M119A2 105 mm"
- USA_light_artillery_equipment_5_short:0 "M119A2 105 mm" 
+ USA_light_artillery_equipment_5_short:0 "M119A2 105 mm"
 
  USA_light_sp_artillery_equipment_1:0 "M7 Priest"
- USA_light_sp_artillery_equipment_1_short:0 "M7 Priest" 
+ USA_light_sp_artillery_equipment_1_short:0 "M7 Priest"
  USA_light_sp_artillery_equipment_2:0 "M52 SPH"
  USA_light_sp_artillery_equipment_2_short:0 "M52 SPH"
  USA_light_sp_artillery_equipment_3:0 "M106 mortar carrier"
@@ -2999,14 +3004,14 @@
  USA_artillery_equipment_2:0 "M114A1 155 mm"
  USA_artillery_equipment_2_short:0 "M114A1 155 mm"
  USA_artillery_equipment_3:0 "XM123 155 mm"
- USA_artillery_equipment_3_short:0 "XM123 155 mm" 
+ USA_artillery_equipment_3_short:0 "XM123 155 mm"
  USA_artillery_equipment_4:0 "M198 155 mm"
  USA_artillery_equipment_4_short:0 "M198 155 mm"
  USA_artillery_equipment_5:0 "M777 155 mm"
  USA_artillery_equipment_5_short:0 "M777 155 mm"
- 
+
  USA_sp_artillery_equipment_1:0 "M41 Gorilla"
- USA_sp_artillery_equipment_1_short:0 "M41 Gorilla" 
+ USA_sp_artillery_equipment_1_short:0 "M41 Gorilla"
  USA_sp_artillery_equipment_2:0 "M55 SPH"
  USA_sp_artillery_equipment_2_short:0 "M55"
  USA_sp_artillery_equipment_3:0 "M109"
@@ -3017,7 +3022,7 @@
  USA_sp_artillery_equipment_5_short:0 "XM2001"
 
  USA_heavy_artillery_equipment_1:0 "M1 Howitzer 240 mm"
- USA_heavy_artillery_equipment_1_short:0 "M1 240 mm" 
+ USA_heavy_artillery_equipment_1_short:0 "M1 240 mm"
  USA_heavy_artillery_equipment_2:0 "M65 Atomic Cannon"
  USA_heavy_artillery_equipment_2_short:0 "M65"
  USA_heavy_artillery_equipment_3:0 "175 mm M113A1"
@@ -3030,7 +3035,7 @@
  USA_heavy_sp_artillery_equipment_1:0 "T92 Howitzer Motor Carriage"
  USA_heavy_sp_artillery_equipment_1_short:0 "T92"
  USA_heavy_sp_artillery_equipment_2:0 "T93 Howitzer Motor Carriage"
- USA_heavy_sp_artillery_equipment_2_short:0 "T93" 
+ USA_heavy_sp_artillery_equipment_2_short:0 "T93"
  USA_heavy_sp_artillery_equipment_3:0 "M107 self-propelled gun"
  USA_heavy_sp_artillery_equipment_3_short:0 "M107"
  USA_heavy_sp_artillery_equipment_4:0 "M110"
@@ -3044,7 +3049,7 @@
  USA_direct_fire_gun_equipment_2_short:0 "T9"
 
  USA_medium_tank_destroyer_equipment_1:0 "M36 Jackson"
- USA_medium_tank_destroyer_equipment_1_short:0 "M36 Jackson" 
+ USA_medium_tank_destroyer_equipment_1_short:0 "M36 Jackson"
  USA_medium_tank_destroyer_equipment_2:0 "M56 Scorpion"
  USA_medium_tank_destroyer_equipment_2_short:0 "M56"
  USA_medium_tank_destroyer_equipment_3:0 "M113 105 mm"
@@ -3101,7 +3106,7 @@
  USA_atgm_carrier_equipment_4_desc:0 ""
  USA_atgm_carrier_equipment_5:0 "M1134 Anti-Tank Guided Missile Vehicle"
  USA_atgm_carrier_equipment_5_short:0 "M1134"
- USA_atgm_carrier_equipment_5_desc:0 "" 
+ USA_atgm_carrier_equipment_5_desc:0 ""
 
  USA_sam_carrier_equipment_1:0 "MIM-23 Hawk"
  USA_sam_carrier_equipment_1_short:0 "MIM-23 Hawk"
@@ -3117,17 +3122,17 @@
  USA_sam_carrier_equipment_4_desc:0 ""
  USA_sam_carrier_equipment_5:0 "AN/TWQ-1 Avenger"
  USA_sam_carrier_equipment_5_short:0 "AN/TWQ-1 Avenger"
- USA_sam_carrier_equipment_5_desc:0 "" 
- 
+ USA_sam_carrier_equipment_5_desc:0 ""
+
  USA_groundaam_1:0 "Nike Ajax"
  USA_groundaam_2:0 "MIM-14 Nike Hercules"
  USA_groundaam_3:0 "MIM-14 Improved Nike Hercules"
  USA_groundaam_4:0 "MIM-104A Patriot"
  USA_groundaam_5:0 "MIM-104D Patriot"
- USA_groundaam_6:0 "MIM-104F Patriot" 
- 
- ########## END OF USA 
- 
+ USA_groundaam_6:0 "MIM-104F Patriot"
+
+ ########## END OF USA
+
  ##################### EASTERN BLOCK
 
  ########## NEW ALB ARMOR
@@ -3135,21 +3140,21 @@
  ALB_lt_equipment_1:0 "T-60"
  ALB_lt_equipment_1_short:0 "T-60"
  ALB_lt_equipment_2:0 "T-70"
- ALB_lt_equipment_2_short:0 "T-70" 
+ ALB_lt_equipment_2_short:0 "T-70"
  ALB_lt_equipment_3:0 "PT-76"
  ALB_lt_equipment_3_short:0 "PT-76"
- 
+
  ALB_ht_equipment_1:0 "IS-2"
  ALB_ht_equipment_1_short:0 "IS-2"
- 
+
  ALB_mbt_equipment_0:0 "T-34-85"
  ALB_mbt_equipment_0_short:0 "T-34-85"
  ALB_mbt_equipment_1:0 "T-34-85M"
- ALB_mbt_equipment_1_short:0 "T-34-85M" 
+ ALB_mbt_equipment_1_short:0 "T-34-85M"
  ALB_mbt_equipment_2:0 "T-54"
- ALB_mbt_equipment_2_short:0 "T-54" 
+ ALB_mbt_equipment_2_short:0 "T-54"
  ALB_mbt_equipment_3:0 "T-55"
- ALB_mbt_equipment_3_short:0 "T-55" 
+ ALB_mbt_equipment_3_short:0 "T-55"
 
  ALB_mechanized_equipment_3:0 "BTR-40"
  ALB_mechanized_equipment_3_short:0 "BTR-40"
@@ -3163,50 +3168,50 @@
  ALB_mechanized_heavy_equipment_2:0 "BTR-50PK"
  ALB_mechanized_heavy_equipment_2_short:0 "BTR-50PK"
  ALB_mechanized_heavy_equipment_3:0 "MT-LB"
- ALB_mechanized_heavy_equipment_3_short:0 "MT-LB" 
+ ALB_mechanized_heavy_equipment_3_short:0 "MT-LB"
  ALB_mechanized_heavy_equipment_4:0 "BMP-1"
  ALB_mechanized_heavy_equipment_4_short:0 "BMP-1"
  ALB_mechanized_heavy_equipment_5:0 "BMP-1P"
- ALB_mechanized_heavy_equipment_5_short:0 "BMP-1P" 
- 
+ ALB_mechanized_heavy_equipment_5_short:0 "BMP-1P"
+
  ALB_motorized_equipment_1:0 "Fiat 626"
  ALB_motorized_equipment_1_short:0 "Fiat 626"
  ALB_motorized_equipment_2:0 "ZiL-151"
  ALB_motorized_equipment_2_short:0 "ZiL-151"
  ALB_motorized_equipment_3:0 "ZiL-157"
  ALB_motorized_equipment_3_short:0 "ZiL-157"
- 
+
  ########### END OF NEW ALB ARMOR
  ########### NEW ART ALB
- 
+
  ALB_auto_cannon_equipment_1:0 "KS-19 100 mm"
  ALB_auto_cannon_equipment_1_short:0 "KS-19"
  ALB_auto_cannon_equipment_2:0 "S-60"
  ALB_auto_cannon_equipment_2_short:0 "S-60"
 
  ALB_light_artillery_equipment_1:0 "M-30 122 mm"
- ALB_light_artillery_equipment_1_short:0 "M-30 122 mm" 
- 
+ ALB_light_artillery_equipment_1_short:0 "M-30 122 mm"
+
  ALB_light_sp_artillery_equipment_1:0 "SU-122"
  ALB_light_sp_artillery_equipment_1_short:0 "SU-122"
- 
+
  ALB_artillery_equipment_1:0 "ML-20 152 mm"
  ALB_artillery_equipment_1_short:0 "ML-20 152 mm"
 
  ALB_sp_artillery_equipment_1:0 "ISU-152"
  ALB_sp_artillery_equipment_1_short:0 "ISU-152"
- 
+
  ALB_direct_fire_gun_equipment_1:0 "D-44 85 mm"
- ALB_direct_fire_gun_equipment_1_short:0 "D-44 85 mm" 
+ ALB_direct_fire_gun_equipment_1_short:0 "D-44 85 mm"
 
  ALB_medium_tank_destroyer_equipment_1:0 "SU-85"
- ALB_medium_tank_destroyer_equipment_1_short:0 "SU-85" 
- 
+ ALB_medium_tank_destroyer_equipment_1_short:0 "SU-85"
+
  ALB_motorized_rocket_equipment_1:0 "BM-13 Katyusha"
- ALB_motorized_rocket_equipment_1_short:0 "Katyusha" 
+ ALB_motorized_rocket_equipment_1_short:0 "Katyusha"
  ALB_motorized_rocket_equipment_2:0 "BM-21 Grad"
  ALB_motorized_rocket_equipment_2_short:0 "Grad"
- 
+
  ALB_atgm_equipment_1:0 "3M6 Shmel"
  ALB_atgm_equipment_1_short:0 "3M6 Shmel"
  ALB_atgm_equipment_1_desc:0 ""
@@ -3227,33 +3232,33 @@
  ALB_sam_carrier_equipment_2:0 "9K31 Strela-1"
  ALB_sam_carrier_equipment_2_short:0 "9K31 Strela-1"
  ALB_sam_carrier_equipment_2_desc:0 ""
- 
+
  ALB_groundaam_1:0 "S-75 Dvina"
  ALB_groundaam_2:0 "S-125 Neva"
- 
- ########### END OF ALB 
+
+ ########### END OF ALB
  ########## NEW BUL ARMOR
 
  BUL_lt_equipment_1:0 "T-60"
  BUL_lt_equipment_1_short:0 "T-60"
  BUL_lt_equipment_2:0 "T-70"
- BUL_lt_equipment_2_short:0 "T-70" 
+ BUL_lt_equipment_2_short:0 "T-70"
  BUL_lt_equipment_3:0 "PT-76"
  BUL_lt_equipment_3_short:0 "PT-76"
- 
+
  BUL_ht_equipment_1:0 "IS-2"
  BUL_ht_equipment_1_short:0 "IS-2"
- 
+
  BUL_mbt_equipment_0:0 "T-34-85"
  BUL_mbt_equipment_0_short:0 "T-34-85"
  BUL_mbt_equipment_1:0 "T-34-85M"
- BUL_mbt_equipment_1_short:0 "T-34-85M" 
+ BUL_mbt_equipment_1_short:0 "T-34-85M"
  BUL_mbt_equipment_2:0 "T-54"
- BUL_mbt_equipment_2_short:0 "T-54" 
+ BUL_mbt_equipment_2_short:0 "T-54"
  BUL_mbt_equipment_3:0 "T-55"
- BUL_mbt_equipment_3_short:0 "T-55" 
+ BUL_mbt_equipment_3_short:0 "T-55"
  BUL_mbt_equipment_4:0 "T-62"
- BUL_mbt_equipment_4_short:0 "T-62" 
+ BUL_mbt_equipment_4_short:0 "T-62"
  BUL_mbt_equipment_6:0 "T-72"
  BUL_mbt_equipment_6_short:0 "T-72"
  BUL_mbt_equipment_7:0 "T-80"
@@ -3273,14 +3278,14 @@
  BUL_mechanized_heavy_equipment_2:0 "BTR-50PK"
  BUL_mechanized_heavy_equipment_2_short:0 "BTR-50PK"
  BUL_mechanized_heavy_equipment_3:0 "MT-LB"
- BUL_mechanized_heavy_equipment_3_short:0 "MT-LB" 
+ BUL_mechanized_heavy_equipment_3_short:0 "MT-LB"
  BUL_mechanized_heavy_equipment_4:0 "BMP-1"
  BUL_mechanized_heavy_equipment_4_short:0 "BMP-1"
  BUL_mechanized_heavy_equipment_5:0 "BMP-1P"
- BUL_mechanized_heavy_equipment_5_short:0 "BMP-1P" 
+ BUL_mechanized_heavy_equipment_5_short:0 "BMP-1P"
  BUL_mechanized_heavy_equipment_6:0 "BMP-23"
- BUL_mechanized_heavy_equipment_6_short:0 "BMP-23" 
- 
+ BUL_mechanized_heavy_equipment_6_short:0 "BMP-23"
+
  BUL_motorized_equipment_1:0 "Fiat 626"
  BUL_motorized_equipment_1_short:0 "Fiat 626"
  BUL_motorized_equipment_2:0 "ZiL-151"
@@ -3290,53 +3295,53 @@
  BUL_motorized_equipment_4:0 "Tatra 815 6x6"
  BUL_motorized_equipment_4_short:0 "Tatra 815"
  BUL_motorized_equipment_5:0 "Mercedes-Benz Zetros"
- BUL_motorized_equipment_5_short:0 "Zetros"  
- 
+ BUL_motorized_equipment_5_short:0 "Zetros"
+
  ########### END OF NEW BUL ARMOR
  ########### NEW ART BUL
- 
+
  BUL_auto_cannon_equipment_1:0 "KS-19 100 mm"
  BUL_auto_cannon_equipment_1_short:0 "KS-19"
  BUL_auto_cannon_equipment_2:0 "S-60"
  BUL_auto_cannon_equipment_2_short:0 "S-60"
  BUL_auto_cannon_equipment_3:0 "ZU-23-2"
- BUL_auto_cannon_equipment_3_short:0 "ZU-23-2" 
+ BUL_auto_cannon_equipment_3_short:0 "ZU-23-2"
 
  BUL_light_artillery_equipment_1:0 "M-30 122 mm"
- BUL_light_artillery_equipment_1_short:0 "M-30 122 mm" 
- 
+ BUL_light_artillery_equipment_1_short:0 "M-30 122 mm"
+
  BUL_light_sp_artillery_equipment_1:0 "SU-122"
  BUL_light_sp_artillery_equipment_1_short:0 "SU-122"
  BUL_light_sp_artillery_equipment_3:0 "2S1 Gvozdika"
- BUL_light_sp_artillery_equipment_3_short:0 "2S1 Gvozdika" 
- 
+ BUL_light_sp_artillery_equipment_3_short:0 "2S1 Gvozdika"
+
  BUL_artillery_equipment_1:0 "ML-20 152 mm"
  BUL_artillery_equipment_1_short:0 "ML-20 152 mm"
  BUL_artillery_equipment_2:0 "D-20 M1955 152 mm"
- BUL_artillery_equipment_2_short:0 "D-20 152 mm"  
+ BUL_artillery_equipment_2_short:0 "D-20 152 mm"
 
  BUL_sp_artillery_equipment_1:0 "ISU-152"
  BUL_sp_artillery_equipment_1_short:0 "ISU-152"
  BUL_sp_artillery_equipment_2:0 "2S3 Akatsiya"
  BUL_sp_artillery_equipment_2_short:0 "2S3 Akatsiya"
- 
+
  BUL_direct_fire_gun_equipment_1:0 "D-44 85 mm"
- BUL_direct_fire_gun_equipment_1_short:0 "D-44 85 mm" 
+ BUL_direct_fire_gun_equipment_1_short:0 "D-44 85 mm"
  BUL_direct_fire_gun_equipment_2:0 "T-12 100 mm"
- BUL_direct_fire_gun_equipment_2_short:0 "T-12 100 mm" 
+ BUL_direct_fire_gun_equipment_2_short:0 "T-12 100 mm"
  BUL_direct_fire_gun_equipment_3:0 "MT-12 100 mm"
- BUL_direct_fire_gun_equipment_3_short:0 "MT-12 100 mm" 
+ BUL_direct_fire_gun_equipment_3_short:0 "MT-12 100 mm"
 
  BUL_medium_tank_destroyer_equipment_1:0 "SU-85"
- BUL_medium_tank_destroyer_equipment_1_short:0 "SU-85" 
- 
+ BUL_medium_tank_destroyer_equipment_1_short:0 "SU-85"
+
  BUL_motorized_rocket_equipment_1:0 "BM-13 Katyusha"
- BUL_motorized_rocket_equipment_1_short:0 "Katyusha" 
+ BUL_motorized_rocket_equipment_1_short:0 "Katyusha"
  BUL_motorized_rocket_equipment_2:0 "BM-21"
  BUL_motorized_rocket_equipment_2_short:0 "BM-21"
  BUL_motorized_rocket_equipment_3:0 "RM-70"
- BUL_motorized_rocket_equipment_3_short:0 "RM-70" 
- 
+ BUL_motorized_rocket_equipment_3_short:0 "RM-70"
+
  BUL_atgm_equipment_1:0 "3M6 Shmel"
  BUL_atgm_equipment_1_short:0 "3M6 Shmel"
  BUL_atgm_equipment_1_desc:0 ""
@@ -3366,17 +3371,17 @@
  BUL_sam_carrier_equipment_3:0 "9K37 Buk"
  BUL_sam_carrier_equipment_3_short:0 "9K37 Buk"
  BUL_sam_carrier_equipment_3_desc:0 ""
- 
+
  BUL_groundaam_1:0 "S-75 Dvina"
  BUL_groundaam_2:0 "S-125 Neva"
  BUL_groundaam_3:0 "S-200 Vega"
  BUL_groundaam_4:0 "S-300"
- 
- ########### END OF BUL 
+
+ ########### END OF BUL
  ########## NEW CZE ARMOR, MECHANIZED
 
  CZE_lt_equipment_1:0 "LT vz.38"
- CZE_lt_equipment_1_short:0 "LT vz.38" 
+ CZE_lt_equipment_1_short:0 "LT vz.38"
 
  CZE_ht_equipment_1:0 "IS-2"
  CZE_ht_equipment_1_short:0 "IS-2"
@@ -3386,24 +3391,24 @@
  CZE_mbt_equipment_0:0 "T-34-85"
  CZE_mbt_equipment_0_short:0 "T-34-85"
  CZE_mbt_equipment_1:0 "T-50"
- CZE_mbt_equipment_1_short:0 "T-50" 
+ CZE_mbt_equipment_1_short:0 "T-50"
  CZE_mbt_equipment_2:0 "T-54"
  CZE_mbt_equipment_2_short:0 "T-54"
  CZE_mbt_equipment_3:0 "T-55"
  CZE_mbt_equipment_3_short:0 "T-55"
  CZE_mbt_equipment_4:0 "T-62"
- CZE_mbt_equipment_4_short:0 "T-62" 
+ CZE_mbt_equipment_4_short:0 "T-62"
  CZE_mbt_equipment_6:0 "T-72"
  CZE_mbt_equipment_6_short:0 "T-72"
  CZE_mbt_equipment_7:0 "T-72M2 Moderna"
- CZE_mbt_equipment_7_short:0 "T-72M2 Moderna" 
+ CZE_mbt_equipment_7_short:0 "T-72M2 Moderna"
  CZE_mbt_equipment_8:0 "T-72M4Cz"
  CZE_mbt_equipment_8_short:0 "T-72M4Cz"
 
  CZE_mechanized_equipment_4:0 "OT-810"
  CZE_mechanized_equipment_4_short:0 "OT-810"
  CZE_mechanized_equipment_5:0 "OT-65 Vydra"
- CZE_mechanized_equipment_5_short:0 "OT-65 Vydra" 
+ CZE_mechanized_equipment_5_short:0 "OT-65 Vydra"
  CZE_mechanized_equipment_6:0 "OT-64"
  CZE_mechanized_equipment_6_short:0 "OT-64"
  CZE_mechanized_equipment_7:0 "OT-64C"
@@ -3413,14 +3418,14 @@
  CZE_mechanized_equipment_9:0 "OT-90"
  CZE_mechanized_equipment_9_short:0 "OT-90"
  CZE_mechanized_equipment_10:0 "KTO Rosomak"
- CZE_mechanized_equipment_10_short:0 "KTO Rosomak" 
+ CZE_mechanized_equipment_10_short:0 "KTO Rosomak"
 
  CZE_mechanized_heavy_equipment_1:0 "BTR-40A"
- CZE_mechanized_heavy_equipment_1_short:0 "BTR-40A" 
+ CZE_mechanized_heavy_equipment_1_short:0 "BTR-40A"
  CZE_mechanized_heavy_equipment_2:0 "OT-62A TOPAS"
  CZE_mechanized_heavy_equipment_2_short:0 "OT-62A TOPAS"
  CZE_mechanized_heavy_equipment_3:0 "MT-LB"
- CZE_mechanized_heavy_equipment_3_short:0 "MT-LB" 
+ CZE_mechanized_heavy_equipment_3_short:0 "MT-LB"
  CZE_mechanized_heavy_equipment_4:0 "BVP-1"
  CZE_mechanized_heavy_equipment_4_short:0 "BVP-1"
  CZE_mechanized_heavy_equipment_5:0 "BVP-1P"
@@ -3428,15 +3433,15 @@
  CZE_mechanized_heavy_equipment_6:0 "BVP-2"
  CZE_mechanized_heavy_equipment_6_short:0 "BVP-2"
  CZE_mechanized_heavy_equipment_8:0 "BVP-2M2 Sakal SKCZ"
- CZE_mechanized_heavy_equipment_8_short:0 "Sakal" 
+ CZE_mechanized_heavy_equipment_8_short:0 "Sakal"
 
  CZE_mechanized_marine_equipment_1:0 "BAV-A"
- CZE_mechanized_marine_equipment_1_short:0 "BAV-A" 
+ CZE_mechanized_marine_equipment_1_short:0 "BAV-A"
  CZE_mechanized_marine_equipment_2:0 "OT-62 TOPAS"
  CZE_mechanized_marine_equipment_2_short:0 "OT-62 TOPAS"
  CZE_mechanized_marine_equipment_3:0 "OT-62B TOPAS"
- CZE_mechanized_marine_equipment_3_short:0 "OT-62B TOPAS" 
- 
+ CZE_mechanized_marine_equipment_3_short:0 "OT-62B TOPAS"
+
  CZE_motorized_equipment_1:0 "Opel Blitz"
  CZE_motorized_equipment_1_short:0 "Opel Blitz"
  CZE_motorized_equipment_2:0 "Praga V3S"
@@ -3446,11 +3451,11 @@
  CZE_motorized_equipment_4:0 "Tatra 815 6x6"
  CZE_motorized_equipment_4_short:0 "Tatra 815"
  CZE_motorized_equipment_5:0 "Tatra T810"
- CZE_motorized_equipment_5_short:0 "Tatra T810"  
-    
+ CZE_motorized_equipment_5_short:0 "Tatra T810"
+
  ########### END OF NEW CZE ARMOR, MECHANIZED
  ########### NEW ART CZE
- 
+
  CZE_auto_cannon_equipment_1:0 "KS-19 100 mm"
  CZE_auto_cannon_equipment_1_short:0 "KS-19"
  CZE_auto_cannon_equipment_2:0 "S-60"
@@ -3459,40 +3464,40 @@
  CZE_auto_cannon_equipment_3_short:0 "ZU-23-2"
 
  CZE_spaag_equipment_1:0 "Flakpanzer 38(t)"
- CZE_spaag_equipment_1_short:0 "Flakpazner 38(t)" 
+ CZE_spaag_equipment_1_short:0 "Flakpazner 38(t)"
  CZE_spaag_equipment_2:0 "ZSU-57-2"
  CZE_spaag_equipment_2_short:0 "ZSU-57-2"
  CZE_spaag_equipment_3:0 "M53/59 Praga"
  CZE_spaag_equipment_3_short:0 "M53/59 Praga"
 
  CZE_light_artillery_equipment_1:0 "M-30 122 mm"
- CZE_light_artillery_equipment_1_short:0 "M-30 122 mm" 
- 
+ CZE_light_artillery_equipment_1_short:0 "M-30 122 mm"
+
  CZE_light_sp_artillery_equipment_1:0 "SU-122"
  CZE_light_sp_artillery_equipment_1_short:0 "SU-122"
  CZE_light_sp_artillery_equipment_3:0 "2S1 Gvozdika"
  CZE_light_sp_artillery_equipment_3_short:0 "2S1 Gvozdika"
 
  CZE_artillery_equipment_1:0 "ML-20 152 mm"
- CZE_artillery_equipment_1_short:0 "ML-20 152 mm" 
+ CZE_artillery_equipment_1_short:0 "ML-20 152 mm"
 
  CZE_sp_artillery_equipment_1:0 "ISU-152"
  CZE_sp_artillery_equipment_1_short:0 "ISU-152"
  CZE_sp_artillery_equipment_2:0 "2S3 Akatsiya"
- CZE_sp_artillery_equipment_2_short:0 "2S3 Akatsiya" 
+ CZE_sp_artillery_equipment_2_short:0 "2S3 Akatsiya"
  CZE_sp_artillery_equipment_3:0 "wz.77 Dana"
  CZE_sp_artillery_equipment_3_short:0 "wz.77 Dana"
 
  CZE_heavy_sp_artillery_equipment_3:0 "2S7 Pion"
  CZE_heavy_sp_artillery_equipment_3_short:0 "2S7 Pion"
  CZE_heavy_sp_artillery_equipment_4:0 "2S4 Tyulpan"
- CZE_heavy_sp_artillery_equipment_4_short:0 "2S4 Tyulpan" 
- 
+ CZE_heavy_sp_artillery_equipment_4_short:0 "2S4 Tyulpan"
+
  CZE_direct_fire_gun_equipment_1:0 "D-44 85 mm"
  CZE_direct_fire_gun_equipment_1_short:0 "D-44 85 mm"
 
  CZE_medium_tank_destroyer_equipment_1:0 "SU-85"
- CZE_medium_tank_destroyer_equipment_1_short:0 "SU-85" 
+ CZE_medium_tank_destroyer_equipment_1_short:0 "SU-85"
 
  CZE_motorized_rocket_equipment_1:0 "BM-13 Katyusha"
  CZE_motorized_rocket_equipment_1_short:0 "Katyusha"
@@ -3501,8 +3506,8 @@
  CZE_motorized_rocket_equipment_3:0 "RM-70"
  CZE_motorized_rocket_equipment_3_short:0 "RM-70"
  CZE_motorized_rocket_equipment_4:0 "RM-70/85M"
- CZE_motorized_rocket_equipment_4_short:0 "RM-70/85M" 
- 
+ CZE_motorized_rocket_equipment_4_short:0 "RM-70/85M"
+
  CZE_atgm_equipment_1:0 "3M6 Shmel"
  CZE_atgm_equipment_1_short:0 "3M6 Shmel"
  CZE_atgm_equipment_1_desc:0 ""
@@ -3532,22 +3537,22 @@
  CZE_sam_carrier_equipment_3:0 "9K37 Buk"
  CZE_sam_carrier_equipment_3_short:0 "9K37 Buk"
  CZE_sam_carrier_equipment_3_desc:0 ""
- 
+
  CZE_groundaam_1:0 "S-75 Dvina"
  CZE_groundaam_2:0 "S-125 Neva"
  CZE_groundaam_3:0 "S-200 Vega"
  CZE_groundaam_4:0 "S-300"
- 
+
  ########## END OF CZE
  ########## NEW DDR ARMOR
- 
+
  DDR_lt_equipment_3:0 "SchwPz PT-76B"
  DDR_lt_equipment_3_short:0 "SchwPz PT-76B"
  DDR_lt_equipment_5:0 "SchwPz PT-85G"
  DDR_lt_equipment_5_short:0 "SchwPz PT-85G"
- 
+
  DDR_ht_equipment_1:0 "IS-2"
- DDR_ht_equipment_1_short:0 "IS-2" 
+ DDR_ht_equipment_1_short:0 "IS-2"
 
  DDR_mbt_equipment_0:0 "KPz T-34-85"
  DDR_mbt_equipment_0_short:0 "KPz T-34-85"
@@ -3560,10 +3565,10 @@
  DDR_mbt_equipment_6:0 "KPz T-72"
  DDR_mbt_equipment_6_short:0 "KPz T-72"
  DDR_mbt_equipment_7:0 "KPz T-72 Ubergangsversion"
- DDR_mbt_equipment_7_short:0 "KPz T-72G" 
+ DDR_mbt_equipment_7_short:0 "KPz T-72G"
 
  DDR_mechanized_equipment_1:0 "SdKfz 251"
- DDR_mechanized_equipment_1_short:0 "SdKfz 251" 
+ DDR_mechanized_equipment_1_short:0 "SdKfz 251"
  DDR_mechanized_equipment_2:0 "BA-64E"
  DDR_mechanized_equipment_2_short:0 "BA-64E"
  DDR_mechanized_equipment_3:0 "SPW-40"
@@ -3591,7 +3596,7 @@
  DDR_mechanized_heavy_equipment_5_short:0 "SPz BMP-1P"
  DDR_mechanized_heavy_equipment_6:0 "SPz BMP-2"
  DDR_mechanized_heavy_equipment_6_short:0 "SPz BMP-2"
- 
+
  DDR_mechanized_marine_equipment_1:0 "BAV-A"
  DDR_mechanized_marine_equipment_1_short:0 "BAV-A"
  DDR_mechanized_marine_equipment_2:0 "SPW-50P"
@@ -3600,7 +3605,7 @@
  DDR_mechanized_marine_equipment_3_short:0 "SPW-60P"
  DDR_mechanized_marine_equipment_4:0 "SPW-80N"
  DDR_mechanized_marine_equipment_4_short:0 "SPW-80N"
- 
+
  DDR_motorized_equipment_1:0 "Opel Blitz"
  DDR_motorized_equipment_1_short:0 "Blitz"
  DDR_motorized_equipment_2:0 "GAZ-66"
@@ -3609,7 +3614,7 @@
  DDR_motorized_equipment_3_short:0 "ZiL-157"
  DDR_motorized_equipment_4:0 "URAL-375D"
  DDR_motorized_equipment_4_short:0 "URAL-375D"
- 
+
  ########### END OF NEW DDR ARMOR
  ########### NEW ART DDR
 
@@ -3618,46 +3623,46 @@
  DDR_auto_cannon_equipment_2:0 "S-60"
  DDR_auto_cannon_equipment_2_short:0 "S-60"
  DDR_auto_cannon_equipment_3:0 "ZU-23-2"
- DDR_auto_cannon_equipment_3_short:0 "ZU-23-2" 
- 
+ DDR_auto_cannon_equipment_3_short:0 "ZU-23-2"
+
  DDR_spaag_equipment_1:0 "ZSU-37"
- DDR_spaag_equipment_1_short:0 "ZSU-37" 
+ DDR_spaag_equipment_1_short:0 "ZSU-37"
  DDR_spaag_equipment_2:0 "ZSU-57-2"
  DDR_spaag_equipment_2_short:0 "ZSU-57-2"
  DDR_spaag_equipment_3:0 "ZSU-23-4 Shilka"
- DDR_spaag_equipment_3_short:0 "ZSU-23-4" 
+ DDR_spaag_equipment_3_short:0 "ZSU-23-4"
 
  DDR_light_artillery_equipment_1:0 "M-30 122 mm"
- DDR_light_artillery_equipment_1_short:0 "M-30 122 mm" 
- 
+ DDR_light_artillery_equipment_1_short:0 "M-30 122 mm"
+
  DDR_light_sp_artillery_equipment_1:0 "SU-122"
  DDR_light_sp_artillery_equipment_1_short:0 "SU-122"
  DDR_light_sp_artillery_equipment_3:0 "2S1 Gvozdika"
- DDR_light_sp_artillery_equipment_3_short:0 "2S1 Gvozdika" 
- 
+ DDR_light_sp_artillery_equipment_3_short:0 "2S1 Gvozdika"
+
  DDR_artillery_equipment_1:0 "ML-20 152 mm"
  DDR_artillery_equipment_1_short:0 "ML-20 152 mm"
  DDR_artillery_equipment_2:0 "M1955 152 mm"
- DDR_artillery_equipment_2_short:0 "M955 152 mm"  
- 
+ DDR_artillery_equipment_2_short:0 "M955 152 mm"
+
  DDR_sp_artillery_equipment_1:0 "ISU-152"
- DDR_sp_artillery_equipment_1_short:0 "ISU-152"  
+ DDR_sp_artillery_equipment_1_short:0 "ISU-152"
  DDR_sp_artillery_equipment_2:0 "2S3 Akatsiya"
- DDR_sp_artillery_equipment_2_short:0 "2S3 Akatsiya" 
- 
+ DDR_sp_artillery_equipment_2_short:0 "2S3 Akatsiya"
+
  DDR_direct_fire_gun_equipment_1:0 "D-44 85 mm"
- DDR_direct_fire_gun_equipment_1_short:0 "D-44 85 mm" 
+ DDR_direct_fire_gun_equipment_1_short:0 "D-44 85 mm"
 
  DDR_medium_tank_destroyer_equipment_1:0 "SU-85"
- DDR_medium_tank_destroyer_equipment_1_short:0 "SU-85" 
- 
+ DDR_medium_tank_destroyer_equipment_1_short:0 "SU-85"
+
  DDR_motorized_rocket_equipment_1:0 "BM-13 Katyusha"
  DDR_motorized_rocket_equipment_1_short:0 "Katyusha"
  DDR_motorized_rocket_equipment_2:0 "MFRW BM-21"
  DDR_motorized_rocket_equipment_2_short:0 "MFRW BM-21"
  DDR_motorized_rocket_equipment_3:0 "MFRW RM-70"
  DDR_motorized_rocket_equipment_3_short:0 "MFRW RM-70"
- 
+
  DDR_atgm_equipment_1:0 "3M6 Shmel"
  DDR_atgm_equipment_1_short:0 "3M6 Shmel"
  DDR_atgm_equipment_1_desc:0 ""
@@ -3666,8 +3671,8 @@
  DDR_atgm_equipment_2_desc:0 ""
  DDR_atgm_equipment_3:0 "9M113 Konkurs"
  DDR_atgm_equipment_3_short:0 "9M113 Konkurs"
- DDR_atgm_equipment_3_desc:0 "" 
- 
+ DDR_atgm_equipment_3_desc:0 ""
+
  DDR_atgm_carrier_equipment_1:0 "2P27 Sheml"
  DDR_atgm_carrier_equipment_1_short:0 "2P27 Shmel"
  DDR_atgm_carrier_equipment_1_desc:0 ""
@@ -3687,25 +3692,25 @@
  DDR_sam_carrier_equipment_3:0 "9K37 Buk"
  DDR_sam_carrier_equipment_3_short:0 "9K37 Buk"
  DDR_sam_carrier_equipment_3_desc:0 ""
- 
+
  DDR_groundaam_1:0 "S-75 Dvina"
  DDR_groundaam_2:0 "S-125 Neva"
  DDR_groundaam_3:0 "S-200 Vega"
- DDR_groundaam_4:0 "S-300" 
- 
- ########## END OF DDR 
+ DDR_groundaam_4:0 "S-300"
+
+ ########## END OF DDR
  ########## NEW HUN ARMOR
- 
+
  HUN_lt_equipment_3:0 "PT-76"
  HUN_lt_equipment_3_short:0 "PT-76"
- 
+
  HUN_ht_equipment_1:0 "IS-2"
  HUN_ht_equipment_1_short:0 "IS-2"
- 
+
  HUN_mbt_equipment_0:0 "T-34-85"
  HUN_mbt_equipment_0_short:0 "T-34-85"
  HUN_mbt_equipment_3:0 "T-55"
- HUN_mbt_equipment_3_short:0 "T-55" 
+ HUN_mbt_equipment_3_short:0 "T-55"
  HUN_mbt_equipment_6:0 "T-72"
  HUN_mbt_equipment_6_short:0 "T-72"
 
@@ -3727,12 +3732,12 @@
  HUN_mechanized_heavy_equipment_2:0 "BTR-50PK"
  HUN_mechanized_heavy_equipment_2_short:0 "BTR-50PK"
  HUN_mechanized_heavy_equipment_3:0 "MT-LB"
- HUN_mechanized_heavy_equipment_3_short:0 "MT-LB" 
+ HUN_mechanized_heavy_equipment_3_short:0 "MT-LB"
  HUN_mechanized_heavy_equipment_4:0 "BMP-1"
  HUN_mechanized_heavy_equipment_4_short:0 "BMP-1"
  HUN_mechanized_heavy_equipment_5:0 "BMP-1P"
- HUN_mechanized_heavy_equipment_5_short:0 "BMP-1P" 
- 
+ HUN_mechanized_heavy_equipment_5_short:0 "BMP-1P"
+
  HUN_motorized_equipment_1:0 "Studebaker US-6"
  HUN_motorized_equipment_1_short:0 "Studebaker"
  HUN_motorized_equipment_2:0 "ZiL-151"
@@ -3742,48 +3747,48 @@
  HUN_motorized_equipment_4:0 "Star 266"
  HUN_motorized_equipment_4_short:0 "Star 266"
  HUN_motorized_equipment_5:0 "Rába H 6x6 truc"
- HUN_motorized_equipment_5_short:0 "Rába H"  
- 
+ HUN_motorized_equipment_5_short:0 "Rába H"
+
  ########### END OF NEW HUN ARMOR
- 
+
  ########### NEW ART HUN
- 
+
  HUN_auto_cannon_equipment_1:0 "KS-19 100 mm"
  HUN_auto_cannon_equipment_1_short:0 "KS-19"
  HUN_auto_cannon_equipment_2:0 "S-60"
  HUN_auto_cannon_equipment_2_short:0 "S-60"
  HUN_auto_cannon_equipment_3:0 "ZU-23-2"
- HUN_auto_cannon_equipment_3_short:0 "ZU-23-2" 
+ HUN_auto_cannon_equipment_3_short:0 "ZU-23-2"
 
  HUN_light_artillery_equipment_1:0 "M-30 122 mm"
- HUN_light_artillery_equipment_1_short:0 "M-30 122 mm" 
- 
+ HUN_light_artillery_equipment_1_short:0 "M-30 122 mm"
+
  HUN_light_sp_artillery_equipment_1:0 "SU-122"
  HUN_light_sp_artillery_equipment_1_short:0 "SU-122"
  HUN_light_sp_artillery_equipment_3:0 "2S1 Gvozdika"
- HUN_light_sp_artillery_equipment_3_short:0 "2S1 Gvozdika" 
- 
+ HUN_light_sp_artillery_equipment_3_short:0 "2S1 Gvozdika"
+
  HUN_artillery_equipment_1:0 "ML-20 152 mm"
  HUN_artillery_equipment_1_short:0 "ML-20 152 mm"
  HUN_artillery_equipment_2:0 "M1955 152 mm"
- HUN_artillery_equipment_2_short:0 "M955 152 mm"  
+ HUN_artillery_equipment_2_short:0 "M955 152 mm"
 
  HUN_sp_artillery_equipment_1:0 "ISU-152"
  HUN_sp_artillery_equipment_1_short:0 "ISU-152"
  HUN_sp_artillery_equipment_2:0 "2S3 Akatsiya"
  HUN_sp_artillery_equipment_2_short:0 "2S3 Akatsiya"
- 
+
  HUN_direct_fire_gun_equipment_1:0 "D-44 85 mm"
- HUN_direct_fire_gun_equipment_1_short:0 "D-44 85 mm" 
+ HUN_direct_fire_gun_equipment_1_short:0 "D-44 85 mm"
 
  HUN_medium_tank_destroyer_equipment_1:0 "SU-85"
- HUN_medium_tank_destroyer_equipment_1_short:0 "SU-85" 
- 
+ HUN_medium_tank_destroyer_equipment_1_short:0 "SU-85"
+
  HUN_motorized_rocket_equipment_1:0 "BM-13 Katyusha"
- HUN_motorized_rocket_equipment_1_short:0 "Katyusha" 
+ HUN_motorized_rocket_equipment_1_short:0 "Katyusha"
  HUN_motorized_rocket_equipment_2:0 "BM-21"
  HUN_motorized_rocket_equipment_2_short:0 "BM-21"
- 
+
  HUN_atgm_equipment_1:0 "3M6 Shmel"
  HUN_atgm_equipment_1_short:0 "3M6 Shmel"
  HUN_atgm_equipment_1_desc:0 ""
@@ -3793,7 +3798,7 @@
  HUN_atgm_equipment_3:0 "9M113 Konkurs"
  HUN_atgm_equipment_3_short:0 "9M113 Konkurs"
  HUN_atgm_equipment_3_desc:0 ""
- 
+
  HUN_atgm_carrier_equipment_1:0 "2P27 Sheml"
  HUN_atgm_carrier_equipment_1_short:0 "2P27 Shmel"
  HUN_atgm_carrier_equipment_1_desc:0 ""
@@ -3813,22 +3818,22 @@
  HUN_sam_carrier_equipment_3:0 "9K37 Buk"
  HUN_sam_carrier_equipment_3_short:0 "9K37 Buk"
  HUN_sam_carrier_equipment_3_desc:0 ""
- 
+
  HUN_groundaam_1:0 "S-75 Dvina"
  HUN_groundaam_2:0 "S-125 Neva"
  HUN_groundaam_3:0 "S-200 Vega"
  HUN_groundaam_4:0 "S-300"
- 
- ########## END OF HUN 
+
+ ########## END OF HUN
  ########## NEW POL ARMOR, MECHANIZED
 
  POL_lt_equipment_1:0 "T-60"
- POL_lt_equipment_1_short:0 "T-60" 
+ POL_lt_equipment_1_short:0 "T-60"
  POL_lt_equipment_2:0 "T-70"
  POL_lt_equipment_2_short:0 "T-70"
  POL_lt_equipment_3:0 "PT-76B Desant"
  POL_lt_equipment_3_short:0 "PT-76B"
- 
+
  POL_ht_equipment_1:0 "IS-2"
  POL_ht_equipment_1_short:0 "IS-2"
  POL_ht_equipment_2:0 "IS-3"
@@ -3837,7 +3842,7 @@
  POL_mbt_equipment_0:0 "T-34-85"
  POL_mbt_equipment_0_short:0 "T-34-85"
  POL_mbt_equipment_1:0 "T-34-85 Mod 1946"
- POL_mbt_equipment_1_short:0 "T-34-85M" 
+ POL_mbt_equipment_1_short:0 "T-34-85M"
  POL_mbt_equipment_2:0 "T-54"
  POL_mbt_equipment_2_short:0 "T-54"
  POL_mbt_equipment_3:0 "T-55"
@@ -3845,16 +3850,16 @@
  POL_mbt_equipment_6:0 "T-72"
  POL_mbt_equipment_6_short:0 "T-72"
  POL_mbt_equipment_7:0 "T-72M2 Wilk"
- POL_mbt_equipment_7_short:0 "T-72M2 Wilk" 
+ POL_mbt_equipment_7_short:0 "T-72M2 Wilk"
  POL_mbt_equipment_8:0 "PT-91"
  POL_mbt_equipment_8_short:0 "PT-91"
  POL_mbt_equipment_9:0 "PT-97 Goryl"
- POL_mbt_equipment_9_short:0 "PT-97 Goryl" 
+ POL_mbt_equipment_9_short:0 "PT-97 Goryl"
 
  POL_mechanized_equipment_1:0 "M3 Half-Track"
  POL_mechanized_equipment_1_short:0 "M3 Half-Track
  POL_mechanized_equipment_2:0 "M5 Half-Track"
- POL_mechanized_equipment_2_short:0 "M5 Half-Track" 
+ POL_mechanized_equipment_2_short:0 "M5 Half-Track"
  POL_mechanized_equipment_3:0 "BTR-40"
  POL_mechanized_equipment_3_short:0 "BTR-40"
  POL_mechanized_equipment_4:0 "BTR-152"
@@ -3873,11 +3878,11 @@
  POL_mechanized_equipment_10_short:0 "KTO Rosomak"
 
  POL_mechanized_heavy_equipment_1:0 "BTR-40A"
- POL_mechanized_heavy_equipment_1_short:0 "BTR-40A" 
+ POL_mechanized_heavy_equipment_1_short:0 "BTR-40A"
  POL_mechanized_heavy_equipment_2:0 "TOPAS"
- POL_mechanized_heavy_equipment_2_short:0 "TOPAS" 
+ POL_mechanized_heavy_equipment_2_short:0 "TOPAS"
  POL_mechanized_heavy_equipment_3:0 "MT-LB"
- POL_mechanized_heavy_equipment_3_short:0 "MT-LB" 
+ POL_mechanized_heavy_equipment_3_short:0 "MT-LB"
  POL_mechanized_heavy_equipment_4:0 "BWP-1"
  POL_mechanized_heavy_equipment_4_short:0 "BWP-1"
  POL_mechanized_heavy_equipment_5:0 "BWP-1P"
@@ -3888,14 +3893,14 @@
  POL_mechanized_heavy_equipment_7_short:0 "BWP-2000"
  POL_mechanized_heavy_equipment_8:0 "BWP Anders"
  POL_mechanized_heavy_equipment_8_short:0 "BWP Anders"
- 
+
  POL_mechanized_marine_equipment_1:0 "BAW"
  POL_mechanized_marine_equipment_1_short:0 "BAW"
  POL_mechanized_marine_equipment_2:0 "TOPAS"
  POL_mechanized_marine_equipment_2_short:0 "TOPAS"
  POL_mechanized_marine_equipment_3:0 "TOPAS-2AP"
  POL_mechanized_marine_equipment_3_short:0 "TOPAS-2AP"
- 
+
  POL_motorized_equipment_1:0 "Studebaker US-6"
  POL_motorized_equipment_1_short:0 "Studebaker"
  POL_motorized_equipment_2:0 "Star 66"
@@ -3905,11 +3910,11 @@
  POL_motorized_equipment_4:0 "Star 266"
  POL_motorized_equipment_4_short:0 "Star 266"
  POL_motorized_equipment_5:0 "Jelcz"
- POL_motorized_equipment_5_short:0 "Jelcz" 
-    
+ POL_motorized_equipment_5_short:0 "Jelcz"
+
  ########### END OF NEW POL ARMOR, MECHANIZED
  ########### NEW ART POL
- 
+
  POL_auto_cannon_equipment_1:0 "KS-19 100 mm"
  POL_auto_cannon_equipment_1_short:0 "KS-19"
  POL_auto_cannon_equipment_2:0 "S-60"
@@ -3918,7 +3923,7 @@
  POL_auto_cannon_equipment_3_short:0 "ZU-23-2"
 
  POL_spaag_equipment_1:0 "ZSU-37"
- POL_spaag_equipment_1_short:0 "ZSU-37" 
+ POL_spaag_equipment_1_short:0 "ZSU-37"
  POL_spaag_equipment_2:0 "ZSU-57-2"
  POL_spaag_equipment_2_short:0 "ZSU-57-2"
  POL_spaag_equipment_3:0 "ZSU-23-4 Shilka"
@@ -3929,8 +3934,8 @@
  POL_spaag_equipment_5_short:0 "PZA Loara"
 
  POL_light_artillery_equipment_1:0 "M-30 122 mm"
- POL_light_artillery_equipment_1_short:0 "M-30 122 mm" 
- 
+ POL_light_artillery_equipment_1_short:0 "M-30 122 mm"
+
  POL_light_sp_artillery_equipment_1:0 "SU-122"
  POL_light_sp_artillery_equipment_1_short:0 "SU-122"
  POL_light_sp_artillery_equipment_3:0 "2S1 Gvozdika"
@@ -3939,7 +3944,7 @@
  POL_light_sp_artillery_equipment_5_short:0 "SMG Rak"
 
  POL_artillery_equipment_1:0 "ML-20 152 mm"
- POL_artillery_equipment_1_short:0 "ML-20 152 mm" 
+ POL_artillery_equipment_1_short:0 "ML-20 152 mm"
 
  POL_sp_artillery_equipment_1:0 "ISU-152"
  POL_sp_artillery_equipment_1_short:0 "ISU-152"
@@ -3955,7 +3960,7 @@
  POL_direct_fire_gun_equipment_1_short:0 "D-44 85 mm"
 
  POL_medium_tank_destroyer_equipment_1:0 "SU-85"
- POL_medium_tank_destroyer_equipment_1_short:0 "SU-85" 
+ POL_medium_tank_destroyer_equipment_1_short:0 "SU-85"
  POL_medium_tank_destroyer_equipment_5:0 "WWO Anders"
  POL_medium_tank_destroyer_equipment_5_short:0 "WWO Anders"
 
@@ -3967,7 +3972,7 @@
  POL_motorized_rocket_equipment_3_short:0 "RM-70"
  POL_motorized_rocket_equipment_5:0 "WR-40 Langusta"
  POL_motorized_rocket_equipment_5_short:0 "WR-40 Langusta"
- 
+
  POL_atgm_equipment_1:0 "3M6 Shmel"
  POL_atgm_equipment_1_short:0 "3M6 Shmel"
  POL_atgm_equipment_1_desc:0 ""
@@ -3977,7 +3982,7 @@
  POL_atgm_equipment_3:0 "9M113 Konkurs"
  POL_atgm_equipment_3_short:0 "9M113 Konkurs"
  POL_atgm_equipment_3_desc:0 ""
- 
+
  POL_atgm_carrier_equipment_1:0 "2P27 Sheml"
  POL_atgm_carrier_equipment_1_short:0 "2P27 Shmel"
  POL_atgm_carrier_equipment_1_desc:0 ""
@@ -3997,11 +4002,11 @@
  POL_sam_carrier_equipment_3:0 "9K37 Buk"
  POL_sam_carrier_equipment_3_short:0 "9K37 Buk"
  POL_sam_carrier_equipment_3_desc:0 ""
- 
+
  POL_groundaam_1:0 "S-75 Dvina"
  POL_groundaam_2:0 "S-125 Neva"
  POL_groundaam_3:0 "S-200 Vega"
- 
+
  POL_utility_helicopter_equipment_1:0 "Mil Mi-4 Hound"
  POL_utility_helicopter_equipment_1_short:0 "Mi-4 Hound"
  POL_utility_helicopter_equipment_2:0 "Yakovlev Yak-24 Horse"
@@ -4014,12 +4019,12 @@
  POL_utility_helicopter_equipment_5_short:0 "Mi-17 Hip-H"
  POL_utility_helicopter_equipment_6:0 "PZL W-3T Sokol"
  POL_utility_helicopter_equipment_6_short:0 "PZL W-3T Sokol"
- 
- ########## END OF POL 
+
+ ########## END OF POL
  ########## NEW ROM ARMOR, MECHANIZED
 
  ROM_lt_equipment_1:0 "T-60"
- ROM_lt_equipment_1_short:0 "T-60" 
+ ROM_lt_equipment_1_short:0 "T-60"
 
  ROM_ht_equipment_1:0 "IS-2"
  ROM_ht_equipment_1_short:0 "IS-2"
@@ -4027,7 +4032,7 @@
  ROM_mbt_equipment_0:0 "T-34-85"
  ROM_mbt_equipment_0_short:0 "T-34-85"
  ROM_mbt_equipment_1:0 "T-34-85M"
- ROM_mbt_equipment_1_short:0 "T-34-85M" 
+ ROM_mbt_equipment_1_short:0 "T-34-85M"
  ROM_mbt_equipment_2:0 "T-54"
  ROM_mbt_equipment_2_short:0 "T-54"
  ROM_mbt_equipment_3:0 "TR-77-580"
@@ -4035,14 +4040,14 @@
  ROM_mbt_equipment_6:0 "TR-125"
  ROM_mbt_equipment_6_short:0 "TR-125"
  ROM_mbt_equipment_7:0 "TR-85"
- ROM_mbt_equipment_7_short:0 "TR-85" 
+ ROM_mbt_equipment_7_short:0 "TR-85"
  ROM_mbt_equipment_8:0 "TR-85M1"
  ROM_mbt_equipment_8_short:0 "TR-85M1"
 
  ROM_mechanized_equipment_4:0 "BTR-152"
  ROM_mechanized_equipment_4_short:0 "BTR-152"
  ROM_mechanized_equipment_5:0 "BTR_152V"
- ROM_mechanized_equipment_5_short:0 "BTR-152V" 
+ ROM_mechanized_equipment_5_short:0 "BTR-152V"
  ROM_mechanized_equipment_6:0 "TAB-71"
  ROM_mechanized_equipment_6_short:0 "TAB-71"
  ROM_mechanized_equipment_7:0 "TAB-77"
@@ -4052,12 +4057,12 @@
  ROM_mechanized_equipment_9:0 "TAB Zimbru 2000"
  ROM_mechanized_equipment_9_short:0 "Zimbru 2000"
  ROM_mechanized_equipment_10:0 "Saur 1"
- ROM_mechanized_equipment_10_short:0 "Saur 1" 
+ ROM_mechanized_equipment_10_short:0 "Saur 1"
 
  ROM_mechanized_heavy_equipment_2:0 "BTR-50PK"
  ROM_mechanized_heavy_equipment_2_short:0 "BTR-50PK"
  ROM_mechanized_heavy_equipment_3:0 "MT-LB"
- ROM_mechanized_heavy_equipment_3_short:0 "MT-LB" 
+ ROM_mechanized_heavy_equipment_3_short:0 "MT-LB"
  ROM_mechanized_heavy_equipment_4:0 "BMP-1"
  ROM_mechanized_heavy_equipment_4_short:0 "BMP-1"
  ROM_mechanized_heavy_equipment_5:0 "BMP-1P"
@@ -4065,13 +4070,13 @@
  ROM_mechanized_heavy_equipment_6:0 "MLI-84"
  ROM_mechanized_heavy_equipment_6_short:0 "MLI-84"
  ROM_mechanized_heavy_equipment_7:0 "MLVM"
- ROM_mechanized_heavy_equipment_7_short:0 "MLVM" 
+ ROM_mechanized_heavy_equipment_7_short:0 "MLVM"
 
  ROM_mechanized_marine_equipment_1:0 "BAV-A"
- ROM_mechanized_marine_equipment_1_short:0 "BAV-A"    
+ ROM_mechanized_marine_equipment_1_short:0 "BAV-A"
  ROM_mechanized_marine_equipment_2:0 "BTR-50PU"
  ROM_mechanized_marine_equipment_2_short:0 "BTR-50PU"
- 
+
  ROM_motorized_equipment_1:0 "ZiS-5"
  ROM_motorized_equipment_1_short:0 "ZiS-5"
  ROM_motorized_equipment_2:0 "ZiL-151"
@@ -4081,11 +4086,11 @@
  ROM_motorized_equipment_4:0 "DAC"
  ROM_motorized_equipment_4_short:0 "DAC"
  ROM_motorized_equipment_5:0 "Iveco DV High Mobility"
- ROM_motorized_equipment_5_short:0 "Iveco" 
-    
+ ROM_motorized_equipment_5_short:0 "Iveco"
+
  ########### END OF NEW ROM ARMOR, MECHANIZED
  ########### NEW ART ROM
- 
+
  ROM_auto_cannon_equipment_1:0 "KS-19 100 mm"
  ROM_auto_cannon_equipment_1_short:0 "KS-19"
  ROM_auto_cannon_equipment_2:0 "S-60"
@@ -4093,33 +4098,33 @@
  ROM_auto_cannon_equipment_3:0 "ZU-2"
  ROM_auto_cannon_equipment_3_short:0 "ZU-2"
  ROM_auto_cannon_equipment_4:0 "M1980"
- ROM_auto_cannon_equipment_4_short:0 "M1980" 
+ ROM_auto_cannon_equipment_4_short:0 "M1980"
  ROM_auto_cannon_equipment_5:0 "Oerlikon GDF"
- ROM_auto_cannon_equipment_5_short:0 "Oerlikon GDF" 
+ ROM_auto_cannon_equipment_5_short:0 "Oerlikon GDF"
 
  ROM_spaag_equipment_1:0 "ZSU-37"
- ROM_spaag_equipment_1_short:0 "ZSU-37" 
+ ROM_spaag_equipment_1_short:0 "ZSU-37"
  ROM_spaag_equipment_2:0 "ZSU-57-2"
  ROM_spaag_equipment_2_short:0 "ZSU-57-2"
  ROM_spaag_equipment_3:0 "Flakpanzer Gepard"
  ROM_spaag_equipment_3_short:0 "Gepard"
 
  ROM_light_artillery_equipment_1:0 "M-30 122 mm"
- ROM_light_artillery_equipment_1_short:0 "M-30 122 mm" 
- 
+ ROM_light_artillery_equipment_1_short:0 "M-30 122 mm"
+
  ROM_light_sp_artillery_equipment_1:0 "SU-122"
  ROM_light_sp_artillery_equipment_1_short:0 "SU-122"
  ROM_light_sp_artillery_equipment_3:0 "2S1 Gvozdika"
- ROM_light_sp_artillery_equipment_3_short:0 "2S1 Gvozdika" 
+ ROM_light_sp_artillery_equipment_3_short:0 "2S1 Gvozdika"
 
  ROM_artillery_equipment_1:0 "ML-20 152 mm"
  ROM_artillery_equipment_1_short:0 "ML-20 152 mm"
  ROM_artillery_equipment_2:0 "M1955 D-20 152 mm"
- ROM_artillery_equipment_2_short:0 "M955 D-20 152 mm" 
+ ROM_artillery_equipment_2_short:0 "M955 D-20 152 mm"
  ROM_artillery_equipment_3:0 "M-81 152 mm"
- ROM_artillery_equipment_3_short:0 "M-81 152 mm" 
+ ROM_artillery_equipment_3_short:0 "M-81 152 mm"
  ROM_artillery_equipment_4:0 "M-85 152 mm"
- ROM_artillery_equipment_4_short:0 "M-85 152 mm"  
+ ROM_artillery_equipment_4_short:0 "M-85 152 mm"
 
  ROM_sp_artillery_equipment_1:0 "ISU-152"
  ROM_sp_artillery_equipment_1_short:0 "ISU-152"
@@ -4127,10 +4132,10 @@
  ROM_direct_fire_gun_equipment_1:0 "D-44 85 mm"
  ROM_direct_fire_gun_equipment_1_short:0 "D-44 85 mm"
  ROM_direct_fire_gun_equipment_3:0 "M1977 100 mm"
- ROM_direct_fire_gun_equipment_3_short:0 "M1977 100 mm" 
+ ROM_direct_fire_gun_equipment_3_short:0 "M1977 100 mm"
 
  ROM_medium_tank_destroyer_equipment_1:0 "SU-85"
- ROM_medium_tank_destroyer_equipment_1_short:0 "SU-85" 
+ ROM_medium_tank_destroyer_equipment_1_short:0 "SU-85"
 
  ROM_motorized_rocket_equipment_1:0 "BM-13 Katyusha"
  ROM_motorized_rocket_equipment_1_short:0 "Katyusha"
@@ -4139,8 +4144,8 @@
  ROM_motorized_rocket_equipment_3:0 "APR-40"
  ROM_motorized_rocket_equipment_3_short:0 "APR-40"
  ROM_motorized_rocket_equipment_4:0 "LAROM"
- ROM_motorized_rocket_equipment_4_short:0 "LAROM" 
- 
+ ROM_motorized_rocket_equipment_4_short:0 "LAROM"
+
  ROM_atgm_equipment_1:0 "3M6 Shmel"
  ROM_atgm_equipment_1_short:0 "3M6 Shmel"
  ROM_atgm_equipment_1_desc:0 ""
@@ -4150,7 +4155,7 @@
  ROM_atgm_equipment_3:0 "9M113 Konkurs"
  ROM_atgm_equipment_3_short:0 "9M113 Konkurs"
  ROM_atgm_equipment_3_desc:0 ""
- 
+
  ROM_atgm_carrier_equipment_1:0 "2P27 Sheml"
  ROM_atgm_carrier_equipment_1_short:0 "2P27 Shmel"
  ROM_atgm_carrier_equipment_1_desc:0 ""
@@ -4170,12 +4175,12 @@
  ROM_sam_carrier_equipment_3:0 "9K37 Buk"
  ROM_sam_carrier_equipment_3_short:0 "9K37 Buk"
  ROM_sam_carrier_equipment_3_desc:0 ""
- 
+
  ROM_groundaam_1:0 "S-75 Dvina"
  ROM_groundaam_2:0 "S-125 Neva"
  ROM_groundaam_3:0 "S-200 Vega"
- 
- ########## END OF ROM 
+
+ ########## END OF ROM
  ########## NEW SOV ARMOR
 
  SOV_lt_equipment_1:0 "T-60"
@@ -4196,7 +4201,7 @@
  SOV_lt_equipment_6:0 "2S25 Sprut-SD(LT)"
  SOV_lt_equipment_6_short:0 "2S25 Sprut-SD(LT)"
  SOV_lt_equipment_6_desc:0 "The 2525 SPRUT-SD is a Russian amphibious light tank designed created by the Volgograd Tractor Plant. The 125mm smoothbore main gun is built to engage enemy tanks and fire AP rounds. It has a 510 horsepower diesel engine and can operate at speeds up to 70 km/h and swims at 10 km/h. It also features Hydropneumatic suspension with variable height controls allowing it to adapt to many different environments and not lose too much speed. In extremely rough terrain, it can move at speeds up to 45 km/h, giving it versatility in different rough environments. It is deployed by the Russians but as not seen any known combat."
- 
+
  SOV_ht_equipment_1:0 "IS-2"
  SOV_ht_equipment_1_short:0 "IS-2"
  SOV_ht_equipment_2:0 "IS-3"
@@ -4238,7 +4243,7 @@
  SOV_mbt_equipment_9:0 "Black Eagle"
  SOV_mbt_equipment_9_short:0 "T-95 Black Eagle"
  SOV_mbt_equipment_9_desc:0 "The T-95 Black Eagle was intended to be an improved MBT designed by KBTM in the late 1990s but has been presumably cancelled after the company went bankrupt and imploded and it was decided that the T-80s chassis, which the Black Eagle was based off of, was of low-quality. The Black Eagle would have featured Explosive Reactive armor and a much greater 152mm gun in one variant but a 120mm in another. The engine would have been a gas turbine engine with more mobility and speed than the T-90, matching up roughly to the T-80. The T-95 would take lessons from the T-90 and T-80 and create a tank that would have been more reliable than either tank. 3 prototypes were constructed."
- 
+
  SOV_mechanized_equipment_1:0 "ZiS-42"
  SOV_mechanized_equipment_1_short:0 "ZiS-42"
  SOV_mechanized_equipment_2:0 "STZ-5"
@@ -4276,7 +4281,7 @@
  SOV_mechanized_heavy_equipment_7_short:0 "BMP-3"
  SOV_mechanized_heavy_equipment_8:0 "BMP-3M"
  SOV_mechanized_heavy_equipment_8_short:0 "BMP-3M"
- 
+
  SOV_mechanized_airborne_equipment_1:0 "BMD-1"
  SOV_mechanized_airborne_equipment_1_short:0 "BMD-1"
  SOV_mechanized_airborne_equipment_2:0 "BMD-2"
@@ -4287,7 +4292,7 @@
  SOV_mechanized_airborne_equipment_4_short:0 "BMD-4"
  SOV_mechanized_airborne_equipment_5:0 "BMD-4M"
  SOV_mechanized_airborne_equipment_5_short:0 "BMD-4M"
- 
+
  SOV_mechanized_marine_equipment_1:0 "ZiS-485"
  SOV_mechanized_marine_equipment_1_short:0 "ZiS-485"
  SOV_mechanized_marine_equipment_2:0 "BTR-50P"
@@ -4298,7 +4303,7 @@
  SOV_mechanized_marine_equipment_4_short:0 "BTR-80 Naval"
  SOV_mechanized_marine_equipment_5:0 "BTR-80A"
  SOV_mechanized_marine_equipment_5_short:0 "BTR-80A"
- 
+
  SOV_motorized_equipment_1:0 "ZiS-5"
  SOV_motorized_equipment_1_short:0 "ZiS-5"
  SOV_motorized_equipment_2:0 "ZiL-151"
@@ -4310,9 +4315,9 @@
  SOV_motorized_equipment_5:0 "KAMAZ-5350"
  SOV_motorized_equipment_5_short:0 "KAMAZ-5350"
 
- ########### END OF NEW SOV ARMOR 
- ########### NEW SOV HELICOPTER 
- 
+ ########### END OF NEW SOV ARMOR
+ ########### NEW SOV HELICOPTER
+
  SOV_utility_helicopter_equipment_1:0 "Mil Mi-4 Hound"
  SOV_utility_helicopter_equipment_1_short:0 "Mi-4 Hound"
  SOV_utility_helicopter_equipment_2:0 "Yakovlev Yak-24 Horse"
@@ -4327,7 +4332,7 @@
  SOV_utility_helicopter_equipment_6_short:0 "Mi-17MD Hip-H"
  SOV_utility_helicopter_equipment_7:0 "Kamov Ka-60"
  SOV_utility_helicopter_equipment_7_short:0 "Ka-60"
- 
+
  SOV_cargo_helicopter_equipment_1:0 "Mil Mi-6 Hook"
  SOV_cargo_helicopter_equipment_1_short:0 "Mi-6 Hook"
  SOV_cargo_helicopter_equipment_2:0 "Mil Mi-12 Homer"
@@ -4339,9 +4344,9 @@
  SOV_cargo_helicopter_equipment_5:0 "Mil Mi-26T2 Halo"
  SOV_cargo_helicopter_equipment_5_short:0 "Mi-26T2 Halo"
  SOV_cargo_helicopter_equipment_6:0 "Mil Mi-26T2V Halo"
- SOV_cargo_helicopter_equipment_6_short:0 "Mi-26T2V Halo" 
- 
- ########### END OF NEW SOV HELICOPTER 
+ SOV_cargo_helicopter_equipment_6_short:0 "Mi-26T2V Halo"
+
+ ########### END OF NEW SOV HELICOPTER
  ########### NEW ART SOV
 
  SOV_auto_cannon_equipment_1:0 "KS-19 100 mm"
@@ -4351,12 +4356,12 @@
  SOV_auto_cannon_equipment_3:0 "ZU-23-2"
  SOV_auto_cannon_equipment_3_short:0 "ZU-23-2"
  SOV_auto_cannon_equipment_4:0 "Kashtan CIWS"
- SOV_auto_cannon_equipment_4_short:0 "Kashtan" 
+ SOV_auto_cannon_equipment_4_short:0 "Kashtan"
  SOV_auto_cannon_equipment_5:0 "Pantsir KBP"
- SOV_auto_cannon_equipment_5_short:0 "KBP" 
+ SOV_auto_cannon_equipment_5_short:0 "KBP"
 
  SOV_spaag_equipment_1:0 "ZSU-37"
- SOV_spaag_equipment_1_short:0 "ZSU-37" 
+ SOV_spaag_equipment_1_short:0 "ZSU-37"
  SOV_spaag_equipment_2:0 "ZSU-57-2"
  SOV_spaag_equipment_2_short:0 "ZSU-57-2"
  SOV_spaag_equipment_3:0 "ZSU-23-4 Shilka"
@@ -4365,9 +4370,9 @@
  SOV_spaag_equipment_4_short:0 "2K22 Tunguska"
  SOV_spaag_equipment_5:0 "Pantsir S1"
  SOV_spaag_equipment_5_short:0 "Pantsir S1"
- 
+
  SOV_light_artillery_equipment_1:0 "M-30 122 mm"
- SOV_light_artillery_equipment_1_short:0 "M-30 122 mm" 
+ SOV_light_artillery_equipment_1_short:0 "M-30 122 mm"
  SOV_light_artillery_equipment_2:0 "D-74 122 mm"
  SOV_light_artillery_equipment_2_short:0 "D-74 122 mm"
  SOV_light_artillery_equipment_3:0 "2A18 D-30 122 mm"
@@ -4375,54 +4380,54 @@
  SOV_light_artillery_equipment_4:0 "2B16 Nona-K 120 mm"
  SOV_light_artillery_equipment_4_short:0 "Nona-K 120 mm"
  SOV_light_artillery_equipment_5:0 "2B16M Nona-K-M 120 mm"
- SOV_light_artillery_equipment_5_short:0 "Nona-K-M 120 mm" 
- 
+ SOV_light_artillery_equipment_5_short:0 "Nona-K-M 120 mm"
+
  SOV_light_sp_artillery_equipment_1:0 "SU-122"
  SOV_light_sp_artillery_equipment_1_short:0 "SU-122"
  SOV_light_sp_artillery_equipment_2:0 "Object 416"
- SOV_light_sp_artillery_equipment_2_short:0 "Object 416" 
+ SOV_light_sp_artillery_equipment_2_short:0 "Object 416"
  SOV_light_sp_artillery_equipment_3:0 "2S1 Gvozdika"
  SOV_light_sp_artillery_equipment_3_short:0 "2S1 Gvozdika"
  SOV_light_sp_artillery_equipment_4:0 "2S9 Nona-S"
- SOV_light_sp_artillery_equipment_4_short:0 "2S9 Nona-S" 
+ SOV_light_sp_artillery_equipment_4_short:0 "2S9 Nona-S"
  SOV_light_sp_artillery_equipment_5:0 "2S31 Vena"
  SOV_light_sp_artillery_equipment_5_short:0 "2S31 Vena"
 
  SOV_artillery_equipment_1:0 "ML-20 152 mm"
- SOV_artillery_equipment_1_short:0 "ML-20 152 mm" 
+ SOV_artillery_equipment_1_short:0 "ML-20 152 mm"
  SOV_artillery_equipment_2:0 "M1955 D-20"
  SOV_artillery_equipment_2_short:0 "M1955 D-20"
  SOV_artillery_equipment_3:0 "2A36 Giatsint-B"
- SOV_artillery_equipment_3_short:0 "2A36 Giatsint-B" 
+ SOV_artillery_equipment_3_short:0 "2A36 Giatsint-B"
  SOV_artillery_equipment_4:0 "2A65 Msta-B"
  SOV_artillery_equipment_4_short:0 "2A65 Msta-B"
  SOV_artillery_equipment_5:0 "2A65M Msta-BM"
- SOV_artillery_equipment_5_short:0 "2A65M Msta-BM" 
+ SOV_artillery_equipment_5_short:0 "2A65M Msta-BM"
 
  SOV_sp_artillery_equipment_1:0 "ISU-152"
  SOV_sp_artillery_equipment_1_short:0 "ISU-152"
  SOV_sp_artillery_equipment_2:0 "2S3 Akatsiya"
  SOV_sp_artillery_equipment_2_short:0 "2S3 Akatsiya"
  SOV_sp_artillery_equipment_3:0 "2S5 Giatsint-S"
- SOV_sp_artillery_equipment_3_short:0 "2S5 Giatsint-S" 
+ SOV_sp_artillery_equipment_3_short:0 "2S5 Giatsint-S"
  SOV_sp_artillery_equipment_4:0 "2S19 Msta-S"
  SOV_sp_artillery_equipment_4_short:0 "2S19 Msta-S"
  SOV_sp_artillery_equipment_5:0 "2S33 Msta-SM"
  SOV_sp_artillery_equipment_5_short:0 "2S33 Msta-SM"
 
  SOV_heavy_artillery_equipment_1:0 "B-4 203 mm"
- SOV_heavy_artillery_equipment_1_short:0 "B-4 203 mm" 
+ SOV_heavy_artillery_equipment_1_short:0 "B-4 203 mm"
  SOV_heavy_artillery_equipment_2:0 "S-23 180 mm"
  SOV_heavy_artillery_equipment_2_short:0 "S-23 180 mm"
  SOV_heavy_artillery_equipment_3:0 "S-23-IV 203 mm"
- SOV_heavy_artillery_equipment_3_short:0 "S-23-IV 203 mm" 
+ SOV_heavy_artillery_equipment_3_short:0 "S-23-IV 203 mm"
  SOV_heavy_artillery_equipment_4:0 "M240 240 mm"
- SOV_heavy_artillery_equipment_4_short:0 "M240 240 mm" 
+ SOV_heavy_artillery_equipment_4_short:0 "M240 240 mm"
  SOV_heavy_artillery_equipment_5:0 "2A44M 203 mm"
- SOV_heavy_artillery_equipment_5_short:0 "2A44M 203 mm"  
+ SOV_heavy_artillery_equipment_5_short:0 "2A44M 203 mm"
 
  SOV_heavy_sp_artillery_equipment_1:0 "S-51"
- SOV_heavy_sp_artillery_equipment_1_short:0 "S-51" 
+ SOV_heavy_sp_artillery_equipment_1_short:0 "S-51"
  SOV_heavy_sp_artillery_equipment_2:0 "2B1 Oka"
  SOV_heavy_sp_artillery_equipment_2_short:0 "2B1 Oka"
  SOV_heavy_sp_artillery_equipment_3:0 "2S7 Pion"
@@ -4437,14 +4442,14 @@
  SOV_direct_fire_gun_equipment_2:0 "T-12 Rapira"
  SOV_direct_fire_gun_equipment_2_short:0 "T-12 Rapira"
  SOV_direct_fire_gun_equipment_3:0 "T-12M Rapira-M"
- SOV_direct_fire_gun_equipment_3_short:0 "T-12M Rapira-M" 
+ SOV_direct_fire_gun_equipment_3_short:0 "T-12M Rapira-M"
  SOV_direct_fire_gun_equipment_4:0 "2A45 Sprut-A"
- SOV_direct_fire_gun_equipment_4_short:0 "2A45 Sprut-A" 
+ SOV_direct_fire_gun_equipment_4_short:0 "2A45 Sprut-A"
  SOV_direct_fire_gun_equipment_5:0 "2A45M Sprut-B"
- SOV_direct_fire_gun_equipment_5_short:0 "2A45M Sprut-B"  
+ SOV_direct_fire_gun_equipment_5_short:0 "2A45M Sprut-B"
 
  SOV_medium_tank_destroyer_equipment_1:0 "SU-85"
- SOV_medium_tank_destroyer_equipment_1_short:0 "SU-85" 
+ SOV_medium_tank_destroyer_equipment_1_short:0 "SU-85"
  SOV_medium_tank_destroyer_equipment_2:0 "SU-122-54"
  SOV_medium_tank_destroyer_equipment_2_short:0 "SU-122-54"
  SOV_medium_tank_destroyer_equipment_3:0 "Object 268"
@@ -4453,10 +4458,10 @@
  SOV_medium_tank_destroyer_equipment_4_short:0 "2S15 Norov"
  SOV_medium_tank_destroyer_equipment_5:0 "2S25 Sprut-SD(TD)"
  SOV_medium_tank_destroyer_equipment_5_short:0 "2S25 Sprut-SD(TD)"
- 
+
  SOV_rocket_artillery_equipment_1:0 "Towed Rocket Artillery"
  SOV_rocket_artillery_equipment_1_short:0 "Rocket Artillery"
- 
+
  SOV_motorized_rocket_equipment_1:0 "BM-13 Katyusha"
  SOV_motorized_rocket_equipment_1_short:0 "Katyusha"
  SOV_motorized_rocket_equipment_2:0 "BM-21 Grad"
@@ -4466,8 +4471,8 @@
  SOV_motorized_rocket_equipment_4:0 "BM-30 Smerch"
  SOV_motorized_rocket_equipment_4_short:0 "Smerch"
  SOV_motorized_rocket_equipment_5:0 "9K512 Uragan-1M"
- SOV_motorized_rocket_equipment_5_short:0 "Uragan-1M" 
- 
+ SOV_motorized_rocket_equipment_5_short:0 "Uragan-1M"
+
  SOV_atgm_equipment_1:0 "3M6 Shmel"
  SOV_atgm_equipment_1_short:0 "3M6 Shmel"
  SOV_atgm_equipment_1_desc:0 ""
@@ -4486,7 +4491,7 @@
  SOV_atgm_equipment_6:0 "9M123 Khrizantema"
  SOV_atgm_equipment_6_short:0 "9M123 Khrizantema"
  SOV_atgm_equipment_6_desc:0 ""
- 
+
  SOV_atgm_carrier_equipment_1:0 "2P27 Sheml"
  SOV_atgm_carrier_equipment_1_short:0 "2P27 Shmel"
  SOV_atgm_carrier_equipment_1_desc:0 ""
@@ -4501,8 +4506,8 @@
  SOV_atgm_carrier_equipment_4_desc:0 ""
  SOV_atgm_carrier_equipment_5:0 "9P163 Kornet"
  SOV_atgm_carrier_equipment_5_short:0 "9P163 Kornet"
- SOV_atgm_carrier_equipment_5_desc:0 "" 
- 
+ SOV_atgm_carrier_equipment_5_desc:0 ""
+
  SOV_sam_carrier_equipment_1:0 "2K12 Kub"
  SOV_sam_carrier_equipment_1_short:0 "2K12 Kub"
  SOV_sam_carrier_equipment_1_desc:0 ""
@@ -4524,9 +4529,9 @@
  SOV_groundaam_3:0 "S-200 Vega"
  SOV_groundaam_4:0 "S-300"
  SOV_groundaam_5:0 "S-300PMU-2"
- SOV_groundaam_6:0 "S-400 Triumph" 
- 
- ########## END OF SOV 
+ SOV_groundaam_6:0 "S-400 Triumph"
+
+ ########## END OF SOV
  ########## NEW YUG ARMOR
 
  YUG_lt_equipment_1:0 "T-60"
@@ -4556,7 +4561,7 @@
  YUG_mbt_equipment_3_desc:0 ""
  YUG_mbt_equipment_4:0 "T-55AI Igman"
  YUG_mbt_equipment_4_short:0 "T-55AI Igman"
- YUG_mbt_equipment_4_desc:0 "Mix of T-55 and M18 Hellcat." 
+ YUG_mbt_equipment_4_desc:0 "Mix of T-55 and M18 Hellcat."
  YUG_mbt_equipment_5:0 "SO 76 M-18 Mod"
  YUG_mbt_equipment_5_short:0 "SO 76 M-18 Mod"
  YUG_mbt_equipment_5_desc:0 "Mix of T-55 and M18 Hellcat."
@@ -4572,7 +4577,7 @@
  YUG_mbt_equipment_9:0 "M-95 Degman"
  YUG_mbt_equipment_9_short:0 "M-95 Degman"
  YUG_mbt_equipment_9_desc:0 ""
- 
+
  YUG_mechanized_equipment_2:0 "OT M-5"
  YUG_mechanized_equipment_2_short:0 "OT M-5"
  YUG_mechanized_equipment_3:0 "BTR-40"
@@ -4607,14 +4612,14 @@
  YUG_mechanized_heavy_equipment_8_short:0 "BVP M96 Vidra"
 
  YUG_mechanized_marine_equipment_1:0 "BAV-A"
- YUG_mechanized_marine_equipment_1_short:0 "BAV-A" 
+ YUG_mechanized_marine_equipment_1_short:0 "BAV-A"
  YUG_mechanized_marine_equipment_2:0 "BTR-50P"
- YUG_mechanized_marine_equipment_2_short:0 "BTR-50P" 
+ YUG_mechanized_marine_equipment_2_short:0 "BTR-50P"
  YUG_mechanized_marine_equipment_3:0 "BTR-60P"
- YUG_mechanized_marine_equipment_3_short:0 "BTR-60P" 
+ YUG_mechanized_marine_equipment_3_short:0 "BTR-60P"
  YUG_mechanized_marine_equipment_4:0 "BOV-VP"
  YUG_mechanized_marine_equipment_4_short:0 "BOV-VP"
- 
+
  YUG_motorized_equipment_1:0 "ZiS-5"
  YUG_motorized_equipment_1_short:0 "ZiS-5"
  YUG_motorized_equipment_2:0 "ZiL-151"
@@ -4626,9 +4631,9 @@
  YUG_motorized_equipment_5:0 "FAP 2228"
  YUG_motorized_equipment_5_short:0 "FAP 2228"
 
- ########### END OF NEW YUG ARMOR 
- ########### NEW YUG HELICOPTER 
- 
+ ########### END OF NEW YUG ARMOR
+ ########### NEW YUG HELICOPTER
+
  YUG_utility_helicopter_equipment_1:0 "Mil Mi-4 Hound"
  YUG_utility_helicopter_equipment_1_short:0 "Mi-4 Hound"
  YUG_utility_helicopter_equipment_2:0 "Yakovlev Yak-24 Horse"
@@ -4637,13 +4642,13 @@
  YUG_utility_helicopter_equipment_3_short:0 "Mi-8 Hip"
  YUG_utility_helicopter_equipment_4:0 "Mil Mi-8T Hip-C"
  YUG_utility_helicopter_equipment_4_short:0 "Mi-8T Hip-C"
- 
+
  YUG_cargo_helicopter_equipment_1:0 "Mil Mi-6 Hook"
  YUG_cargo_helicopter_equipment_1_short:0 "Mi-6 Hook"
  YUG_cargo_helicopter_equipment_2:0 "Mil Mi-12 Homer"
  YUG_cargo_helicopter_equipment_2_short:0 "Mi-12 Homer"
- 
- ########### END OF NEW YUG HELICOPTER 
+
+ ########### END OF NEW YUG HELICOPTER
  ########### NEW ART YUG
 
  YUG_auto_cannon_equipment_1:0 "Bofors L/70"
@@ -4658,30 +4663,30 @@
  YUG_spaag_equipment_3:0 "M53/59 Praga"
  YUG_spaag_equipment_3_short:0 "M53/59 Praga"
  YUG_spaag_equipment_4:0 "BOV-3"
- YUG_spaag_equipment_4_short:0 "BOV-3" 
+ YUG_spaag_equipment_4_short:0 "BOV-3"
 
  YUG_light_artillery_equipment_1:0 "M-30 122 mm"
- YUG_light_artillery_equipment_1_short:0 "M-30 122 mm" 
+ YUG_light_artillery_equipment_1_short:0 "M-30 122 mm"
  YUG_light_artillery_equipment_2:0 "D-74 122 mm"
  YUG_light_artillery_equipment_2_short:0 "D-74 122 mm"
  YUG_light_artillery_equipment_3:0 "2A18 D-30"
  YUG_light_artillery_equipment_3_short:0 "2A18 D-30"
  YUG_light_artillery_equipment_4:0 "2A18M D-30"
  YUG_light_artillery_equipment_4_short:0 "2A18M D-30"
- 
+
  YUG_light_sp_artillery_equipment_1:0 "SO-105 Priest"
  YUG_light_sp_artillery_equipment_1_short:0 "SO-105 Priest"
  YUG_light_sp_artillery_equipment_3:0 "SO-122 Gvozdika"
  YUG_light_sp_artillery_equipment_3_short:0 "SO-122 Gvozdika"
 
  YUG_artillery_equipment_1:0 "ML-20 152 mm"
- YUG_artillery_equipment_1_short:0 "ML-20 152 mm" 
+ YUG_artillery_equipment_1_short:0 "ML-20 152 mm"
  YUG_artillery_equipment_2:0 "H155 mm"
  YUG_artillery_equipment_2_short:0 "H155 mm"
  YUG_artillery_equipment_4:0 "Nora M-84 152 mm"
  YUG_artillery_equipment_4_short:0 "Nora M84"
  YUG_artillery_equipment_5:0 "Nora M84B2 152 mm"
- YUG_artillery_equipment_5_short:0 "Nora M84B2" 
+ YUG_artillery_equipment_5_short:0 "Nora M84B2"
 
  YUG_sp_artillery_equipment_1:0 "ISU-152"
  YUG_sp_artillery_equipment_1_short:0 "ISU-152"
@@ -4694,7 +4699,7 @@
  YUG_direct_fire_gun_equipment_1_short:0 "D-44 85 mm"
 
  YUG_medium_tank_destroyer_equipment_1:0 "SO-90 Dzekson"
- YUG_medium_tank_destroyer_equipment_1_short:0 "SO-90 Dzekson" 
+ YUG_medium_tank_destroyer_equipment_1_short:0 "SO-90 Dzekson"
 
  YUG_motorized_rocket_equipment_1:0 "BM-13 Katyusha"
  YUG_motorized_rocket_equipment_1_short:0 "Katyusha"
@@ -4705,15 +4710,15 @@
  YUG_motorized_rocket_equipment_4:0 "M-87 Orkan"
  YUG_motorized_rocket_equipment_4_short:0 "M-87 Orkan"
  YUG_motorized_rocket_equipment_5:0 "LRSVM Morava"
- YUG_motorized_rocket_equipment_5_short:0 "Morava" 
- 
+ YUG_motorized_rocket_equipment_5_short:0 "Morava"
+
  YUG_atgm_equipment_1:0 "3M6 Shmel"
  YUG_atgm_equipment_1_short:0 "3M6 Shmel"
  YUG_atgm_equipment_1_desc:0 ""
  YUG_atgm_equipment_2:0 "3M14 Malyutka"
  YUG_atgm_equipment_2_short:0 "3M14 Malyutka"
  YUG_atgm_equipment_2_desc:0 ""
- 
+
  YUG_atgm_carrier_equipment_1:0 "2P27 Sheml"
  YUG_atgm_carrier_equipment_1_short:0 "2P27 Shmel"
  YUG_atgm_carrier_equipment_1_desc:0 ""
@@ -4736,10 +4741,10 @@
 
  YUG_groundaam_1:0 "S-75 Dvina"
  YUG_groundaam_2:0 "S-125 Neva"
- 
- ########## END OF YUG 
 
- ##################### RED DRAGONS 
+ ########## END OF YUG
+
+ ##################### RED DRAGONS
 
  ########## NEW KPA ARMOR
 
@@ -4748,7 +4753,7 @@
  KPA_lt_equipment_4:0 "Type 63"
  KPA_lt_equipment_4_short:0 "Type 63"
  KPA_lt_equipment_5:0 "PT-85 M1981 Shin'heung"
- KPA_lt_equipment_5_short:0 "Shin'heung" 
+ KPA_lt_equipment_5_short:0 "Shin'heung"
 
  KPA_ht_equipment_1:0 "IS-2"
  KPA_ht_equipment_1_short:0 "IS-2"
@@ -4758,13 +4763,13 @@
  KPA_mbt_equipment_1:0 "Type 58 MBT"
  KPA_mbt_equipment_1_short:0 "Type 58 MBT"
  KPA_mbt_equipment_2:0 "T-54"
- KPA_mbt_equipment_2_short:0 "T-54" 
+ KPA_mbt_equipment_2_short:0 "T-54"
  KPA_mbt_equipment_3:0 "Type 59 MBT"
  KPA_mbt_equipment_3_short:0 "Type 59 MBT"
  KPA_mbt_equipment_4:0 "T-62"
  KPA_mbt_equipment_4_short:0 "T-62"
  KPA_mbt_equipment_5:0 "Ch'onma-ho II"
- KPA_mbt_equipment_5_short:0 "Ch'onma-ho II" 
+ KPA_mbt_equipment_5_short:0 "Ch'onma-ho II"
  KPA_mbt_equipment_6:0 "T-72"
  KPA_mbt_equipment_6_short:0 "T-72"
  KPA_mbt_equipment_7:0 "Ch'onma-ho IV"
@@ -4772,14 +4777,14 @@
  KPA_mbt_equipment_8:0 "P'okp'ung-ho I"
  KPA_mbt_equipment_8_short:0 "P'okp'ung-ho I"
  KPA_mbt_equipment_9:0 "P'okp'ung-ho V"
- KPA_mbt_equipment_9_short:0 "P'okp'ung-ho V" 
+ KPA_mbt_equipment_9_short:0 "P'okp'ung-ho V"
 
  KPA_mechanized_equipment_3:0 "Type 55"
  KPA_mechanized_equipment_3_short:0 "Type 55"
  KPA_mechanized_equipment_4:0 "BTR-152"
  KPA_mechanized_equipment_4_short:0 "BTR-152"
  KPA_mechanized_equipment_5:0 "BTR-152V"
- KPA_mechanized_equipment_5_short:0 "BTR-152V" 
+ KPA_mechanized_equipment_5_short:0 "BTR-152V"
  KPA_mechanized_equipment_6:0 "BTR-60PB"
  KPA_mechanized_equipment_6_short:0 "BTR-60PB"
  KPA_mechanized_equipment_7:0 "M1992"
@@ -4788,9 +4793,9 @@
  KPA_mechanized_equipment_8_short:0 "Chunma-D 6x6"
 
  KPA_mechanized_heavy_equipment_1:0 "BTR-40A"
- KPA_mechanized_heavy_equipment_1_short:0 "BTR-40A" 
+ KPA_mechanized_heavy_equipment_1_short:0 "BTR-40A"
  KPA_mechanized_heavy_equipment_2:0 "BTR-50PK"
- KPA_mechanized_heavy_equipment_2_short:0 "BTR-50PK" 
+ KPA_mechanized_heavy_equipment_2_short:0 "BTR-50PK"
  KPA_mechanized_heavy_equipment_3:0 "MT-LB"
  KPA_mechanized_heavy_equipment_3_short:0 "MT-LB"
  KPA_mechanized_heavy_equipment_4:0 "Korshun"
@@ -4798,8 +4803,8 @@
  KPA_mechanized_heavy_equipment_5:0 "VTT-323 M1973 Sinhung"
  KPA_mechanized_heavy_equipment_5_short:0 "Sinhung"
  KPA_mechanized_heavy_equipment_6:0 "M2009 Junma-Le"
- KPA_mechanized_heavy_equipment_6_short:0 "Junma-Le" 
- 
+ KPA_mechanized_heavy_equipment_6_short:0 "Junma-Le"
+
  KPA_mechanized_marine_equipment_1:0 "BAV-A"
  KPA_mechanized_marine_equipment_1_short:0 "BAV-A"
  KPA_mechanized_marine_equipment_2:0 "BTR-50P"
@@ -4807,41 +4812,41 @@
  KPA_mechanized_marine_equipment_3:0 "BTR-60P"
  KPA_mechanized_marine_equipment_3_short:0 "BTR-60P"
  KPA_mechanized_marine_equipment_4:0 "M2012 Chunma-D 8x8"
- KPA_mechanized_marine_equipment_4_short:0 "Chunma-D 8x8" 
+ KPA_mechanized_marine_equipment_4_short:0 "Chunma-D 8x8"
  KPA_mechanized_marine_equipment_5:0 "BTR-80A"
  KPA_mechanized_marine_equipment_5_short:0 "BTR-80A"
- 
+
  ########### END OF NEW KPA ARMOR
  ########### NEW ART KPA
- 
+
  KPA_auto_cannon_equipment_1:0 "M1939"
  KPA_auto_cannon_equipment_1_short:0 "M1939"
  KPA_auto_cannon_equipment_2:0 "ZPU-4"
  KPA_auto_cannon_equipment_2_short:0 "ZPU-4"
  KPA_auto_cannon_equipment_3:0 "ZU-23-2"
- KPA_auto_cannon_equipment_3_short:0 "ZU-23-2" 
- 
+ KPA_auto_cannon_equipment_3_short:0 "ZU-23-2"
+
  KPA_spaag_equipment_1:0 "ZSU-37"
- KPA_spaag_equipment_1_short:0 "ZSU-37" 
+ KPA_spaag_equipment_1_short:0 "ZSU-37"
  KPA_spaag_equipment_2:0 "ZSU-57-2"
  KPA_spaag_equipment_2_short:0 "ZSU-57-2"
  KPA_spaag_equipment_3:0 "ZSU-23-4"
- KPA_spaag_equipment_3_short:0 "ZSU-23-4" 
- 
+ KPA_spaag_equipment_3_short:0 "ZSU-23-4"
+
  KPA_motorized_rocket_equipment_1:0 "BM-13"
- KPA_motorized_rocket_equipment_1_short:0 "BM-13" 
+ KPA_motorized_rocket_equipment_1_short:0 "BM-13"
  KPA_motorized_rocket_equipment_2:0 "M1977"
  KPA_motorized_rocket_equipment_2_short:0 "M1997"
  KPA_motorized_rocket_equipment_3:0 "M1985"
  KPA_motorized_rocket_equipment_3_short:0 "M1985"
  KPA_motorized_rocket_equipment_4:0 "M1991"
- KPA_motorized_rocket_equipment_4_short:0 "M1991" 
+ KPA_motorized_rocket_equipment_4_short:0 "M1991"
  KPA_motorized_rocket_equipment_5:0 "KN-09"
- KPA_motorized_rocket_equipment_5_short:0 "KN-09" 
- 
- ########## END OF KPA  
+ KPA_motorized_rocket_equipment_5_short:0 "KN-09"
+
+ ########## END OF KPA
  ########## NEW PRC ARMOR
- 
+
  PRC_lt_equipment_1:0 "Chi-Ha"
  PRC_lt_equipment_1_short:0 "Chi-Ha"
  PRC_lt_equipment_2:0 "Gongchen"
@@ -4854,7 +4859,7 @@
  PRC_lt_equipment_5_short:0 "Type 63-II"
  PRC_lt_equipment_6:0 "Type 63A"
  PRC_lt_equipment_6_short:0 "Type 63A"
- 
+
  PRC_ht_equipment_1:0 "IS-2"
  PRC_ht_equipment_1_short:0 "IS-2"
  PRC_ht_equipment_2:0 "IS-3M"
@@ -4863,7 +4868,7 @@
  PRC_ht_equipment_3_short:0 "WZ-110"
  PRC_ht_equipment_4:0 "WZ-113"
  PRC_ht_equipment_4_short:0 "WZ-113"
- 
+
  PRC_mbt_equipment_0:0 "T-34-85"
  PRC_mbt_equipment_0_short:0 "T-34-85"
  PRC_mbt_equipment_1:0 "Type 58"
@@ -4894,12 +4899,12 @@
  PRC_motorized_equipment_4:0 "Shaanxi SX2150"
  PRC_motorized_equipment_4_short:0 "Shaanxi SX2150"
  PRC_motorized_equipment_5:0 "FAW MV3"
- PRC_motorized_equipment_5_short:0 "FAW MV3" 
- 
+ PRC_motorized_equipment_5_short:0 "FAW MV3"
+
  PRC_mechanized_equipment_1:0 "Type 1 Ho-Ki"
  PRC_mechanized_equipment_1_short:0 "Type 1 Ho-Ki"
  PRC_mechanized_equipment_2:0 "Type 1 Ho-Ha"
- PRC_mechanized_equipment_2_short:0 "Type 1 Ho-Ha" 
+ PRC_mechanized_equipment_2_short:0 "Type 1 Ho-Ha"
  PRC_mechanized_equipment_3:0 "Type 55"
  PRC_mechanized_equipment_3_short:0 "Type 55"
  PRC_mechanized_equipment_4:0 "Type 56"
@@ -4907,7 +4912,7 @@
  PRC_mechanized_equipment_5:0 "Type 531"
  PRC_mechanized_equipment_5_short:0 "Type 531"
  PRC_mechanized_equipment_6:0 "Type 63"
- PRC_mechanized_equipment_6_short:0 "Type 63" 
+ PRC_mechanized_equipment_6_short:0 "Type 63"
  PRC_mechanized_equipment_7:0 "Type 85"
  PRC_mechanized_equipment_7_short:0 "Type 85"
  PRC_mechanized_equipment_8:0 "WZ-523"
@@ -4931,10 +4936,10 @@
  PRC_mechanized_marine_equipment_3:0 "Type 63C"
  PRC_mechanized_marine_equipment_3_short:0 "Type 63C"
  PRC_mechanized_marine_equipment_4:0 "Type 77"
- PRC_mechanized_marine_equipment_4_short:0 "Type 77" 
+ PRC_mechanized_marine_equipment_4_short:0 "Type 77"
  PRC_mechanized_marine_equipment_5:0 "ZBD-05"
  PRC_mechanized_marine_equipment_5_short:0 "ZBD-05"
- 
+
  ########### END OF NEW PRC ARMOR
  ########### NEW ART PRC
 
@@ -4945,20 +4950,20 @@
  PRC_artillery_equipment_3:0 "Type 54 Artillery"
  PRC_artillery_equipment_3_short:0 "Type 54"
  PRC_artillery_equipment_4:0 "Type 83 Artillery"
- PRC_artillery_equipment_4_short:0 "Type 83" 
- 
+ PRC_artillery_equipment_4_short:0 "Type 83"
+
  PRC_motorized_rocket_equipment_2:0 "PHL-63"
- PRC_motorized_rocket_equipment_2_short:0 "PHL-63" 
+ PRC_motorized_rocket_equipment_2_short:0 "PHL-63"
  PRC_motorized_rocket_equipment_3:0 "PHZ-70"
  PRC_motorized_rocket_equipment_3_short:0 "PHZ-70"
  PRC_motorized_rocket_equipment_4:0 "PHL03"
  PRC_motorized_rocket_equipment_4_short:0 "PHL03"
  PRC_motorized_rocket_equipment_5:0 "PHZ-89"
  PRC_motorized_rocket_equipment_5_short:0 "PHZ-89"
- 
- ########## END OF PRC 
- 
- ##################### BLUE DRAGONS 
+
+ ########## END OF PRC
+
+ ##################### BLUE DRAGONS
 
  ########## NEW KOR ARMOR
 
@@ -4967,14 +4972,14 @@
  KOR_lt_equipment_2:0 "M24 Chaffee"
  KOR_lt_equipment_2_short:0 "M24 Chaffee"
  KOR_lt_equipment_3:0 "M41 WAlker Buldog"
- KOR_lt_equipment_3_short:0 "M41 Walker Buldog" 
- 
+ KOR_lt_equipment_3_short:0 "M41 Walker Buldog"
+
  KOR_mbt_equipment_0:0 "M4A3E8 (HVSS) Sherman"
  KOR_mbt_equipment_0_short:0 "M4A3E8"
  KOR_mbt_equipment_1:0 "M26 Pershing"
  KOR_mbt_equipment_1_short:0 "M26 Pershing"
  KOR_mbt_equipment_2:0 "M46 Patton"
- KOR_mbt_equipment_2_short:0 "M46 Patton" 
+ KOR_mbt_equipment_2_short:0 "M46 Patton"
  KOR_mbt_equipment_3:0 "M47 Patton II"
  KOR_mbt_equipment_3_short:0 "M47 Patton"
  KOR_mbt_equipment_4:0 "M48 Patton III"
@@ -4998,69 +5003,69 @@
  KOR_mechanized_equipment_8_short:0 "K200"
  KOR_mechanized_equipment_9:0 "K200A1"
  KOR_mechanized_equipment_9_short:0 "K200A1"
- 
+
  KOR_mechanized_heavy_equipment_4:0 "M113 ACAV"
- KOR_mechanized_heavy_equipment_4_short:0 "M113 ACAV" 
+ KOR_mechanized_heavy_equipment_4_short:0 "M113 ACAV"
  KOR_mechanized_heavy_equipment_6:0 "KAFV 25"
  KOR_mechanized_heavy_equipment_6_short:0 "KAFV 25"
  KOR_mechanized_heavy_equipment_7:0 "KAFV 40/50"
  KOR_mechanized_heavy_equipment_7_short:0 "KAFV 40/50"
  KOR_mechanized_heavy_equipment_8:0 "K21 IFV"
  KOR_mechanized_heavy_equipment_8_short:0 "K21"
- 
+
  KOR_mechanized_marine_equipment_3:0 "LVTP-7"
  KOR_mechanized_marine_equipment_3_short:0 "LVTP-7"
- 
+
  ########### END OF NEW KOR ARMOR
  ########### NEW ART KOR
- 
- ########## END OF KOR  
- 
+
+ ########## END OF KOR
+
  # Germany Heavy Tank
- 
+
  WGR_ht_equipment_3:0 "E-75"
  WGR_ht_equipment_3_short:0 "E-75"
- 
+
  #Super Heavy Tank
- 
+
  SOV_sht_equipment_1:0 "IS-6"
  SOV_sht_equipment_2:0 "IS-7"
  SOV_sht_equipment_3:0 "Object 279"
- 
+
  WGR_sht_equipment_1:0 "Panzer VII Löwe"
  WGR_sht_equipment_2:0 "Panzer VIII Maus"
  WGR_sht_equipment_3:0 "Panzer E-100"
  WGR_sht_equipment_4:0 "Landkreuzer P. 1000 Ratte"
- 
+
  WGR_sht_equipment_1_short:0 "Panzer VII Löwe"
  WGR_sht_equipment_2_short:0 "Panzer VIII Maus"
  WGR_sht_equipment_3_short:0 "Panzer E-100"
  WGR_sht_equipment_4_short:0 "Landkreuzer P. 1000 Ratte"
- 
+
  DDR_sht_equipment_1:0 "Panzer VIII Maus"
  DDR_sht_equipment_2:0 "Panzer VII Löwe"
  DDR_sht_equipment_3:0 "Panzer E-100"
  DDR_sht_equipment_4:0 "Landkreuzer P. 1000 Ratte"
- 
+
  DDR_sht_equipment_1_short:0 "Panzer VIII Maus"
  DDR_sht_equipment_2_short:0 "Panzer VII Löwe"
  DDR_sht_equipment_3_short:0 "Panzer E-100"
  DDR_sht_equipment_4_short:0 "Landkreuzer P. 1000 Ratte"
- 
+
  ENG_sht_equipment_1:0 "TOG-1"
  ENG_sht_equipment_2:0 "TOG-2"
  ENG_sht_equipment_3:0 "A39 Tortoise"
- 
+
  ENG_sht_equipment_1_short:0 "TOG-1"
  ENG_sht_equipment_2_short:0 "TOG-2"
  ENG_sht_equipment_3_short:0 "A39 Tortoise"
- 
+
  FRA_sht_equipment_2:0 "FCM F1"
  FRA_sht_equipment_3:0 "ARL Char C"
 
  FRA_sht_equipment_2_short:0 "FCM F1"
  FRA_sht_equipment_3_short:0 "ARL Char C"
- 
+
  JAP_sht_equipment_1:0 "O-I 100 Ton"
  JAP_sht_equipment_2:0 "O-I 120 Ton"
  JAP_sht_equipment_3:0 "ARL Char C"
@@ -5068,35 +5073,35 @@
  JAP_sht_equipment_1_short:0 "O-I 100 Ton"
  JAP_sht_equipment_2_short:0 "O-I 120 Ton"
  JAP_sht_equipment_3_short:0 "O-RO"
- 
+
  antitank:0 "Anti-Tank Infantry Equipment"
  antitank_short:0 "Anti-Tank Equipment"
  antitank_desc:0 ""
- 
+
  antitank_1:0 "Anti-Tank Infantry Equipment"
  antitank_1_short:0 "Anti-Tank Equip. I"
- 
+
  antitank_2:0 "Anti-Tank Infantry Equipment II"
  antitank_2_short:0 "Anti-Tank Equip. II"
- 
+
  antitank_3:0 "Anti-Tank Infantry Equipment III"
  antitank_3_short:0 "Anti-Tank Equip. III"
- 
+
  antitank_4:0 "Anti-Tank Infantry Equipment IV"
  antitank_4_short:0 "Anti-Tank Equip. IV"
- 
+
  antitank_5:0 "Anti-Tank Infantry Equipment V"
  antitank_5_short:0 "Anti-Tank Equip. V"
- 
+
  antitank_6:0 "Anti-Tank Infantry Equipment VI"
  antitank_6_short:0 "Anti-Tank Equip. VI"
- 
+
  antitank_7:0 "Anti-Tank Infantry Equipment VII"
  antitank_7_short:0 "Anti-Tank Equip. VII"
- 
+
  antitank_8:0 "Anti-Tank Infantry Equipment VIII"
  antitank_8_short:0 "Anti-Tank Equip. VIII"
- 
+
  USA_protection_1: "M-1952A vest + M1 helmet"
  USA_protection_1_short: "M-1952A + M1"
 
@@ -5105,13 +5110,13 @@
 
  USA_protection_3: "Outer Tactical Vest + Modular Integrated Communications Helmet"
  USA_protection_3_short: "OTV + MICH"
- 
+
  SOV_protection_1: "SN + SSh-40"
  SOV_protection_1_short: "SN + SSh-40"
 
  SOV_protection_2: "6B5-15 + STSh-81"
  SOV_protection_2_short: "6B5-15 + STSh-81"
- 
+
  SOV_protection_3: "6B45 + 6B7"
  SOV_protection_3_short: "6B45 + 6B7"
 
@@ -5125,7 +5130,7 @@
  tungsten_factory_desc:0 "This Building provides a state with"
  chromium_factory:0 "Chromium Factory"
  chromium_factory_desc:0 "This Building provides a state with"
- 
+
 ##Chemical Weapon Equipment and Tech
  chemical_weapons:0 "Chemical Weapons"
  mustard_gas:0 "Mustard Gas"
@@ -5139,14 +5144,14 @@
  chemical_weapons_3:0 "Sarin"
  chemical_weapons_4:0 "Defoilants"
  chemical_weapons_5:0 "VX"
- 
+
  ##Iran Tech
  PER_mbt_equipment_8:0 "Zulfiqar-1"
  PER_mbt_equipment_8_short:0 "Zulfiqar"
  PER_mbt_equipment_8_desc:0 ""
- 
+
  ##THINGY
- 
+
  atgm_1:0 "ATGM I"
  atgm_2:0 "ATGM II"
  atgm_3:0 "ATGM III"
@@ -5161,6 +5166,6 @@
  coastalmissile_5:0 "Anti-Ship Missile V"
  coastalmissile_6:0 "Anti-Ship Missile VI"
  coastalmissile_7:0 "Anti-Ship Missile VII"
- 
+
  cruisemissile_equipment_6:0 "Cruise Missile VI"
  cruisemissile_equipment_7:0 "Cruise Missile VII"
